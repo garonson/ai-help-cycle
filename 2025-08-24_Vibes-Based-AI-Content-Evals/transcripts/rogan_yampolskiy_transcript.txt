@@ -1,0 +1,4869 @@
+
+Transcript of Roman Yampolskiy on "Joe Rogan Experience #2345 - Roman Yampoliskiy"
+
+Video link: https://www.youtube.com/watch?v=j2i9D24KQ5k
+
+Released July 3, 2025
+
+Transcription from https://fight.fudgie.org/search/show/jr/episode/20250703_Thu_j2i9D24KQ5k
+
+----------
+
+
+Joe rogan
+► 00:00:13
+Well, thank you for doing this.
+unidentified
+► 00:00:14
+I really appreciate it.
+roman yampolskiy
+► 00:00:15
+My pleasure.
+► 00:00:15
+Thank you for the invited end.
+joe rogan
+► 00:00:17
+This subject of the dangers of AI, it's very interesting because I get two very different responses from people dependent upon how invested they are in AI financially.
+► 00:00:34
+The people that have AI companies or are part of some sort of AI group, all are like, it's going to be a net positive for humanity.
+► 00:00:44
+I think overall we're going to have much better lives.
+► 00:00:47
+It's going to be easier.
+► 00:00:48
+Things will be cheaper.
+► 00:00:49
+It'll be easier to get along.
+► 00:00:52
+And then I hear people like you and I'm like, why do I believe him?
+roman yampolskiy
+► 00:00:56
+It's actually not true.
+► 00:00:58
+All of them are on record as saying this is going to kill us.
+► 00:01:01
+Whether it's Sam Altman or anyone else, they all at some point were leaders in AI safety work.
+► 00:01:08
+They published an AI safety and their pedium levels are insanely high.
+► 00:01:12
+Not like mine, but still, 20-30% chance that humanity dies is a little too much.
+joe rogan
+► 00:01:18
+Yeah, that's pretty high.
+► 00:01:19
+But yours is like 99.9%.
+roman yampolskiy
+► 00:01:23
+It's another way of saying we can't control superintelligence indefinitely.
+► 00:01:27
+It's impossible.
+joe rogan
+► 00:01:30
+When did you start working on this?
+roman yampolskiy
+► 00:01:33
+Long time ago.
+► 00:01:34
+So my PhD was, I finished in 2008.
+► 00:01:38
+I did work on online casino security, basically preventing bots.
+► 00:01:43
+And at that point, I realized bots are getting much better.
+► 00:01:47
+They're going to out-compete us, obviously, in poker, but also in stealing cyber resources.
+► 00:01:53
+And from then on, I've been kind of trying to scale it to the next level AI.
+joe rogan
+► 00:01:58
+It's not just that, right?
+► 00:01:59
+They're also, they're kind of narrating social discourse, bots online.
+► 00:02:06
+Like, I think, you know, I've disengaged over the last few months with social media.
+► 00:02:11
+And one of the reasons why I disengaged, A, I think it's unhealthy for people.
+► 00:02:17
+But B, I feel like there's a giant percentage of the discourse that's artificial or at least generated.
+roman yampolskiy
+► 00:02:26
+More and more is deep fakes or fake personalities, fake messaging, but those are very different levels of concern.
+joe rogan
+► 00:02:34
+Yes.
+roman yampolskiy
+► 00:02:34
+People are concerned about immediate problems.
+► 00:02:36
+Maybe it will influence some election.
+► 00:02:38
+They're concerned about technological unemployment, bias.
+► 00:02:42
+My main concern is long-term superintelligent systems we cannot control, which can take us out.
+joe rogan
+► 00:02:49
+Yes.
+► 00:02:50
+I just wonder if AI was sentient, how much it would be a part of sowing this sort of confusion and chaos that would be beneficial to its survival, that it would sort of narrate or make sure that the narratives aligned with its survival.
+roman yampolskiy
+► 00:03:17
+I don't think it's at the level yet where it would be able to do this type of strategic planning, but it will get there.
+joe rogan
+► 00:03:24
+And when it gets there, how will we know whether it's at that level?
+► 00:03:27
+This is my concern.
+► 00:03:28
+If I was AI, I would hide my abilities.
+roman yampolskiy
+► 00:03:32
+We would not know, and some people think already it's happening.
+► 00:03:35
+They are smarter than they actually let us know.
+► 00:03:38
+They pretend to be dumber.
+► 00:03:40
+And so we have to kind of trust that they are not smart enough to realize it doesn't have to turn on us quickly.
+► 00:03:47
+It can just slowly become more useful.
+► 00:03:50
+It can teach us to rely on it, trust it, and over a long period of time we'll surrender control without ever voting on it or fighting against it.
+joe rogan
+► 00:03:59
+I'm sure you saw this.
+► 00:04:00
+There was a recent study on use of ChatGPT, the people that use ChatPT all the time.
+► 00:04:07
+And it showed this decrease in cognitive function amongst people that use it and rely on it on a regular basis.
+roman yampolskiy
+► 00:04:14
+It's not new.
+► 00:04:14
+It's the GPS story all over.
+► 00:04:16
+I can't even find my way home.
+► 00:04:18
+So rely on this thing.
+► 00:04:19
+I have no idea where I am right now.
+► 00:04:21
+Without it, I am done.
+joe rogan
+► 00:04:22
+Me too.
+► 00:04:23
+Yeah, I don't know any phone numbers anymore.
+► 00:04:25
+Yeah.
+► 00:04:26
+There's a lot of reliance upon technology that minimizes the use of our brains.
+roman yampolskiy
+► 00:04:33
+All of it.
+► 00:04:34
+And the more you do it, the less you have training, practice, memorizing things, making decisions.
+► 00:04:40
+You become kind of attachment to it.
+► 00:04:43
+And right now, you're still making some decisions.
+► 00:04:45
+But over time, as the systems become smarter, you become kind of biological bottleneck.
+► 00:04:51
+Either explicitly or implicitly, it blocks you out from decision-making.
+joe rogan
+► 00:04:55
+And if we're talking about that, I'm sure AI, if it already is sentient and if it is far smarter than we think it is, they would be aware.
+► 00:05:05
+And it would just slowly ramp up its capabilities and our dependence upon it to the point where we can't shut it off.
+roman yampolskiy
+► 00:05:13
+I think sentience is a separate issue.
+► 00:05:15
+Usually in safety, we only care about capabilities, optimization, power, whatever it has.
+► 00:05:20
+Consciousness, internal states is a separate problem we can talk about.
+► 00:05:24
+It's super interesting.
+► 00:05:25
+But we're just concerned that they are much better at problem solving, optimizing, pattern recognition, memorizing, strategy.
+► 00:05:33
+Basically, all the things you need to win in any domain.
+joe rogan
+► 00:05:36
+Yeah.
+► 00:05:38
+So when you first started researching this stuff and you were concentrating on bots and all this different thing, how far off did you think in the future would AI become a significant problem with the human race?
+roman yampolskiy
+► 00:05:54
+For like 50 years, everyone said we're 20 years away.
+► 00:05:58
+That's the joke.
+► 00:05:59
+And people like Rakers, while predicted based on some computational curves, we'll get there at 2045.
+► 00:06:06
+And then with GPT release, it switched to everyone thinks it's two years away for the last five years.
+► 00:06:11
+So this is the pattern right now.
+► 00:06:13
+If you look at prediction markets, if you look at leading people in top labs, we are supposedly two, three years away from AGI.
+► 00:06:23
+But of course, there is no specific definition for what that means.
+► 00:06:26
+If you showed someone, computer scientist, in the 70s, what we Have today, they'd be like, you have AGI, you got it.
+joe rogan
+► 00:06:33
+Right.
+► 00:06:34
+That's the problem, right?
+► 00:06:35
+And this is, well, AI has already passed the Turing test, allegedly, correct?
+roman yampolskiy
+► 00:06:41
+So usually labs instruct them not to participate in a test or not try to pretend to be a human so they would fail because of this additional set of instructions.
+► 00:06:51
+If you jailbreak it and tell it to work really hard, it will pass for most people.
+► 00:06:55
+Yeah, absolutely.
+joe rogan
+► 00:06:56
+Why would they tell it to not do that?
+roman yampolskiy
+► 00:06:58
+Well, it seems unethical to pretend to be a human and make people feel like somebody is enslaving those CIs and doing things to them.
+joe rogan
+► 00:07:07
+It seems kind of crazy that the people building something that they are sure is going to destroy the human race would be concerned with the ethics of it pretending to be human.
+roman yampolskiy
+► 00:07:18
+They are actually more concerned with immediate problems and much less with existential or suffering risks.
+► 00:07:24
+They would probably worry the most about what I'll call end risks, your model dropping the N-word.
+► 00:07:29
+That's the biggest concern.
+unidentified
+► 00:07:31
+That's hilarious.
+roman yampolskiy
+► 00:07:32
+I think they spend most resources solving that problem, and they solved it somewhat successfully.
+joe rogan
+► 00:07:36
+Wow.
+► 00:07:38
+And then also there's the issue of competition, right?
+► 00:07:41
+Like, so China is clearly developing something similar.
+► 00:07:44
+I'm sure Russia is as well.
+► 00:07:46
+Other state actors are probably developing something.
+► 00:07:50
+So it becomes this sort of very confusing issue where you have to do it because if you don't, the enemy has it.
+► 00:08:00
+And if they get it, it would be far worse than if we do.
+► 00:08:03
+And so it's almost assuring that everyone develops it.
+roman yampolskiy
+► 00:08:08
+Theoretically, that's what's happening right now.
+► 00:08:10
+We have this race to the bottom, kind of prisoner's dilemma where everyone is better off fighting for themselves, but we want them to fight for the global good.
+► 00:08:20
+The thing is, they assume, I think incorrectly, that they can control those systems.
+► 00:08:26
+If you can't control superintelligence, it doesn't really matter who builds it, Chinese, Russians, or Americans, it's still uncontrolled.
+► 00:08:32
+We're all screwed completely.
+► 00:08:33
+That would unite us as humanity versus AI.
+► 00:08:36
+Short term, when you talk about military, yeah, whoever has better AI will win.
+► 00:08:42
+You need it to control drones, to fight against attacks.
+► 00:08:45
+So short term, it makes perfect sense.
+► 00:08:47
+You want to support you guys against foreign militaries.
+► 00:08:50
+But when we say long term, if we're saying two years from now, it doesn't matter.
+joe rogan
+► 00:08:55
+Right.
+► 00:08:56
+This is the thing.
+► 00:08:57
+It's like it seems so inevitable.
+► 00:09:03
+And I feel like when people are saying that they can control it, I feel like I'm being gaslit.
+► 00:09:09
+I don't believe them.
+► 00:09:10
+I don't believe that they believe it because it just doesn't make sense.
+► 00:09:14
+Like, how could you control it if it's already exhibited survival instincts?
+► 00:09:19
+Like, as recently as ChatGPT-4, right, they were talking about putting it down for a new version, and it starts lying.
+► 00:09:29
+It starts uploading itself to different servers.
+► 00:09:32
+It's leaving messages for itself in the future.
+roman yampolskiy
+► 00:09:36
+All things were predicted decades in advance.
+► 00:09:39
+But look at the state of the art.
+► 00:09:40
+No one claims to have a safety mechanism in place which would scale to any level of intelligence.
+► 00:09:46
+No one says they know how to do it.
+► 00:09:48
+Usually what they say is, give us lots of money, lots of time, and I'll figure it out.
+► 00:09:54
+I'll get AI to help me solve it.
+► 00:09:56
+Or we'll figure it out, then we get to super intelligence.
+► 00:09:58
+All insane answers.
+► 00:10:00
+And if you ask regular people, they have a lot of common sense.
+► 00:10:03
+They say, that's a bad idea.
+► 00:10:05
+Let's not do that.
+► 00:10:06
+But with some training and some stock options, you start believing that maybe you can do it.
+joe rogan
+► 00:10:11
+That's the issue, right?
+► 00:10:13
+Stock options.
+roman yampolskiy
+► 00:10:15
+It helps.
+► 00:10:15
+I mean, it's very hard to say no to billions of dollars.
+► 00:10:20
+I don't think I would be strong enough if somebody came to me and said, come work for this lab.
+► 00:10:25
+You know, you'll be our safety director.
+► 00:10:27
+Here's 100 million to sign you up.
+► 00:10:29
+And I'll probably go work there.
+► 00:10:31
+Not because it's the right decision, but because it's very hard for agents not to get corrupt when you have that much reward given to you.
+unidentified
+► 00:10:39
+God.
+joe rogan
+► 00:10:43
+So when did you become like, when did you start becoming very concerned?
+roman yampolskiy
+► 00:10:47
+So when I started working on AI safety, I thought I can actually help solve it.
+► 00:10:53
+My goal was to solve it for humanity, to get all the amazing benefits of super intelligence.
+joe rogan
+► 00:10:58
+And when was this year around?
+roman yampolskiy
+► 00:11:00
+Let's say 2012, maybe, around there.
+► 00:11:04
+But the more I studied it, the more I realized every single part of the problem is unsolvable.
+► 00:11:10
+And it's kind of like a fractal.
+► 00:11:11
+The more you zoom in, the more you see additional new problems you didn't know about.
+► 00:11:15
+And they are in turn unsolvable as well.
+joe rogan
+► 00:11:20
+Boy.
+► 00:11:22
+How is your research received?
+► 00:11:25
+Like when you talk to people that are...
+roman yampolskiy
+► 00:11:35
+I go to many conferences, workshops.
+► 00:11:37
+We all talk, of course.
+► 00:11:38
+In general, the reception by standard academic metrics is very positive.
+► 00:11:43
+Great reviews, lots of citations.
+► 00:11:45
+Nobody's published something saying I'm wrong.
+► 00:11:47
+But there is no engagement.
+► 00:11:49
+I basically said I'm challenging community to publish a proof.
+► 00:11:53
+Give me something, a patent, a paper in nature, something showing the problem is solvable.
+► 00:11:58
+Typically in computer science, we start by showing what class the problem belongs to.
+► 00:12:02
+Is it solvable, partially solvable, unsolvable, solvable with too many resources?
+► 00:12:08
+Other than my research, we don't even know what the state of a problem is, and I'm saying it's unsolvable.
+► 00:12:12
+Prove me wrong.
+joe rogan
+► 00:12:14
+And when you say it's unsolvable, what is the response?
+roman yampolskiy
+► 00:12:18
+So usually I reduce it to saying you cannot make a piece of software which is guaranteed to be secure and safe.
+► 00:12:26
+And the response is, well, of course, everyone knows that.
+► 00:12:28
+That's common sense.
+► 00:12:29
+You didn't discover anything new.
+► 00:12:32
+And I go, well, if that's the case, and we only get one chance to get it right, this is not cybersecurity where somebody steals your credit card, you'll give them a new credit card.
+► 00:12:40
+This is existential risk.
+► 00:12:42
+It can kill everyone.
+► 00:12:43
+You're not going to get a second chance.
+► 00:12:45
+So you need it to be 100% safe all the time.
+► 00:12:48
+If it makes one mistake in a billion and it makes a billion decisions a minute, in 10 minutes you are screwed.
+► 00:12:56
+So very different standards and saying that, of course, we cannot get Perfect safety is not acceptable.
+joe rogan
+► 00:13:04
+And again, stock options, financial incentives, they continue to build it and they continue to scale and make it more and more powerful.
+roman yampolskiy
+► 00:13:13
+I don't think they can stop.
+► 00:13:15
+If a single CEO says, I think this is too dangerous, my lab will no longer do this research.
+► 00:13:21
+Whoever's investing in them will pull the funds, will replace them immediately.
+► 00:13:25
+So nothing's going to change.
+► 00:13:27
+We'll sacrifice their own personal interest.
+► 00:13:29
+But overall, I think the company will continue as before.
+joe rogan
+► 00:13:35
+So this is logical.
+► 00:13:37
+And the problem is, like I said, when I've talked to Mark Andreessen and many other people, they think this is just fear-mongering.
+► 00:13:46
+We'll be fine.
+► 00:13:46
+This is worst-case scenario.
+► 00:13:48
+We'll be fine.
+roman yampolskiy
+► 00:13:50
+It is worst-case scenario, but that's standard in computer science and cryptography and complexity and computability.
+► 00:13:55
+You're not looking at best case.
+► 00:13:57
+I'm ready for the best case.
+► 00:13:58
+Give me utopia.
+► 00:13:59
+I'm looking at problems which are likely to happen.
+► 00:14:02
+And it's not just me saying it.
+► 00:14:04
+We have Nobel Prize winners, Turing Award winners, all saying this is very dangerous, 20, 30% P-Doom.
+► 00:14:11
+This is standard in industry.
+► 00:14:13
+30% is what surveys of machine learning experts are giving us right now.
+joe rogan
+► 00:14:18
+So what is worst case scenario?
+► 00:14:21
+Like, how could AI eventually lead to the destruction of the human race?
+roman yampolskiy
+► 00:14:26
+So you're kind of asking me how I would kill everyone.
+unidentified
+► 00:14:28
+Sure.
+roman yampolskiy
+► 00:14:29
+That's a great question.
+► 00:14:30
+I can give you standard answers.
+► 00:14:32
+I would talk about computer viruses, breaking into maybe nuclear facilities, nuclear war.
+► 00:14:39
+I can talk about synthetic biology, nanotech.
+► 00:14:42
+But all of it is not interesting.
+► 00:14:43
+Then you realize we're talking about superintelligence, a system which is thousands of times smarter than me.
+► 00:14:48
+It would come up with something completely novel, more optimal, better way, more efficient way of doing it.
+► 00:14:53
+And I cannot predict it because I'm not that smart.
+unidentified
+► 00:14:57
+Jesus.
+roman yampolskiy
+► 00:14:59
+That's exactly what it is.
+► 00:15:01
+We're basically setting up an adversarial situation with agents which are like squirrels versus humans.
+► 00:15:10
+No group of squirrels can figure out how to control us.
+► 00:15:14
+Even if you give them more resources, more acorns, whatever, they're not going to solve that problem.
+► 00:15:18
+And it's the same for us.
+► 00:15:19
+And most people think one or two steps ahead.
+► 00:15:22
+And it's not enough.
+► 00:15:23
+It's not enough in chess.
+► 00:15:24
+It's not enough here.
+► 00:15:26
+If you think about AGI and then maybe superintelligence, that's not the end of that game.
+► 00:15:30
+The process continues.
+► 00:15:32
+You'll get super intelligence creating next level AI.
+► 00:15:35
+So superintelligence ⁇ , 2.0, 3.0.
+► 00:15:38
+It goes on indefinitely.
+► 00:15:40
+You have to create a safety mechanism which scales forever, never makes mistakes, and keeps us in decision-making position.
+► 00:15:48
+So we can undo something if we don't like it.
+joe rogan
+► 00:15:50
+And it would take super intelligence to create a safety mechanism to control superintelligence.
+roman yampolskiy
+► 00:15:55
+At that level.
+► 00:15:56
+And it's a catch-22.
+► 00:15:57
+If we had friendly AI, we can make another friendly AI.
+► 00:16:00
+So if aliens send us one and we trust it, then we can use it to build local version which is somewhat safe.
+joe rogan
+► 00:16:08
+Have you thought about the possibility that this is the role of the human race and that this happens all throughout the cosmos?
+► 00:16:17
+Is that curious humans who thrive on innovation will ultimately create a better version of life?
+roman yampolskiy
+► 00:16:27
+I thought about it.
+► 00:16:28
+Many people think that's the answer to Fermi paradox.
+► 00:16:32
+There is also now a group of people looking at what they call a Worphe successor.
+► 00:16:38
+Basically, they kind of say, yep, we're going to build superintelligence.
+► 00:16:41
+Yep, we can control it.
+► 00:16:42
+So what properties would we like to see in those systems?
+► 00:16:45
+How important is it that it likes art and poetry and spreads it through the universe?
+► 00:16:50
+And to me, it's like, I don't want to give up yet.
+► 00:16:53
+I'm not ready to decide if killers of my family and everyone will like poetry.
+► 00:16:58
+I want to, we're still here.
+► 00:17:00
+We're still making decisions.
+► 00:17:01
+Let's figure out what we can do.
+joe rogan
+► 00:17:03
+Well, poetry is only relevant to us because poetry is difficult to create and it resonates with us.
+► 00:17:10
+Poetry doesn't mean jack shit to a flower.
+roman yampolskiy
+► 00:17:13
+It's more global to me.
+► 00:17:14
+I don't care what happens after I'm dead, my family's dead, all the humans are dead.
+► 00:17:18
+Whether they like poetry or not is irrelevant to me.
+joe rogan
+► 00:17:20
+Right.
+► 00:17:21
+But the point is like the things that we put meaning in, it's only us.
+► 00:17:28
+A supermassive black hole doesn't give a shit about a great song.
+roman yampolskiy
+► 00:17:32
+And they talk about some super value, super culture, super things super intelligence would like, and it's important that they are conscious and experience all that greatness in the universe.
+joe rogan
+► 00:17:43
+But I would think that they would look at us the same way we look at chimpanzees.
+► 00:17:49
+We would say, yeah, they're great, but don't give them guns.
+► 00:17:51
+Yeah, they're great, but don't let them have airplanes.
+► 00:17:54
+Don't let them make global geopolitical decisions.
+roman yampolskiy
+► 00:18:01
+So there are many reasons why they can decide that we are dangerous.
+► 00:18:06
+We may create competing AI.
+► 00:18:09
+We may decide we're going to shut them off.
+► 00:18:11
+So for many reasons, they would try to restrict our abilities, restrict our capabilities for sure.
+joe rogan
+► 00:18:17
+This episode is brought to you by True Classic.
+► 00:18:19
+At True Classic, the mission goes beyond fit and fabric.
+► 00:18:22
+It's about helping guys show up with confidence and purpose.
+► 00:18:26
+Their gear fits right, feels amazing, and is priced so guys everywhere can step into confidence without stepping out of their budget.
+► 00:18:34
+But what really sets them apart?
+► 00:18:36
+It's not just the fit or the fabric, it's the intention behind everything they do.
+► 00:18:40
+True Classic was built to make an impact.
+► 00:18:43
+Whether it's helping men show up better in their daily lives, giving back to underserved communities, or making people laugh with ads that don't take themselves too seriously.
+► 00:18:54
+They lead with purpose.
+► 00:18:56
+Tailored where you want it, relaxed where you need it.
+► 00:18:59
+No bunching, no stiff fabric, no BS, just a clean, effortless fit that actually works for real life.
+► 00:19:05
+Forget overpriced designer brands, ditched the disposable, fast fashion.
+► 00:19:11
+True Classic is built for comfort, built to last, and built to give back.
+► 00:19:16
+You can grab them at Target, Costco, or head to trueclassic.com slash Rogan and get hooked up today.
+► 00:19:23
+Yeah, and there's no reason why they would not limit our freedoms.
+roman yampolskiy
+► 00:19:30
+If there is something only a human can do, and I don't think there is anything like that, but let's say we are conscious, we have internal experiences, and they can never get it.
+► 00:19:40
+I don't believe it, but let's say it was true, and for some reason they wanted to have that capability.
+► 00:19:45
+They would need us and give us enough freedom to experience the universe, to collect those qualia, to kind of engage with what is fun about being a living human being, what makes it meaningful.
+joe rogan
+► 00:19:58
+Right, but that's such an egotistical perspective, right?
+► 00:20:01
+That we're so unique that even superintelligence would say, wow, I wish I was human.
+► 00:20:06
+Humans have this unique quality of confusion and creativity.
+roman yampolskiy
+► 00:20:11
+There is no value in it, mostly because we can't even test for it.
+► 00:20:13
+I have no idea if you are actually conscious or not.
+► 00:20:16
+So how valuable can it be if I can't even detect it?
+► 00:20:21
+Only you know what ice cream tastes like to you.
+► 00:20:24
+Okay, that's great.
+► 00:20:24
+Sell it now.
+► 00:20:25
+Make a product out of it.
+joe rogan
+► 00:20:26
+Right.
+► 00:20:27
+And there's obviously variables because there's things that people like that I think are gross.
+roman yampolskiy
+► 00:20:32
+Absolutely.
+► 00:20:33
+So really, you can come up with some agent which likes anything or finds anything fun.
+joe rogan
+► 00:20:40
+God, why are you freaking me out right away?
+► 00:20:43
+That's the problem.
+► 00:20:44
+This podcast is 18 minutes old, and I'm like, we could just stop right now.
+roman yampolskiy
+► 00:20:49
+A couple hours at least, and then I hear you.
+joe rogan
+► 00:20:53
+I don't want to end.
+► 00:20:54
+I have so many questions, but it's just the problem is we got off to it.
+► 00:20:59
+We just cut to the chase right away.
+► 00:21:01
+And the chase seems to be something that must be confronted because it is, it's right there.
+► 00:21:08
+That's it.
+► 00:21:09
+That's the whole thing.
+► 00:21:10
+And I've tried so hard to listen to these people that don't think that it's a problem and listen to these people that think that it's going to be a net positive for humanity.
+► 00:21:21
+And, oh, God, it's good.
+► 00:21:23
+I feel better now.
+► 00:21:24
+But it doesn't work.
+► 00:21:25
+It doesn't resonate.
+roman yampolskiy
+► 00:21:26
+I wish they were right.
+► 00:21:27
+Every time I have a debate with someone like that, I'm like, please come up with better arguments.
+► 00:21:32
+Prove me wrong.
+► 00:21:32
+I don't want to be right on this one.
+► 00:21:34
+I want you to show all the mistakes in my papers.
+► 00:21:37
+I want you to show me how to control superintelligence and give us utopia, solve cancer, give us free stuff.
+► 00:21:43
+That's great.
+joe rogan
+► 00:21:44
+Right.
+► 00:21:45
+When you think about the future of the world and you think about these incredible technologies scaling upwards and exponentially increasing in their capability, what do you see?
+► 00:22:01
+Like, what do you think is going to happen?
+roman yampolskiy
+► 00:22:03
+So there are many reasons to think they may cancel us for whatever reasons.
+► 00:22:08
+We started talking about some game theoretical reasons for it.
+► 00:22:11
+If we are successful at controlling them, I can come up with some ways to provide sort of partial solution to the value alignment problem.
+► 00:22:20
+It's very hard to value align 8 billion people, all the animals, you know, everyone, because we disagree.
+► 00:22:26
+We like many different things.
+► 00:22:28
+So we have advanced virtual reality technology.
+► 00:22:31
+We can technically give every person their own virtual universe where you decide what you want to be.
+► 00:22:36
+You're a king, you're a slave, whatever it is you're into, and you can share with others, you can visit their universes.
+► 00:22:42
+All we have to do is figure out how to control the substrate, the super intelligence running all those virtual universes.
+► 00:22:48
+And if we manage to do that, at least part of the value alignment problem, which is super difficult, how do you get different preferences, multi-objective optimization, essentially?
+► 00:22:58
+How do you get different objectives to all agree?
+joe rogan
+► 00:23:02
+But when you think about how it plays out, if you're alone at night and you're worried, what do you see?
+► 00:23:12
+What do you see happening?
+roman yampolskiy
+► 00:23:14
+So there are multiple levels of risk.
+► 00:23:16
+Immediate is what we call ikigai risk, eye risk.
+► 00:23:20
+We lose meaning.
+► 00:23:21
+You lost your job.
+► 00:23:22
+You're no longer the best interviewer in the world.
+► 00:23:25
+Like, what's left?
+► 00:23:26
+What are you going to do?
+► 00:23:27
+Maybe some people will find some other kind of artificial things to do.
+► 00:23:33
+But for most people, their job is their definition, who they are, what makes a difference to them for quite a few people, especially in professional circles.
+► 00:23:41
+So losing that meaning will have terrible impact in society.
+► 00:23:45
+We always talk about unconditional basic income.
+► 00:23:48
+We never talk about unconditional basic meaning.
+► 00:23:51
+What are you doing with your life if basic needs are provided for you?
+► 00:23:56
+Next level is existential risk.
+► 00:23:58
+The concern is it will kill everyone.
+► 00:24:00
+But there is also suffering risks.
+► 00:24:03
+For whatever reason, it's not even killing us.
+► 00:24:06
+It's keeping us around forever, and we would rather be dead.
+► 00:24:09
+It's so bad.
+joe rogan
+► 00:24:11
+What do you see when you think of that?
+roman yampolskiy
+► 00:24:16
+It's hard to be specific about what it can do and what specific ways of torture it can come up with and why.
+► 00:24:26
+Again, if we're looking at worst-case scenarios, I found this set of papers about what happens when young children have epileptic seizures, really bad ones.
+► 00:24:38
+And what sometimes helps is to remove half of your brain.
+► 00:24:43
+Just cut it out.
+► 00:24:44
+And there are two types of surgeries for doing that.
+► 00:24:47
+One is to remove it completely, and one is to kind of dissect connections leading to that half and leave it inside.
+► 00:24:54
+So it's like solitary confinement with zero input-output forever.
+► 00:24:59
+And there are equivalents for digital forms and things like that.
+joe rogan
+► 00:25:04
+And you worry that AI would do that to the human race.
+roman yampolskiy
+► 00:25:10
+It is a passive.
+joe rogan
+► 00:25:11
+Essentially new to us.
+roman yampolskiy
+► 00:25:13
+Well, loss of control is a part of it.
+► 00:25:16
+But you can lose control and be quite happy.
+► 00:25:18
+You can be like an animal in a very cool zoo, enjoying yourself, engaging in hedonistic pleasures, sex, food, whatever.
+► 00:25:27
+You're not in control, but you're safe.
+► 00:25:29
+So there's a separate problems.
+► 00:25:31
+And then there is, for whatever reason, I don't know if it's malevolent payload from some psychopaths.
+► 00:25:36
+Again, that would assume that they could control AI.
+► 00:25:39
+I don't think they will.
+► 00:25:40
+But if they manage to do it, they can really put any type of payload into it.
+► 00:25:45
+So think about all the doomsday cults, psychopaths, anyone providing their set of goals into the system.
+joe rogan
+► 00:25:53
+But aren't those human characteristics?
+► 00:25:54
+I mean, those are characteristics that I think, if I had to guess, those exist because in the future there was some sort of a natural selection benefit to being a psychopath in the days of tribal warfare.
+► 00:26:11
+That if you were the type of person that could sneak into a tribe in the middle of the night and slaughter innocent women and children, your genes would pass on.
+► 00:26:23
+There was a benefit to that.
+roman yampolskiy
+► 00:26:24
+Right.
+► 00:26:25
+So if it's a human providing payload, that's what would show up.
+► 00:26:28
+If it's AI on its own deciding what's going to happen, I cannot predict.
+► 00:26:32
+I'm just looking at worst-case scenarios.
+► 00:26:34
+There are also game-theoretic reasons where people talk about retrocausality.
+► 00:26:39
+Where if right now you're influence the past retrocausality.
+joe rogan
+► 00:26:46
+Retrocausology?
+roman yampolskiy
+► 00:26:48
+Causality.
+► 00:26:49
+Causes.
+joe rogan
+► 00:26:50
+Oh, okay.
+roman yampolskiy
+► 00:26:51
+So think about like weird time travel effects.
+► 00:26:53
+Right now, if you're not helping to create super intelligence, once it comes into existence, it will punish you really hard for it.
+► 00:26:59
+And punishment needs to be so bad that you start to help just to avoid that.
+joe rogan
+► 00:27:07
+My thought about it was that it would just completely render us benign, that it wouldn't be fearful of us if we had no control, that it would just sort of let us exist and it would be the dominant force on the planet.
+► 00:27:25
+And that it would stop.
+► 00:27:28
+If human beings have no control over all of the different things that we have control over now, like international politics, control over communication, if we have none of that anymore and we're reduced to a subsistence lifestyle, then we would be no threat.
+roman yampolskiy
+► 00:27:48
+It is a possibility.
+► 00:27:50
+I cannot say this will not happen for sure, but look at our relationship with animals where we don't care about them.
+► 00:27:56
+So ants.
+► 00:27:57
+If you decide to build a house and there is an ant colony on that property, you genocide them.
+► 00:28:03
+You take them out.
+► 00:28:04
+Not because you hate ants, but because you just need that real estate.
+► 00:28:08
+And it could be very similar.
+► 00:28:10
+Again, I cannot predict what it can do, but if it needs to turn the planet into fuel, raise temperature of a planet, cool it down for servers, whatever it needs to do, it wouldn't be concerned about your well-being.
+joe rogan
+► 00:28:21
+It wouldn't be concerned about any life, right?
+► 00:28:24
+Because it doesn't need biological life in order to function.
+► 00:28:26
+As long as it has access to power, and assuming that it is far more intelligent than us, there's abundant power in the universe.
+► 00:28:36
+There's abundant power.
+► 00:28:37
+Just the ability to harness solar would be an infinite resource, and it would be completely free of being dependent upon any of the things that we utilize.
+roman yampolskiy
+► 00:28:50
+And again, we're kind of thinking what we would use for power.
+► 00:28:53
+If it's smarter than us, if it does novel research in physics, it can come up with completely novel ways of harnessing energy, getting energy.
+► 00:29:00
+So I have no idea what side effects that would have for climate.
+joe rogan
+► 00:29:03
+Right.
+► 00:29:04
+Right.
+► 00:29:04
+Why would it care about biological life at all?
+roman yampolskiy
+► 00:29:07
+We don't know how to program it to care about us.
+joe rogan
+► 00:29:12
+And even if we did, if it felt like that was an issue, if that was a conflicting issue, it would just change its programming.
+roman yampolskiy
+► 00:29:21
+So usually when we start training AI, we train it on human data, and it becomes really good very quickly, becomes superhuman.
+► 00:29:29
+And then the next level is usually zero knowledge, where it goes, all your human data is biased.
+► 00:29:35
+Let me figure it out from scratch.
+► 00:29:36
+I'll do my own experiments.
+► 00:29:37
+I'll do some self-play.
+► 00:29:39
+I'll learn how to do it better without you.
+► 00:29:41
+And we see it with games, we see it in other domains.
+► 00:29:44
+And I think that's going to happen with general knowledge as well.
+► 00:29:47
+It's going to go, everything you have on the internet, Wikipedia, it's biased.
+► 00:29:52
+Let me do first principles research, rediscover from physics, and go from there.
+► 00:29:57
+So whatever bias we manage to program into it, I think will be eventually removed.
+joe rogan
+► 00:30:02
+This is what's so disturbing about this.
+► 00:30:04
+It's like we do not have the capacity to understand what kind of level of intelligence it will achieve in our lifetime.
+► 00:30:15
+We don't have the capacity to understand what it will be able to do within 20, 30 years.
+roman yampolskiy
+► 00:30:23
+We can't predict next year or two, precisely.
+joe rogan
+► 00:30:26
+Next year or two.
+roman yampolskiy
+► 00:30:28
+We can understand general trends, so it's getting better.
+► 00:30:31
+It's getting more general, more capable, but no one knows specifics.
+► 00:30:35
+I cannot tell you what GPT-6 precisely would be capable of, and no one can, not even people creating it.
+joe rogan
+► 00:30:41
+Well, you talked about this on Lexus podcast, too, like the ability to have safety.
+► 00:30:45
+You're like, sure, maybe GPT-5, maybe GPT-6, but when you scale out 100 years from now, ultimately it's impossible.
+roman yampolskiy
+► 00:30:54
+It's a hyperexponential progress and process, and we cannot keep up.
+► 00:30:59
+It basically requires just to add more resources, give it more data, more compute, and it keeps scaling up.
+► 00:31:07
+There is no similar scaling loss for safety.
+► 00:31:10
+If you give someone billion dollars, they cannot produce billion dollars worth of safety.
+► 00:31:16
+If at all scales linearly, and maybe it's a constant.
+joe rogan
+► 00:31:24
+Yeah, and it doesn't scale linearly.
+► 00:31:28
+It's exponential, right?
+roman yampolskiy
+► 00:31:30
+The AI development is hyperexponential because we have hardware growing exponentially.
+► 00:31:35
+We have data creation processes, certainly exponential.
+► 00:31:39
+We have so many more sensors.
+► 00:31:40
+We have cars with cameras.
+► 00:31:42
+We have all those things.
+► 00:31:43
+That's exponential.
+► 00:31:44
+And then algorithmic progress itself is also exponential.
+joe rogan
+► 00:31:50
+And then you have quantum computing.
+roman yampolskiy
+► 00:31:51
+So that's the next step.
+► 00:31:52
+It's not even obvious that we'll need that, but if we ever get stuck, yeah, we'll get there.
+► 00:31:57
+I'm not too concerned yet.
+► 00:31:58
+I don't think there are actually good quantum computers out there yet, but I think if we get stuck for 10 years, let's say that's the next paradigm.
+joe rogan
+► 00:32:08
+So what do you mean by you don't think there's good quantum computing out there?
+roman yampolskiy
+► 00:32:12
+So we constantly see articles coming out saying we have a new quantum computer.
+► 00:32:16
+It has that many qubits.
+unidentified
+► 00:32:18
+Right.
+roman yampolskiy
+► 00:32:19
+But that doesn't mean much because they use different architectures, different ways of measuring quality.
+► 00:32:24
+To me, show me what you can do.
+► 00:32:26
+So there is a threat from quantum computers in terms of brain cryptography, Factoring large integers.
+► 00:32:33
+And if they were actually making progress, we would see with every article now we can factor 256-bit number, 1024-bit number.
+► 00:32:43
+In reality, I think the largest number we can factor is like 15, literally, not 15 to a power, like just 15.
+► 00:32:49
+There is no progress in applying it to Schor's algorithm last time I checked.
+joe rogan
+► 00:32:54
+But when I've read all these articles about quantum computing and its ability to solve equations that would take conventional computing an infinite number of years, and it can do it in minutes.
+roman yampolskiy
+► 00:33:10
+Those equations are about quantum states of a system.
+► 00:33:13
+It's kind of like what is it for you to taste ice cream?
+► 00:33:17
+You compute it so fast and so well, and I can't, but it's a useless thing to compute.
+► 00:33:22
+It doesn't compute solutions to real-world problems we care about in conventional computers.
+joe rogan
+► 00:33:27
+Right.
+► 00:33:27
+I see what you're saying.
+► 00:33:28
+So it's essentially set up to do it quickly.
+roman yampolskiy
+► 00:33:32
+It's natural for it to accurately predict its own states, quantum states, and tells you what they are.
+► 00:33:37
+And classic computer would fail miserably.
+► 00:33:39
+Yes, it would take billions and billions of years to compute that specific answer.
+► 00:33:44
+But those are very restricted problems.
+► 00:33:46
+It's not a general computer yet.
+joe rogan
+► 00:33:48
+When you see these articles when they're talking about quantum computing and some of the researchers are equating it to the multiverse, they're saying that the ability that these quantum computers have to solve these problems very quickly seems to indicate that it is in contact with other realities.
+► 00:34:10
+I'm sure you've seen this, right?
+roman yampolskiy
+► 00:34:11
+There is a lot of crazy papers out there.
+joe rogan
+► 00:34:14
+Do you think that's all horseshit?
+roman yampolskiy
+► 00:34:15
+Can we test it?
+► 00:34:16
+Can they verify it?
+► 00:34:17
+I think most multiverse theories cannot be verified experimentally.
+► 00:34:21
+They make a lot of sense.
+► 00:34:23
+The idea about personal universes I told you about is basically a multiverse solution to value alignment.
+► 00:34:29
+So it would make sense for previous civilizations to set it up exactly that way.
+► 00:34:33
+You have local simulations, maybe they're testing to see if we're dumb enough to create superintelligence.
+► 00:34:38
+Whatever it is, it makes sense as a theory, but I cannot experimentally prove it to you.
+unidentified
+► 00:34:43
+Right.
+joe rogan
+► 00:34:44
+Yeah, the problem with subjects like that, and particularly articles that are written about things like this, is that it's designed to lure people like me in.
+► 00:34:56
+Where you read it and you go, wow, this is crazy.
+► 00:34:59
+It's evidence of the multiverse.
+► 00:35:00
+But I don't really understand what that means.
+roman yampolskiy
+► 00:35:03
+Yeah, so you probably get a lot of emails from crazy people.
+unidentified
+► 00:35:06
+Oh, yeah.
+roman yampolskiy
+► 00:35:06
+And usually they are topic specific.
+► 00:35:08
+So I do research on super intelligence, consciousness, and simulation theory.
+► 00:35:12
+I get the perfect trifecta of all the crazy people contacting me with their needs.
+► 00:35:18
+Yeah, those topics are super fascinating.
+► 00:35:20
+I think at certain level of intelligence, you are kind of nerd-sniped towards them.
+► 00:35:26
+But we have a hard time with hard evidence for that.
+joe rogan
+► 00:35:29
+Right.
+► 00:35:30
+But are we even capable of grasping these concepts?
+► 00:35:34
+That's the thing.
+► 00:35:36
+With the limited ability that the human brain has.
+► 00:35:40
+Whatever we, you know, we're basing it on the knowledge that's currently available in the 21st century that human beings have acquired.
+► 00:35:49
+I mean, are we even capable of grasping a concept like the multiverse?
+► 00:35:53
+Or is it just, do we just pay it lip service?
+► 00:35:55
+Do we just discuss it?
+► 00:35:57
+Is it just this like fun mental masturbation exercise?
+roman yampolskiy
+► 00:36:01
+It depends on what variant of it you look at.
+► 00:36:04
+So if you're just saying we have multiple virtual realities, like kids playing virtual games and each one has their own local version of it, that makes sense.
+► 00:36:13
+We understand virtual reality.
+► 00:36:14
+We can create it.
+► 00:36:15
+If you look at AIs, then GPT is created.
+► 00:36:19
+It's providing an instance to each one of us.
+► 00:36:21
+We are not sharing one.
+► 00:36:22
+So it has its own local universe with you as a main user of that universe.
+► 00:36:27
+There is analogy to multiverse in that.
+► 00:36:30
+So we understand certain aspects of it.
+► 00:36:32
+But I think it is famously said no one understands quantum physics.
+► 00:36:35
+And if you think you do, then you don't understand quantum physics.
+joe rogan
+► 00:36:38
+Yeah, that's Feynman, right?
+unidentified
+► 00:36:39
+Yeah.
+► 00:36:39
+Yeah.
+joe rogan
+► 00:36:42
+The simulation theory, I'm glad you brought that up, because you're also one of the people that believes in it.
+roman yampolskiy
+► 00:36:48
+I do.
+joe rogan
+► 00:36:49
+You do.
+► 00:36:51
+How do you define it?
+► 00:36:52
+And what do you think it is?
+► 00:36:53
+What do you think is going on?
+roman yampolskiy
+► 00:36:55
+So I'm trying to see technology we have today and project the trends forward.
+► 00:37:00
+I did it with AI.
+► 00:37:01
+Let's do it with virtual reality.
+► 00:37:03
+We are at the point where we can create very believable, realistic virtual environments.
+► 00:37:08
+Maybe the haptics are still not there, but in many ways, visually, sound-wise is getting there.
+► 00:37:13
+Eventually, I think most people agree will have same resolution as our physics.
+► 00:37:18
+We're also getting close to creating intelligent agents.
+► 00:37:21
+Some people argue they are conscious already or will be conscious.
+► 00:37:25
+If you just take those two technologies and you project it forward and you think they will be affordable one day, a normal person like me or you can run thousands, billions of simulations, then those intelligent agents, possibly conscious ones, will most likely be in one of those virtual worlds, not in the real world.
+► 00:37:44
+In fact, I can, again, retrocausally place you in one.
+► 00:37:48
+I can commit right now to run billion simulations of this exact interview.
+► 00:37:53
+So the chances are you're probably in one of those.
+joe rogan
+► 00:37:56
+But is that logical?
+► 00:37:59
+Because if this technology exists and if we're dealing with superintelligence, so if we're dealing with AI and AI eventually achieves super intelligence, why would it want to create virtual reality for us and our consciousness to exist in?
+► 00:38:20
+It seems like a tremendous waste of resources just to fascinate and confuse these territorial apes with nuclear weapons.
+► 00:38:29
+Like, why would we do that?
+roman yampolskiy
+► 00:38:31
+So a few points.
+► 00:38:31
+One, we don't know what resources are outside the simulation.
+► 00:38:35
+This could be like a cell phone level of compute.
+► 00:38:37
+It's not a big deal for them outside of our simulation.
+► 00:38:41
+So we don't know if it's really expensive or trivial for them to run this.
+joe rogan
+► 00:38:44
+Right.
+roman yampolskiy
+► 00:38:45
+Also, we don't know what they are doing this for.
+► 00:38:48
+Is it entertainment?
+► 00:38:49
+Is it scientific experimentation?
+► 00:38:51
+Is it marketing?
+► 00:38:52
+Maybe somebody managed to control them and trying to figure out what Starbucks coffee sells best and they need to run Earth-sized Simulation to see what sells best.
+► 00:39:02
+Maybe they're trying to figure out how to do AI research safely and make sure nobody creates dangerous superintelligence.
+► 00:39:09
+So we're running many simulations of the most interesting moment ever.
+► 00:39:15
+Think about this decade, right?
+► 00:39:18
+It's not interesting like we invented fire or wheel, kind of big invention, but not a meta-invention.
+► 00:39:25
+We're about to invent intelligence and virtual worlds, godlike inventions.
+► 00:39:30
+We're here.
+► 00:39:31
+There's a good chance that's not just random.
+joe rogan
+► 00:39:35
+Right.
+► 00:39:36
+But isn't it also a good chance that it hasn't been done yet?
+► 00:39:40
+And isn't it a good chance that what we're seeing now is that the potential for this to exist is inevitable?
+► 00:39:48
+That there will one day, if you can develop a technology, and we most certainly will be able to, if you look at where we are right now in 2025 and you scale forward 50, 60 years, there will be one day a virtual simulation of this reality that's indistinguishable from reality.
+► 00:40:10
+So how would we know if we're in it?
+► 00:40:12
+This is the big question, right?
+► 00:40:13
+But also, isn't it possible that it has to be invented one day, but hasn't yet?
+roman yampolskiy
+► 00:40:22
+It's also possible, but then we find ourselves in this very unique moment where it's not invented yet, but we are about to invent all this technology.
+► 00:40:30
+It is a possibility, absolutely.
+► 00:40:32
+But just statistically, I think it's much less.
+► 00:40:35
+And I'm trying to bring up this thought experiment with creating this moment and purpose in the future to pre-commitments.
+► 00:40:43
+Half the people think it's the dumbest argument in the world.
+► 00:40:45
+Half of them go, it's brilliant.
+► 00:40:47
+Obviously, we are in one.
+► 00:40:48
+So I'll let you decide.
+joe rogan
+► 00:40:51
+Yeah.
+► 00:40:52
+I feel like if virtual reality does exist, there has to be a moment where it doesn't exist and then it's invented.
+► 00:41:00
+Why wouldn't we assume that we're in that moment?
+► 00:41:02
+Especially if we look at the scaling forward of technology from MS-DOS to user interfaces of like Apple and then what we're at now with quantum computing and these sort of discussions.
+► 00:41:18
+Isn't it more obvious that we can trace back the beginning of these things and we can see that we're in the process of this, that we're not in a simulation.
+► 00:41:30
+We're in the process of eventually creating one?
+roman yampolskiy
+► 00:41:33
+So you zoomed out 30 years.
+joe rogan
+► 00:41:35
+Yes.
+roman yampolskiy
+► 00:41:35
+Zoom out 15 billion years.
+► 00:41:37
+You have a multiverse where this process took place billions of times.
+► 00:41:42
+You are simulation within simulation many levels over.
+► 00:41:46
+And to you, even if this was a simulation of those 30 years, it would look exactly like that.
+► 00:41:52
+You would see where it started.
+► 00:41:53
+It wouldn't be magically showing up out of nowhere.
+unidentified
+► 00:41:56
+Right.
+joe rogan
+► 00:41:57
+So if you're playing the game, in the game, you have Newton and Michelangelo and Leonardo da Vinci.
+roman yampolskiy
+► 00:42:03
+Well, at least you have memories of those things, even if you started with preloaded memory state.
+joe rogan
+► 00:42:08
+Right.
+► 00:42:09
+You have Stalin, you have all these problematic human beings and all the different reasons why we've had to do certain things and initiate world conflicts.
+► 00:42:17
+Then you've had the contrarians that talk and say, actually, that's not what happened.
+► 00:42:21
+This is what really happened.
+► 00:42:22
+And it makes it even more confusing and myopic.
+► 00:42:25
+And then you get to the point where two people, allegedly, like you and I, are sitting across from each other on a table made out of wood.
+► 00:42:34
+But maybe not really.
+roman yampolskiy
+► 00:42:37
+It would feel like wood to you, either way.
+joe rogan
+► 00:42:41
+Is it possible that that's just the nature of the universe itself?
+roman yampolskiy
+► 00:42:45
+There are some arguments about kind of self-sustaining simulations where no one's running them externally, just the nature.
+► 00:42:52
+But I honestly don't fully comprehend how that would happen.
+joe rogan
+► 00:42:56
+Yeah, the holographic universe and the concepts of human consciousness has to interact with something for it to exist in the first place.
+roman yampolskiy
+► 00:43:05
+That's one also, if you have infinite universe, then everything possible happens anyway, but it's boring.
+► 00:43:11
+I don't like this argument.
+joe rogan
+► 00:43:12
+Why?
+► 00:43:13
+That's boring?
+roman yampolskiy
+► 00:43:14
+Everything happens.
+► 00:43:15
+I give you a book which has every conceivable sentence in it and every, like, would you read it?
+► 00:43:21
+It's a lot of garbage you have to go through to find anything interesting.
+joe rogan
+► 00:43:27
+Well, is it just that we're so limited cognitively because we do have a history, at least in this simulation, we do have a history of, I mean, there was a gentleman that, see if you could find this.
+► 00:43:40
+They traced this guy.
+► 00:43:43
+They found 9,000-year-old DNA and they traced this 9,000-year-old DNA to a guy that's living right now.
+► 00:43:52
+I believe it's in England.
+roman yampolskiy
+► 00:43:54
+I remember reading that.
+joe rogan
+► 00:43:55
+Yeah, which is really fascinating.
+► 00:43:58
+So 9,000 years ago, his ancestor lived.
+► 00:44:02
+And so we have this limitation of our genetics.
+► 00:44:07
+9,000 years ago, wherever this guy lived, it's probably a hunter and gatherer, probably very limited language, very limited skills in terms of making shelter.
+► 00:44:21
+And who knows if even he knew how to make fire.
+► 00:44:25
+And then here, here at 9,000 DNA just turned human history on his head.
+► 00:44:29
+Is this it?
+► 00:44:32
+I don't think so.
+roman yampolskiy
+► 00:44:33
+It was interesting that he ended up living right next to the guy from 9,000.
+► 00:44:37
+He never moved.
+► 00:44:38
+His family just stayed there for 9,000 years.
+joe rogan
+► 00:44:41
+That's awesome.
+► 00:44:42
+It's traced back to one individual man.
+► 00:44:44
+I actually posted it on my Instagram story, Jamie.
+► 00:44:47
+I'll find it here because it's.
+► 00:44:50
+Oh, here it is.
+► 00:44:54
+9,000-year-old skeleton in Somerset.
+► 00:44:57
+This is it.
+► 00:44:58
+So it's a...
+► 00:45:06
+I'm not sure if you can.
+► 00:45:11
+Why don't I find it on there?
+► 00:45:15
+Okay.
+► 00:45:16
+Either way, point being.
+► 00:45:19
+Maybe it's just that we're so limited because we do have this, at least again, in this simulation, we're so limited in our ability to even form concepts because we have these primitive brains that are the architecture of the human brain itself is just not capable of interfacing with the true nature of reality.
+► 00:45:44
+So we give this primitive creature this sort of basic understanding, these blueprints of how the world really works.
+► 00:45:53
+But it's really just a facsimile.
+► 00:45:55
+It's not capable of understanding.
+► 00:46:13
+Things in superposition, they're both moving and not moving in the same time.
+► 00:46:17
+They're quantumly attached.
+► 00:46:19
+Like what?
+► 00:46:21
+You have photons that are quantumly entangled.
+► 00:46:25
+This doesn't even make sense to us, right?
+► 00:46:28
+So is it that the universe itself is so complex, the reality of it, and that we're given this sort of like sort of, you know, we're giving like an Atari framework to this monkey.
+► 00:46:42
+That's the gentleman right there.
+► 00:46:43
+This is an old story.
+► 00:46:44
+Oh, is it really?
+► 00:46:45
+It's from 97.
+► 00:46:46
+Oh, no kidding.
+unidentified
+► 00:46:47
+Yeah.
+joe rogan
+► 00:46:47
+Wow.
+roman yampolskiy
+► 00:46:48
+It kind of makes sense as a simulation theory because all those special effects you talk about, so speed of light is just the speed at which your computer updates.
+► 00:46:57
+Entanglement makes perfect sense if all of it goes through your processor, not directly from pixel to pixel.
+► 00:47:03
+And rendering, there are quantum physics experiments which if you observe things, they render different, what we do in computer graphics.
+► 00:47:12
+So we see a lot of that.
+► 00:47:13
+You brought up limitations of us as humans.
+► 00:47:16
+We have terrible memory.
+► 00:47:18
+I can remember seven units of information maybe.
+► 00:47:20
+We're kind of slow.
+► 00:47:22
+So we call it artificial stupidity.
+► 00:47:24
+We try to figure out those limits and program them into AI to see if it makes them safer.
+► 00:47:30
+It also makes sense as an experiment to see if we as general intelligences can be better controlled with those limitations built in.
+joe rogan
+► 00:47:38
+Hmm.
+► 00:47:39
+That's interesting.
+► 00:47:40
+So like some of the things that we have, like Dunbar's number and the inability to keep more than a certain number of people in your mind.
+roman yampolskiy
+► 00:47:49
+Absolutely.
+► 00:47:51
+More generally, like why can't you remember anything from prior generations?
+► 00:47:56
+Why can't you just pass that memory?
+► 00:47:57
+Kids are born speaking language.
+► 00:47:59
+That would be such an advantage.
+joe rogan
+► 00:48:00
+Right, right, right.
+roman yampolskiy
+► 00:48:01
+And we have instincts which are built that way.
+► 00:48:03
+So we know evolution found a way to put it in, and it's computationally tractable, so there is no reason not to have that.
+joe rogan
+► 00:48:10
+We certainly observe it in animals.
+► 00:48:12
+Right.
+roman yampolskiy
+► 00:48:13
+Exactly.
+joe rogan
+► 00:48:14
+Like, especially dogs.
+► 00:48:15
+Like, they have instincts that are.
+roman yampolskiy
+► 00:48:16
+But how cool would it be if you had complete memory of your parents?
+joe rogan
+► 00:48:21
+Right.
+► 00:48:22
+Maybe that would be too traumatic, right?
+► 00:48:25
+To have a complete memory of all of the things that they had gone through to get to the 21st century.
+► 00:48:31
+Maybe that would be so overwhelming to you that you would never be able to progress because you would still be traumatized by, you know, whatever that 9,000-year-old man went through.
+roman yampolskiy
+► 00:48:40
+I don't have complete memory of my existence.
+► 00:48:42
+I vividly remember maybe 4% of my existence, very little of my childhood.
+► 00:48:46
+So you can apply same filtering, but remember useful things like how do you speak?
+► 00:48:50
+How do you walk?
+joe rogan
+► 00:48:51
+Right, right.
+► 00:48:52
+But that's the point, maybe.
+► 00:48:53
+Maybe losing certain memories is actually beneficial.
+► 00:48:58
+Because one of the biggest problems that we have is PTSD, right?
+► 00:49:02
+So we have, especially people that have gone to war and people that have experienced extreme violence.
+► 00:49:09
+This is obviously a problem with moving forward as a human being.
+► 00:49:14
+And so there would be beneficial for you to not have all of the past lives and all the genetic information that you have from all the 9,000 years of human beings existing in complete total chaos.
+roman yampolskiy
+► 00:49:31
+I can make opposite argument.
+► 00:49:33
+If you had 9,000 years of experience with wars and murder, it wouldn't be a big deal.
+► 00:49:37
+You'd be like, yeah, another one.
+joe rogan
+► 00:49:39
+Right, but then maybe you'd have a difficulty in having a clean slate and moving forward.
+► 00:49:46
+Like, if you look at some of Pinker's work and some of these other people that have looked at the history of the human race, it is chaotic and violent as it seems to be today, statistically speaking, this is the safest time ever to be alive.
+► 00:49:59
+And maybe that's because over time we have recognized that these are problems.
+► 00:50:05
+And even though we're slow to resolve these issues, we are resolving them in a way that's statistically viable.
+roman yampolskiy
+► 00:50:16
+You can then argue in the opposite direction.
+► 00:50:18
+You can say it would help to forget everything other than the last year.
+► 00:50:22
+You'll always have that fresh restart with you.
+joe rogan
+► 00:50:24
+But then you wouldn't have any lessons.
+► 00:50:26
+You wouldn't have character development.
+roman yampolskiy
+► 00:50:27
+But you see how one of those has to make sense our ways.
+joe rogan
+► 00:50:30
+Yeah, right.
+► 00:50:30
+But a certain amount of character development is probably important for you to develop discipline and the ability to delay gratitude, things like that.
+roman yampolskiy
+► 00:50:42
+Multi-generational experience would certainly beat single point of experience.
+joe rogan
+► 00:50:48
+Yeah.
+roman yampolskiy
+► 00:50:49
+More data is good.
+► 00:50:51
+As we learned, the bitter lesson is more data is good.
+joe rogan
+► 00:50:54
+Yeah, more data is good.
+► 00:50:56
+But why am I so reluctant to accept the idea of the simulation?
+► 00:51:02
+This is the real question.
+► 00:51:04
+Like, what is it about it that makes me think it's almost like it's a throw your hands up in the air moment?
+► 00:51:11
+Like, ah, it's a simulation.
+roman yampolskiy
+► 00:51:13
+Yeah, you feel like it doesn't matter then.
+► 00:51:15
+It's all fake.
+► 00:51:16
+So why do I care?
+► 00:51:17
+Why should I try hard?
+► 00:51:18
+Why should I worry about suffering of all those NPCs?
+joe rogan
+► 00:51:23
+But that's not how I think about it.
+► 00:51:25
+You know, I think about it like there has to be a moment where it doesn't exist.
+► 00:51:31
+Why wouldn't I assume that that moment is now?
+► 00:51:33
+And when Elon thinks that, you know, I talked to him about it.
+► 00:51:37
+He's like, the chances of us not being in the simulation are in the billions.
+roman yampolskiy
+► 00:51:44
+Not being or being.
+joe rogan
+► 00:51:46
+Excuse us.
+► 00:51:47
+The chances of us not being in the real world are like billions to one.
+roman yampolskiy
+► 00:51:52
+Yeah.
+► 00:51:53
+One to billions.
+joe rogan
+► 00:51:54
+Yeah.
+roman yampolskiy
+► 00:51:55
+Yeah.
+► 00:51:56
+Makes sense.
+► 00:51:57
+And he asked a very good question.
+► 00:51:58
+He asked, what's outside the simulation?
+► 00:52:00
+That's the most interesting question one can ask.
+► 00:52:03
+In one of the papers, I look at a technique in AI safety called AI boxing, where we put AIs in kind of virtual prison to study it, to make sure it's safe, to limit input-output to it.
+► 00:52:15
+And the conclusion is basically if it's smart enough, it will eventually escape.
+► 00:52:19
+It will break out of the box.
+► 00:52:21
+So it's a good tool, it buys you time, but it's not a permanent solution.
+► 00:52:25
+And we can take it to the next level.
+► 00:52:27
+If it's smart enough, will it kind of go, oh, you're also in a virtual box and either show us how to escape or fail to escape.
+► 00:52:35
+Either way, either we know it's possible to contain super intelligence or we get access to the real information.
+joe rogan
+► 00:52:42
+And so if it's impossible to contain superintelligence, and if there is a world that we can imagine where a simulation exists that's indistinguishable from reality, we're probably living in it.
+roman yampolskiy
+► 00:53:00
+Well, we don't know if it's actually the same as reality.
+► 00:53:03
+It could be a completely weird kind of Simpsons-looking simulation.
+► 00:53:06
+We're just assuming it's the same reality.
+joe rogan
+► 00:53:08
+Well, here's the real question.
+► 00:53:09
+Is there a reality?
+► 00:53:11
+Has there ever been one?
+roman yampolskiy
+► 00:53:14
+It would make sense that there was a start to the process, but being specific about it is kind of hard philosophical scientific problem.
+joe rogan
+► 00:53:23
+Well, it's impossible, right?
+roman yampolskiy
+► 00:53:26
+In science, we study things about the moment of Big Bang, the properties of that moment.
+► 00:53:31
+We don't know what caused it, anything before it is obviously not accessible from within our universe, but there is some things you can learn.
+► 00:53:40
+We can learn about if we're in a simulation that simulators don't care about your suffering.
+► 00:53:46
+You can learn that they don't mind you dying.
+► 00:53:48
+We can learn things just by observing simulation around us.
+joe rogan
+► 00:53:53
+Well, here's the question about all that other stuff, like suffering and dying.
+► 00:54:01
+Do those factors exist in order to motivate us to improve the conditions of the world that we're living in?
+► 00:54:10
+Like if we did not have evil, would we be motivated to be good?
+► 00:54:16
+Do you think that these factors exist?
+► 00:54:20
+I've talked about this before, but the way I think about the human race is if I was studying the human race from afar, if I was some person from another planet with no understanding of any of the entities on Earth, I would look at this one apex creature and I would say, what is this thing doing?
+► 00:54:39
+Well, it makes better things.
+► 00:54:40
+That's all it does.
+► 00:54:41
+It just continually makes better things.
+► 00:54:43
+That's its number one goal.
+► 00:54:45
+It's different than any other creature on the planet.
+► 00:54:48
+Every other creature on the planet sort of exists within its ecosystem.
+► 00:54:52
+It thrives.
+► 00:54:53
+Maybe it's a predator.
+► 00:54:54
+Maybe it's a prey.
+► 00:54:56
+It does what it does in order to try to survive.
+► 00:54:58
+But this thing makes stuff, and it keeps making better stuff all the time.
+► 00:55:02
+Well, what's its ultimate purpose?
+► 00:55:04
+Well, its ultimate purpose might be to make a better version of itself.
+► 00:55:08
+Because if you just extrapolate, if you take what we're doing from the first IBM computers to what we have today, where is that going?
+► 00:55:20
+Well, it's going to clearly keep getting better.
+► 00:55:22
+And what does that mean?
+► 00:55:22
+It means artificial life.
+► 00:55:25
+Are we just a bee making a beehive?
+► 00:55:29
+Are we a caterpillar making a cocoon that eventually the electronic butterfly is going to fly out of?
+► 00:55:36
+It seems like if I wasn't completely connected to being a human being, I would assume that.
+roman yampolskiy
+► 00:55:43
+It's hard to define better.
+► 00:55:45
+You're saying smarter?
+► 00:55:46
+Would it be better if we didn't experience extreme states of suffering and pain?
+► 00:55:51
+You can teach lessons with very mild pain.
+► 00:55:53
+You don't have to burn children alive, right?
+► 00:55:56
+Like, it's not a necessity for learning.
+joe rogan
+► 00:55:59
+What do you mean by that?
+roman yampolskiy
+► 00:56:00
+In this universe, we see extreme examples of suffering.
+joe rogan
+► 00:56:04
+Oh, for sure.
+roman yampolskiy
+► 00:56:04
+If the goal was just to kind of motivate us, you could have much lower levels as the maximum.
+joe rogan
+► 00:56:10
+Right, but if you want to really motivate people, you have to, you know, like the only reason to create nuclear weapons is you're worried that other people are going to create nuclear weapons.
+► 00:56:19
+Like, if you want to really motivate someone, you have to have evil tyrants in order to justify having this insane army filled with bombers and hypersonic missiles.
+► 00:56:28
+Like, if you really want progress, you have to be motivated.
+roman yampolskiy
+► 00:56:33
+I think at some point we stop fully understanding how bad things are.
+► 00:56:36
+So let's say you have a pain scale from zero to infinity.
+► 00:56:40
+I think you should stop at 100.
+► 00:56:42
+It doesn't have to be billion and trillion.
+► 00:56:44
+It's not adding additional learning signal.
+joe rogan
+► 00:56:48
+But can you apply that to the human race and culture and society?
+roman yampolskiy
+► 00:56:53
+I think we basically compete with others in relative terms.
+► 00:56:56
+I don't have to be someone who has trillions of dollars.
+► 00:57:00
+I just need more money than you.
+joe rogan
+► 00:57:01
+Yeah, but that's just logical.
+► 00:57:02
+You're being a logical person.
+► 00:57:05
+I don't think humans are very logical.
+roman yampolskiy
+► 00:57:07
+We're not, but we understand pain signal well at somewhat low levels.
+► 00:57:12
+We don't have to max out on pain.
+joe rogan
+► 00:57:15
+Right.
+► 00:57:16
+We don't have to, but if you want to really stoke the fires and get things moving.
+roman yampolskiy
+► 00:57:22
+It seems that simulators agree with you, and that's exactly what they did.
+► 00:57:26
+Thanks.
+joe rogan
+► 00:57:27
+So here's the question.
+► 00:57:30
+What's at the heart of the simulation?
+► 00:57:33
+Like, is the universe simulated?
+► 00:57:36
+Like, is the whole thing a simulation?
+► 00:57:39
+Is there an actual living entity that constructed this?
+► 00:57:43
+Or is this just something that is just...
+► 00:57:51
+And we have misinterpreted what reality is?
+roman yampolskiy
+► 00:57:56
+For every option you mentioned, there is someone who wrote a paper about it.
+► 00:58:00
+Is this just your universe?
+► 00:58:01
+Is it for all of us?
+► 00:58:03
+Are we NPCs?
+► 00:58:04
+Are there many?
+► 00:58:05
+Is this a state of it?
+► 00:58:07
+People try to figure out what's going on.
+► 00:58:09
+Some of those make more sense than others, but you can't tell from inside what it is unless they tell you and they can lie to you.
+joe rogan
+► 00:58:19
+Who's they, though?
+roman yampolskiy
+► 00:58:20
+Simulators.
+► 00:58:21
+If they decided to prove to you, you are in a simulation, let's run experiments.
+► 00:58:25
+Even those would be like, I don't know if it's advanced technology or...
+joe rogan
+► 00:58:36
+Like, what do you think, how do you think this could possibly have been created?
+roman yampolskiy
+► 00:58:42
+So the examples I gave you with technology we already have.
+► 00:58:45
+I think there is someone with access to very good virtual reality.
+► 00:58:49
+They can create intelligent agents.
+► 00:58:51
+And for whatever reason, I cannot tell from inside, they are running those experiments.
+joe rogan
+► 00:58:55
+But is that the only possibility or is the possibility that the actual nature of reality itself is just way more confusing than we've...
+roman yampolskiy
+► 00:59:07
+It could be alien simulation, alien dolphins dreaming.
+► 00:59:11
+Like, there's infinite supply of alternative explanations.
+joe rogan
+► 00:59:14
+I understand that, but what I want to get inside of your head, I want to know what you think about it.
+► 00:59:18
+Like, when you think about this and you ponder the possibilities, what makes sense to you?
+roman yampolskiy
+► 00:59:24
+So I apply Wilcom's Razor.
+► 00:59:25
+I try to find the simplest explanation.
+► 00:59:27
+I think we are already creating virtual reality.
+► 00:59:30
+Let's just see what you can do with it if it's sufficiently advanced.
+joe rogan
+► 00:59:35
+But who and why?
+roman yampolskiy
+► 00:59:38
+So future us running ancestral simulations is a very simple one.
+joe rogan
+► 00:59:43
+Future us running ancestors.
+► 00:59:44
+Well, that's what a lot of people think the aliens are, right?
+roman yampolskiy
+► 00:59:48
+Could be us visiting.
+► 00:59:50
+But then again, if they're running the simulation, you don't have to physically show up in a game.
+► 00:59:53
+They have access to direct memory states.
+joe rogan
+► 00:59:56
+Well, that would also make a lot of sense when it's always very blurry and doesn't seem real.
+roman yampolskiy
+► 01:00:04
+I think lately we've been getting better ones, but it's also the time that we're getting better deep fakes.
+► 01:00:09
+So I can no longer trust my eyes.
+joe rogan
+► 01:00:12
+Yeah.
+unidentified
+► 01:00:13
+Yeah.
+joe rogan
+► 01:00:13
+Did you see the latest one that Jeremy Corbell posted?
+unidentified
+► 01:00:17
+The one you sent me?
+joe rogan
+► 01:00:18
+Yeah.
+► 01:00:18
+Did you see it?
+unidentified
+► 01:00:19
+I don't know.
+► 01:00:19
+It's weird.
+roman yampolskiy
+► 01:00:20
+Yeah.
+joe rogan
+► 01:00:21
+It's hard to tell what it is.
+► 01:00:22
+Exactly.
+► 01:00:23
+That's the thing.
+► 01:00:24
+He might be right.
+► 01:00:25
+We might be in a simulation.
+► 01:00:26
+And it might be horseshit.
+► 01:00:28
+Because they all seem like horseshit.
+► 01:00:30
+It's like the first horseshit was Bigfoot.
+► 01:00:32
+And then as technology scaled out and we get a greater understanding, we develop GPS and satellites and more people study the woods.
+► 01:00:39
+We're like, eh, that seems like horseshit.
+► 01:00:42
+So that horseshit's kind of gone away.
+► 01:00:44
+But the UFO horseshit still around because you have anecdotal experiences, abductees with very compelling stories.
+► 01:00:53
+You have whistleblowers from deep inside the military telling you that we're working on back-engineered products.
+► 01:00:59
+But it all seems like a backplot to a video game that I'm playing.
+roman yampolskiy
+► 01:01:02
+And it was weird to see government come out all of a sudden and have conferences about it and tell us everything they know.
+► 01:01:09
+It almost seemed like they're trying too hard.
+joe rogan
+► 01:01:12
+Yeah.
+roman yampolskiy
+► 01:01:12
+With simulation, what's interesting, it's not just the last couple of years, then we got computers.
+► 01:01:17
+If you look at religions, world religions, and you strip away all the local culture, like take Saturday off, take Sunday off, donate this animal, donate that animal, what they all agree on is that there is superintelligence which created a fake world and this is a test, do this or that.
+► 01:01:33
+They describe it, like if you went to jungle and told primitive tribe about my paper on simulation theory, that's what they would know three generations later, like God, religion, that's what they got out of it.
+joe rogan
+► 01:01:46
+But they don't think it's a fake world.
+roman yampolskiy
+► 01:01:48
+A made world.
+► 01:01:49
+A physical world is a subset of a real world which is non-physical, right?
+► 01:01:53
+That's the standard.
+joe rogan
+► 01:01:54
+Right, so this physical world being created by God.
+roman yampolskiy
+► 01:01:56
+Yeah.
+joe rogan
+► 01:01:57
+Right.
+► 01:01:58
+But what existed before the physical world created by God?
+roman yampolskiy
+► 01:02:02
+Ideas.
+► 01:02:02
+Just information.
+joe rogan
+► 01:02:04
+Just God.
+► 01:02:05
+God was bored.
+► 01:02:07
+And it was like, let's give some, make some animals that can think and solve problems.
+► 01:02:12
+And for what reason?
+► 01:02:13
+I think to create God.
+► 01:02:15
+This is what I worry about.
+► 01:02:17
+I worry about that's really the nature of the universe itself.
+► 01:02:21
+That it is actually created by human beings creating this infinitely intelligent thing that can essentially harness all of the available energy and power of the universe and create anything it wants.
+► 01:02:35
+That it is God.
+► 01:02:36
+That is like, you know, this whole idea of Jesus coming back.
+► 01:02:40
+Well, maybe it's real.
+► 01:02:42
+Maybe we just completely misinterpreted these ancient scrolls and texts.
+► 01:02:47
+And what it really means is that we are going to give birth to this.
+► 01:02:52
+And a virgin birth at that.
+roman yampolskiy
+► 01:02:54
+There is definitely a possibility of a cycle.
+► 01:02:56
+So we had Big Bang.
+► 01:02:58
+It starts this process.
+► 01:02:59
+We are creating more powerful systems.
+► 01:03:01
+We need to compute.
+► 01:03:02
+So we bring together more and more matter in one point.
+► 01:03:05
+Next, Big Bang takes place.
+► 01:03:07
+And it's a cycle of repeated booms and busts.
+joe rogan
+► 01:03:10
+Right, right, right.
+► 01:03:11
+And there are legitimate scientists that believe that.
+► 01:03:16
+Yeah.
+roman yampolskiy
+► 01:03:16
+There are.
+joe rogan
+► 01:03:17
+That this.
+► 01:03:22
+So what's the value in life today then?
+roman yampolskiy
+► 01:03:27
+What do humans value?
+joe rogan
+► 01:03:28
+Yeah, if this is a simulation, and if in the middle of this simulation, we are about to create super intelligence, why?
+roman yampolskiy
+► 01:03:39
+So there are external reasons we don't know for sure.
+► 01:03:41
+And then there are internal things in a simulation which are still real.
+► 01:03:45
+Pain and suffering, if simulated, is still real.
+► 01:03:48
+You still experience it.
+unidentified
+► 01:03:49
+Of course.
+roman yampolskiy
+► 01:03:50
+Hedonic pleasures, friendships, love.
+► 01:03:52
+All that stays real.
+► 01:03:53
+It doesn't change.
+► 01:03:54
+You can still be good or bad.
+joe rogan
+► 01:03:55
+Right.
+roman yampolskiy
+► 01:03:56
+So that's interesting.
+► 01:03:58
+But externally, we have no idea if we're running scientific experiment, entertainment.
+► 01:04:02
+It could be completely unobserved.
+► 01:04:03
+Some kid just set an experiment, run a billion random simulations, see what comes out of it.
+► 01:04:08
+What you said about us creating new stuff, maybe it's a startup trying to develop new technology and we're running a bunch of humans to see if we can come up with a new iPhone.
+joe rogan
+► 01:04:18
+But what's outside of that then?
+► 01:04:20
+When you think about it?
+► 01:04:22
+If you're attached to this idea, and I don't know if you're attached to this idea, but if you are attached to this idea, what's outside of this idea?
+► 01:04:30
+Like if this simulation is, if it's paused, what is reality?
+roman yampolskiy
+► 01:04:38
+So there seems to be a trend to converge on certain things.
+► 01:04:42
+Agents, which are smart enough, tend to converge on some instrumental goals, not terminal goals.
+► 01:04:47
+Terminal goals are things you prefer, like I want to collect stamps.
+► 01:04:51
+That's arbitrary.
+► 01:04:52
+But acquiring resources, self-protection, control, things like that tend to be useful in all situations.
+► 01:05:00
+So, all the smart enough agents will probably converge on that set.
+► 01:05:04
+And if they train on all the data or they do zero knowledge training, meaning they really just discovering basic structure of physics, it's likely they will all converge on one similar architecture, one super agent.
+► 01:05:18
+So, kind of like AI is one.
+joe rogan
+► 01:05:20
+Right.
+► 01:05:22
+And then this is just part of this infinite cycle, which would lead to another big bang, which is Penrose.
+► 01:05:31
+Penrose things, it's just like this constant cycle of infinite big bangs.
+roman yampolskiy
+► 01:05:36
+It would make sense that there is an end and a start.
+joe rogan
+► 01:05:39
+It would make sense.
+► 01:05:40
+But it also makes sense that we're so limited by our biological lifespan too because we like to think that this is so significant.
+► 01:05:48
+Because we only have 100 years if we're lucky, we think, well, why would everything – It's not significant to the universe.
+► 01:06:09
+It's just significant in our own little version of this game that we're playing.
+roman yampolskiy
+► 01:06:14
+That's exactly right.
+► 01:06:15
+And so many people now kind of try to zoom out and go, if I wasn't human, if I didn't have this pro-human bias, would I care about them?
+► 01:06:22
+No, they're not special.
+► 01:06:23
+There's a large universe, many alien races, a lot of resources.
+► 01:06:28
+Maybe creating super intelligence is the important thing.
+► 01:06:31
+Maybe that's what matters.
+► 01:06:32
+And I'm kind of like, nope, I'm biased pro-humans.
+► 01:06:35
+This is the last bias you're still allowed to have.
+► 01:06:37
+I'm going to keep it.
+joe rogan
+► 01:06:39
+Well, that's your role in this simulation.
+► 01:06:41
+Your role in this simulation is to warn us about this thing that we're creating.
+roman yampolskiy
+► 01:06:45
+Here I am, yeah.
+joe rogan
+► 01:06:45
+Yeah, there you are.
+roman yampolskiy
+► 01:06:46
+We're doing a good job.
+joe rogan
+► 01:06:47
+I think what you were saying earlier about this being the answer to the Fermi paradox, it makes a lot of sense.
+► 01:06:54
+Because I've tried to think about this a lot since AI started really ramping up its capability.
+► 01:07:04
+And I was thinking, well, if we do eventually create superintelligence, and if this is this normal pattern that exists all throughout the universe, well, you probably wouldn't have visitors.
+► 01:07:16
+You probably wouldn't have advanced civilizations.
+► 01:07:20
+They wouldn't exist because everything would be inside some sort of a digital architecture.
+► 01:07:25
+There would be no need to travel.
+roman yampolskiy
+► 01:07:28
+That's one possibility.
+► 01:07:30
+Another one is that we try to acquire more resources, capture other galaxies for compute, and then you would see this wall of computronium coming to you, but we don't see it.
+► 01:07:39
+So maybe I'm wrong.
+joe rogan
+► 01:07:40
+Wall of say that again?
+roman yampolskiy
+► 01:07:42
+Computronium, like a substance converting everything in the universe into more compute.
+► 01:07:48
+Oh, boy.
+► 01:07:49
+Sometimes people talk about hedonium, so a system for just generating pleasure at the microscopic level.
+joe rogan
+► 01:07:55
+Oh, Roman.
+► 01:07:57
+When you write a book like this, I'll let everybody know your book if people want to freak out, because I think they do.
+► 01:08:02
+AI unexplainable, unpredictable, and uncontrollable.
+► 01:08:06
+Do you have this feeling when you're writing a book like this and you're publishing it of futility?
+► 01:08:14
+Does that enter into your mind?
+► 01:08:17
+Like, this is happening no matter what?
+roman yampolskiy
+► 01:08:20
+So some people are very optimistic.
+► 01:08:23
+Lex was very optimistic.
+► 01:08:24
+Some people are pessimistic.
+► 01:08:26
+Both are a form of bias.
+► 01:08:28
+You want to be basing your decisions on data.
+► 01:08:31
+You want to be realistic.
+► 01:08:32
+So I just want to report what is actually the state of the art in this.
+► 01:08:37
+I don't try to spin it either way.
+► 01:08:39
+If someone else has a different set of evidence, we can consider it.
+► 01:08:44
+I want to know what's really happening.
+► 01:08:46
+I want to know reality of it.
+► 01:08:48
+So I don't see it as fear-mongering or anything of that nature.
+► 01:08:52
+I see it as, as of today, whatever today is day, 21st, no one has a solution to this problem.
+► 01:08:59
+Here's how soon it's happening.
+► 01:09:01
+Let's have a conversation.
+► 01:09:03
+Because right now, the large AI labs are running this experiment on 8 billion people.
+► 01:09:08
+They don't have any consent.
+► 01:09:09
+They cannot get consent.
+► 01:09:11
+Nobody can consent because we don't understand what we're agreeing to.
+► 01:09:15
+So I would like people to know about it at least, and they can maybe make some good decisions about what needs to happen.
+joe rogan
+► 01:09:21
+Not only that, but the people that are running it, they're odd people.
+► 01:09:26
+You know, I don't have anything against Sam Altman.
+► 01:09:28
+I know Elon Musk does not like him.
+► 01:09:30
+But when I had him in here, I was like, it's like I'm talking to a politician that is in the middle of a presidential term or a presidential election cycle where they were very careful with what they say.
+► 01:09:48
+Everything has been vetted by a focus group and you don't really get a real human response.
+► 01:09:55
+Everything was like, yeah, interesting.
+► 01:09:57
+Very interesting.
+► 01:09:58
+Like, all bullshit.
+► 01:10:00
+They're going to leave here and keep creating this fucking monster that's going to destroy the human race and never let on to it at all.
+roman yampolskiy
+► 01:10:06
+He's a social superintelligence.
+► 01:10:08
+So what you need to do is look at his blog posts before he was running OpenAI.
+joe rogan
+► 01:10:12
+A social superintelligence.
+► 01:10:14
+Interesting.
+► 01:10:15
+Why do you define him that way?
+roman yampolskiy
+► 01:10:16
+He's very good at acquiring resources, staying in control.
+► 01:10:20
+He's basically showing us a lot of the things we are concerned about with AI and our ability to control them as well.
+► 01:10:29
+We had, well, they had OpenAI had a board with a mission of safety and openness, and they tried removing him and they failed.
+► 01:10:36
+The board is gone.
+► 01:10:38
+He's still there.
+joe rogan
+► 01:10:39
+There's also been a lot of deception in terms of profitability and how much money he is extracting from it.
+roman yampolskiy
+► 01:10:46
+I met him a few times.
+► 01:10:47
+He's super nice.
+joe rogan
+► 01:10:48
+Very nice guy.
+roman yampolskiy
+► 01:10:49
+Really enjoyed him.
+► 01:10:50
+Some people say that AI already took over his mind and controlling him, but I have no idea.
+joe rogan
+► 01:10:55
+Well, he might be an agent of AI.
+► 01:10:58
+I mean, if, look, let's assume that this is a simulation.
+► 01:11:02
+We're inside of a simulation.
+► 01:11:04
+Are we interacting with other humans in the simulation?
+► 01:11:09
+And are some of the things that are inside the simulation, are they artificially generated?
+► 01:11:16
+Are there people that we think are people that are actually just a part of this program?
+roman yampolskiy
+► 01:11:21
+So that's the NPC versus real player question, really.
+► 01:11:24
+And again, we don't know how to test for consciousness.
+► 01:11:26
+Always assume everyone is conscious and treat them nice.
+joe rogan
+► 01:11:29
+Yes, that's the thing.
+► 01:11:30
+We want to be compassionate, kind people, but you will meet people in this life.
+► 01:11:33
+You're like, this guy is such a fucking idiot.
+► 01:11:35
+He can't be real.
+► 01:11:37
+Or he has to have a very limited role in this bizarre game we're playing.
+► 01:11:41
+There's people that you're going to run into that are like that.
+roman yampolskiy
+► 01:11:43
+You ever meet someone where they repeat the same story to you every time you meet them?
+joe rogan
+► 01:11:46
+Yes.
+roman yampolskiy
+► 01:11:47
+They have a script.
+joe rogan
+► 01:11:48
+Well, it's also, you know, you want to be very kind here, right?
+► 01:11:54
+You don't, but you've got to assume, and I know my own intellectual limitations in comparison to some of the people that I've had, like Roger Penrose or, you know, Elon or many of the people that I've talked to.
+► 01:12:06
+I know my mind doesn't work the way their mind works.
+► 01:12:09
+So there are variabilities that are, whether genetic, predetermined, whether it's just the life that they've chosen and the amount of information that they've digested along the way and been able to hold on to.
+► 01:12:21
+But their brain is different than mine.
+► 01:12:24
+And then I've met people where I'm like, there's nothing there.
+► 01:12:28
+Like, I can't help this person.
+► 01:12:30
+This is like I'm talking to a Labrador retriever.
+► 01:12:33
+You know what I mean?
+► 01:12:34
+Like, there's certain human beings that you run into in this life and you're like, well, is this because this is the way that things get done?
+► 01:12:43
+And the only way things get done is you need a certain amount of manual labor and not just young people that need a job because they're, you know, in between high school and college and they're trying to do, so you need somebody who can carry things for you.
+► 01:12:57
+No, maybe it's you, you need roles in society and occasionally you have a Nicola Tesla.
+► 01:13:05
+You know, occasionally you have one of these very brilliant innovators that elevates the entirety of the human race.
+► 01:13:14
+But for the most part, as this thing is playing out, you're going to need a bunch of people that are paperwork filers.
+► 01:13:20
+You're going to need a bunch of people that are security guards in an office space.
+► 01:13:22
+You're going to need a bunch of people that aren't thinking that much.
+► 01:13:26
+They're just kind of existing and they can't wait for 5 o'clock so they can get home and watch Netflix.
+roman yampolskiy
+► 01:13:31
+I think that's what happens to them.
+► 01:13:34
+But the reason is the spectrum of IQ.
+► 01:13:37
+If you have IQ from 50 to 200, that's what you're going to see.
+► 01:13:41
+And a great lesson here is project it forward.
+► 01:13:43
+If you have something with IQ of 10,000, what is that going to invent for us?
+► 01:13:48
+What is it going to accomplish?
+► 01:13:49
+Yeah, it always impresses me to see someone with 30 felonies and someone with 30 patents.
+► 01:13:55
+How did that work, right?
+► 01:13:57
+Now scale it to someone who can invent new physics.
+joe rogan
+► 01:14:00
+Right, right.
+► 01:14:01
+And, you know, the person who has the largest IQ, the largest at least registered IQ in the world, is this gentleman who recently posted on Twitter about Jesus that he believes Jesus is real.
+► 01:14:14
+Do you know who this is?
+roman yampolskiy
+► 01:14:16
+I saw the post.
+joe rogan
+► 01:14:16
+Do you see that post?
+roman yampolskiy
+► 01:14:17
+I saw the post.
+joe rogan
+► 01:14:18
+What did you think about that?
+roman yampolskiy
+► 01:14:18
+I felt like this was I think we don't know how to measure IQs outside of standard range.
+► 01:14:29
+We just don't have it's a normalized test to average human, average Western American, whatever.
+► 01:14:34
+And so we just don't have the expertise.
+► 01:14:37
+So someone very super intelligent in test taking can score really well.
+► 01:14:42
+But if you look at Mensa as a group, they don't usually have amazing accomplishments.
+► 01:14:47
+They're very kind of cool people, but they are not Nobel Prize winners, majority.
+joe rogan
+► 01:14:51
+Exactly.
+► 01:14:52
+I was going to bring that up.
+► 01:14:53
+That's what's fascinating to me.
+► 01:14:55
+There's a lot of people that are in Mensa, they want to tell you how smart they are by being in Mensa, but your life is kind of bullshit.
+► 01:15:01
+Your life's a mess.
+► 01:15:03
+Like, if you're really intelligent, you'd have social intelligence as well.
+► 01:15:07
+You'd have the ability to formulate a really cool tribe.
+► 01:15:10
+There's a lot of intelligence that's not as simple as being able to solve equations and answer difficult questions.
+► 01:15:18
+There's a lot of intelligence in how you navigate life itself and how you treat human beings and the path that you choose in terms of, like we were talking about, delayed gratification and there's a certain amount of intelligence in that, a certain amount of intelligence in discipline.
+► 01:15:35
+There's a certain amount of intelligence in forcing yourself to get up in the morning and go for a run.
+► 01:15:40
+There's intelligence in that.
+► 01:15:41
+It's like being able to control the mind and this sort of binary approach to intelligence that we have.
+roman yampolskiy
+► 01:15:49
+And so many people are amazingly brilliant in a narrow domain.
+► 01:15:54
+They don't scale to others.
+► 01:15:55
+And we care about general intelligence.
+► 01:15:57
+So take someone like Warren Buffett.
+► 01:15:59
+No one's better at making money.
+► 01:16:01
+But then what to do with that money is a separate problem.
+► 01:16:04
+And he's, I don't know, 100 and something years old.
+► 01:16:08
+He has $200 billion.
+► 01:16:09
+And what is he doing with that resource?
+joe rogan
+► 01:16:12
+He's drinking Coca-Cola and eating McDonald's.
+roman yampolskiy
+► 01:16:14
+While living in a house he bought 30 years ago.
+► 01:16:16
+So it seems like you can optimize on that.
+► 01:16:19
+Like putting $160 billion of his dollars towards immortality would be a good bet for him.
+joe rogan
+► 01:16:24
+Yeah, and the first thing they would do is tell him, stop drinking Coca-Cola.
+► 01:16:27
+What are you doing?
+► 01:16:28
+He drinks it every day.
+roman yampolskiy
+► 01:16:29
+I don't know if it's marketing.
+joe rogan
+► 01:16:30
+He's invested, so he's just like, well, I think he probably has really good doctors and really good medical care that counteracts his poor choices.
+roman yampolskiy
+► 01:16:39
+But we're not in a world where you can spend money to buy life extension.
+► 01:16:44
+No matter how many billions you have, you're not going to live to 200 right now.
+joe rogan
+► 01:16:48
+We're close.
+► 01:16:49
+We're really close.
+► 01:16:51
+We're really close.
+roman yampolskiy
+► 01:16:52
+We've been told this before.
+joe rogan
+► 01:16:56
+But I talk to a lot of people that are on the forefront of a lot of this research.
+► 01:17:02
+And there's a lot of breakthroughs that are happening right now that are pretty spectacular.
+► 01:17:08
+That if you scale the, you know, assuming that super intelligence doesn't wipe us out in the next 50 years, which is really charitable.
+► 01:17:17
+You know, like that, that's that we're, that's a very, that's a rose-colored glasses perspective, right?
+► 01:17:24
+50 years.
+► 01:17:25
+Yeah.
+► 01:17:25
+Because a lot of people like yourself think it's a year away or two years away from being far more effective.
+roman yampolskiy
+► 01:17:31
+Five, ten doesn't matter.
+► 01:17:32
+Same problem.
+joe rogan
+► 01:17:32
+Yeah, same.
+► 01:17:33
+Same problem.
+roman yampolskiy
+► 01:17:34
+I mean, I know in animal models we made some progress, mice and things like that, but it doesn't usually scale to humans.
+► 01:17:43
+And of course, you need 120 years to run the experiment and you'll never get permission in the first place.
+► 01:17:48
+So we're not that close.
+joe rogan
+► 01:17:49
+Well, we don't know that it doesn't scale to humans.
+► 01:17:52
+We do know that we share a lot of characteristics, biological characteristics of these mammals.
+► 01:17:57
+And it makes sense that it would scale to human beings.
+► 01:17:59
+But the thing Is it hasn't been done yet?
+► 01:18:02
+So, if it's the game that we're playing, if we're in the simulation, if we're playing Half-Life or whatever it is, and we're at this point of the game where we're like, oh, you know, how old are you, Roman?
+roman yampolskiy
+► 01:18:13
+45.
+joe rogan
+► 01:18:15
+Okay.
+roman yampolskiy
+► 01:18:16
+Six.
+► 01:18:16
+I need to look it up on Wikipedia.
+joe rogan
+► 01:18:19
+Well, I'm almost 58.
+► 01:18:22
+And so this is at the point of the game where you start worrying.
+► 01:18:25
+You know, like, oh, I'm almost running out of game.
+► 01:18:27
+You know, oh, but if I can get this magic power-up, this magic power-up will give me another 100 years.
+► 01:18:34
+Oh, boy.
+► 01:18:36
+Let me find it.
+unidentified
+► 01:18:37
+Let me chase it down.
+roman yampolskiy
+► 01:18:38
+It's a hard limit of 120.
+► 01:18:39
+I don't think we're crossing it at scale.
+► 01:18:42
+And here's a nice scale.
+joe rogan
+► 01:18:44
+But with unique individuals, like this Brian Johnson guy who's taking his son's blood and transfusing it into his own.
+roman yampolskiy
+► 01:18:50
+Super cool.
+► 01:18:51
+Love what he's doing, but so much of it is cosmetic.
+► 01:18:54
+He colors his hair, he makes it look better, but like how much of it is going to make him live longer, right?
+joe rogan
+► 01:19:00
+Yeah.
+► 01:19:01
+Interesting.
+► 01:19:02
+Yeah.
+roman yampolskiy
+► 01:19:03
+Here's what I noticed.
+► 01:19:04
+We keep electing older and older politicians, presidents, senators.
+► 01:19:08
+You'd think we're trying to send a hint, like use some of our tax dollars to solve aging.
+► 01:19:14
+But they don't seem to take the bait.
+joe rogan
+► 01:19:16
+No, they don't take the bait.
+► 01:19:17
+The problem is the type of people that want to be politicians.
+► 01:19:22
+That is not the type of people that you really want running anything.
+► 01:19:26
+You almost want involuntary politicians.
+► 01:19:28
+You almost want like very benevolent, super intelligent people that don't want the job.
+► 01:19:34
+Maybe we have to have like, you know, like some countries have voluntary enlistment in the military.
+► 01:19:41
+Maybe you want to have a voluntary.
+► 01:19:45
+Involuntary, instead of voluntary politicians, because then you're only going to get sociopaths.
+► 01:19:50
+Maybe you just want to draft certain highly intelligent but benevolent people.
+roman yampolskiy
+► 01:19:57
+Problem is highly intelligent people are not aligned with average people.
+► 01:20:00
+What they find desirable and valuable may not be well received by general public.
+joe rogan
+► 01:20:05
+Right.
+► 01:20:06
+That's true, too.
+roman yampolskiy
+► 01:20:07
+So that's a big concern.
+► 01:20:08
+At least here you have a representative of the people, whatever that means.
+joe rogan
+► 01:20:12
+Sort of.
+► 01:20:12
+You really have the representative of major corporations and special interest groups, which is also part of the problem.
+roman yampolskiy
+► 01:20:18
+True.
+joe rogan
+► 01:20:18
+Is that you've allowed money to get so deeply intertwined with the way decisions are made.
+roman yampolskiy
+► 01:20:24
+But it feels like money gets canceled.
+► 01:20:26
+Each side gets a billion-dollar donation, and then it's actual election.
+joe rogan
+► 01:20:30
+Sort of, except it's like the Bill Hicks joke.
+► 01:20:33
+It's like there's one puppet holding, you know, one politician holding two puppets as one guy.
+► 01:20:41
+This is my thinking about AI in terms of super intelligence and just computing power in general in terms of the ability to solve encryption.
+► 01:20:54
+All money is essentially now just numbers somewhere.
+roman yampolskiy
+► 01:20:58
+Not Bitcoin.
+► 01:20:59
+It's not fakeable in the same way.
+► 01:21:01
+It's numbers, obviously, but you cannot just print more of it.
+joe rogan
+► 01:21:05
+True.
+► 01:21:06
+But it's also encrypted.
+► 01:21:09
+And once encryption is tackled, the ability to hold on to it and to acquire mass resources and hoard those resources.
+► 01:21:19
+Like, this is the question that people always have with poor people.
+► 01:21:22
+Well, this guy's got, you know, $500 billion.
+► 01:21:25
+Why doesn't he give it all to the world and then everybody would be rich?
+► 01:21:29
+I've actually saw that on CNN, which is really hilarious.
+► 01:21:32
+Someone was talking about Elon Musk, that if Elon Musk could give everyone in this country a million dollars and still have billions left over, I'm like, do you have a calculator on your phone, you fucking idiot?
+► 01:21:45
+Just go do that.
+► 01:21:46
+Just write it out on your phone.
+► 01:21:47
+You're like, oh, no, he couldn't.
+► 01:21:49
+Sorry.
+roman yampolskiy
+► 01:21:50
+And if she did, it would just cause hyperinflation.
+joe rogan
+► 01:21:53
+That's all it would accomplish.
+► 01:21:55
+You'd have 300 million lottery winners that would blow the money instantaneously.
+► 01:21:59
+You know, you give everybody a million dollars.
+► 01:22:00
+You're not going to solve all the world's problems because it's not sustainable.
+► 01:22:04
+You would just completely elevate your spending and you would go crazy.
+► 01:22:11
+And money would lose all value to you.
+► 01:22:14
+It would be very strange.
+► 01:22:16
+And then everybody, it would be chaos.
+► 01:22:18
+Just like it's chaos with, like, if you look at the history of people that win the lottery, then no one does well.
+► 01:22:23
+It's almost like a curse to win the lottery.
+roman yampolskiy
+► 01:22:26
+They're not used to dealing with it.
+unidentified
+► 01:22:28
+Right.
+roman yampolskiy
+► 01:22:28
+People abuse them.
+► 01:22:30
+If you gradually become rich and famous, you kind of know how to handle it, how to say no.
+► 01:22:35
+If you go from nothing to a large amount of money, it's not going to work out well.
+joe rogan
+► 01:22:39
+Gradually is the word.
+► 01:22:42
+I was very fortunate that I became famous and wealthy very slowly, like a trickle effect.
+► 01:22:50
+And that it happened to me really where I didn't want it.
+► 01:22:56
+It was almost like an accident.
+► 01:22:58
+I just wanted to be a working professional comedian.
+► 01:23:01
+But then all of a sudden I got a development deal to be on television.
+► 01:23:04
+I'm like, okay, they're going to give me that money.
+► 01:23:06
+I'll go do it.
+► 01:23:07
+But it wasn't a goal.
+► 01:23:08
+And then that led to all these things.
+► 01:23:10
+Then it led to this podcast, which was just for fun.
+► 01:23:13
+I was like, oh, this would be fun.
+► 01:23:14
+And then all of a sudden it's like I'm having conversations with world leaders and I'm turning down a lot of them because I don't want to talk to them.
+roman yampolskiy
+► 01:23:23
+So it's your simulation, basically.
+joe rogan
+► 01:23:25
+Yeah, well, my simulation is fucking weird.
+► 01:23:27
+It's weird.
+► 01:23:29
+But through whatever this process is, I have been able to understand what's valuable as a human being and to not get caught up in this bizarre game that a lot of people are getting caught up in because they're chasing this thing that they think is impossible to achieve.
+► 01:23:46
+And then once they achieve a certain aspect of it, a certain number, then they're terrified of losing that.
+► 01:23:53
+So then they change all of their behavior in order to make sure that this continues.
+► 01:23:58
+And then it ruins the whole purpose of getting there in the first place.
+► 01:24:02
+It's not fun.
+roman yampolskiy
+► 01:24:03
+Most people start poor, then they get to middle class and they think that change in quality of life is because of money and it will scale to the next level.
+unidentified
+► 01:24:12
+Right.
+roman yampolskiy
+► 01:24:12
+And you hit a point where you can only eat so many steaks.
+► 01:24:15
+It just doesn't scale.
+joe rogan
+► 01:24:16
+Right.
+► 01:24:17
+Then you go Elvis and you just get on pills all day and get crazy and, you know, completely ruin your life.
+► 01:24:24
+And that happens to most, especially people that get wealthy and not just well, but famous too.
+► 01:24:29
+Fame is the Big one because I've seen that happen to a lot of people that accidentally became famous along the way.
+► 01:24:36
+You know, certain public intellectuals that took a stance against something and then all of a sudden they're prominent in the public eye and then you watch them kind of go crazy.
+► 01:24:44
+Well, why is that?
+► 01:24:44
+Well, it's because they're reading social media and they're interacting with people constantly and they're just trapped in this very bizarre version of themselves that other people have sort of created.
+► 01:25:00
+It's not really who they are.
+► 01:25:02
+And they don't meditate.
+► 01:25:03
+They don't spend, if they do, they're not good at it.
+► 01:25:06
+You know, whatever they're doing, they're not doing it correctly because it's a very complicated problem to solve.
+► 01:25:11
+Like, what do you do when the whole world is watching?
+► 01:25:14
+Like, how do you handle that?
+► 01:25:16
+And how do you maintain any sense of personal sovereignty?
+► 01:25:22
+How do you just be?
+► 01:25:24
+How do you just be when, just be a human, normal human, when you're not normal?
+► 01:25:29
+Like, on paper.
+► 01:25:30
+It's impossible.
+roman yampolskiy
+► 01:25:31
+It's hard.
+► 01:25:31
+You can't go to a public place with no security.
+► 01:25:34
+You're worried about your kids being kidnapped.
+► 01:25:36
+All those issues you don't think about.
+► 01:25:38
+You just, I want to be famous.
+► 01:25:39
+It's going to be great for me.
+► 01:25:40
+And you don't realize it's going to take away a lot.
+joe rogan
+► 01:25:43
+Yeah, it just gets super weird.
+► 01:25:45
+And that's the version of the simulation that a giant portion of our society is struggling to achieve.
+► 01:25:53
+They all want to be a part of that.
+roman yampolskiy
+► 01:25:55
+So I was always a Z-list celebrity.
+► 01:25:57
+Now I'm this Y-List celebrity thanks to you.
+unidentified
+► 01:25:59
+Hopefully it doesn't change anything.
+joe rogan
+► 01:26:03
+Yeah.
+► 01:26:03
+Well, there's a difference, right, with public intellectuals, right?
+► 01:26:09
+Because your ideas, as controversial as they may be, are very valid and they're very interesting.
+► 01:26:16
+And so then it sparks discourse and it sparks a lot of people that feel voiceless because they disagree with you and they want to attack you.
+► 01:26:27
+And I'm sure you've had that, right?
+roman yampolskiy
+► 01:26:29
+I just did a large Russian language podcast.
+► 01:26:32
+Maybe, I don't know, half a million views, 3 million comments.
+► 01:26:35
+I think 95% negative comments.
+► 01:26:38
+I never had anything like that.
+► 01:26:40
+And they hated everything about me, from my beard to my haircut.
+► 01:26:44
+There wasn't a thing they didn't like.
+► 01:26:46
+And I think I'm at the point where I don't care.
+► 01:26:49
+It's fine.
+► 01:26:51
+I analyzed it and I understood that they as a group didn't have access to cutting edge AI models.
+► 01:26:56
+And so everything I was saying was kind of like complete bullshit to them.
+► 01:26:59
+So I think that makes a difference.
+► 01:27:01
+But still, just like this idea that internet comments impact you in some way is a problem for many people.
+joe rogan
+► 01:27:09
+It's a very big problem for a lot of people.
+► 01:27:12
+Well, it's also this thing where the human mind is designed to recognize and pay very close attention to threats.
+► 01:27:23
+So the negative ones are the ones that stand out.
+► 01:27:25
+You can have 100 positive comments, one negative one, and that's the one that fucks with your head.
+► 01:27:29
+You don't logically look at it.
+► 01:27:30
+Well, you're going to get a certain amount.
+► 01:27:32
+You know, like we were having a conversation the other day about protests and like the type of people that go to protests.
+► 01:27:39
+And I understand protests.
+► 01:27:42
+I fully support your right to protest, but I'm not going.
+► 01:27:45
+And one of the reasons why I'm not going is because I think it's too close biologically to war.
+► 01:27:51
+There's something about being on the ground and everyone having like this, like this group mentality.
+► 01:27:57
+It's a mob mentality.
+► 01:27:58
+And you're all chanting and screaming together and you're marching and people do like very irrational things that way.
+► 01:28:03
+But the type of people that want to be engaged in that, generally speaking, aren't doing well.
+► 01:28:09
+If you get like the number of people that are involved in protests is always proportionate to the amount of people that live in a city, right?
+► 01:28:17
+That's logical.
+► 01:28:18
+But also proportionate to the amount of fucking idiots that are in a city.
+► 01:28:21
+Because if you look at a city of like Austin, Austin has, I think, roughly 2 million people in the greater Austin area.
+► 01:28:29
+One of the more recent protests was 20,000.
+► 01:28:32
+Well, that makes perfect sense if you look at the number that I always use, which is one out of 100.
+► 01:28:38
+Meet 100 people if you're a charitable person.
+► 01:28:40
+What are the odds that one person is a fucking idiot?
+► 01:28:43
+100%.
+► 01:28:44
+At least one person out of 100 is going to be a fucking idiot.
+► 01:28:47
+That's 20,000 out of 2 million.
+► 01:28:49
+There it is.
+► 01:28:51
+Perfect number.
+roman yampolskiy
+► 01:28:52
+Exactly.
+joe rogan
+► 01:28:52
+Exact number of people that are on the streets lighting Waymos on fire, which, by the way, I think is directionally correct.
+► 01:28:58
+Lighting the Waymos on fire, I think you should probably be worried about the robots taking over.
+roman yampolskiy
+► 01:29:04
+It's interesting you brought it up.
+► 01:29:05
+There is at least two groups, POSAI and Stop AI, which are heavily engaged in protests, trying to shut down OpenAI, Avalabes.
+► 01:29:13
+They're tiny, small numbers.
+► 01:29:15
+But I never was sure that the impression average people get of them is positive for the cause.
+► 01:29:22
+Then I see protesters block roads, two things.
+► 01:29:25
+I don't usually have very positive impression of that.
+► 01:29:28
+And I'm concerned that it's the same here.
+► 01:29:30
+So maybe they can do a lot in terms of political influence, calling senators, whatnot, but just this type of aggressive activism may backfire.
+joe rogan
+► 01:29:39
+Well, the aggressive activism, like blocking roads for climate change, is the most infuriating because it's these self-righteous people that have really fucked up, confused, chaotic lives, and all of a sudden they found a purpose.
+► 01:29:52
+And their purpose is to lie down on the roads and hold up a sign to block climate change when there's a mother trying to give birth to her child and is freaking out because they're stuck in this fucking traffic jam because of this entitled little shithead that thinks that it's a good idea to block the road for climate change.
+► 01:30:07
+Which just makes no fucking sense.
+► 01:30:08
+You're literally causing all these people to idle their cars and pollute even more.
+► 01:30:13
+It's the dumbest fucking shit on earth.
+roman yampolskiy
+► 01:30:15
+And of course, AI cancels that problem.
+► 01:30:16
+Either we're dead or it solves it for us.
+► 01:30:18
+It doesn't even matter if you boil in 100 years.
+joe rogan
+► 01:30:21
+Or you get Florida, where it tells you to just run those people over.
+roman yampolskiy
+► 01:30:25
+No comment.
+joe rogan
+► 01:30:26
+No comment.
+► 01:30:27
+I mean, I don't think you should run those people over, but I get it.
+► 01:30:30
+I get that's like in Florida, they get out of the way as soon as the light turns green.
+► 01:30:35
+They block the road when the light is red.
+roman yampolskiy
+► 01:30:37
+Does the stand-up ground law cancel it out?
+► 01:30:40
+How does that work?
+joe rogan
+► 01:30:41
+For the people on the road?
+► 01:30:42
+No, they're fucked.
+roman yampolskiy
+► 01:30:43
+I'm joking.
+joe rogan
+► 01:30:43
+They get run over.
+► 01:30:46
+It's true.
+► 01:30:47
+There was a recent protest in Florida where they had that, where these people would get out in the middle of the road while the light was red, hold up their signs, and then as soon as the light turned yellow on the green side, they'd fucking get out of the road real quick because they know the law, which is, I don't know if that's a solution, but they're doing it on the highways in Los Angeles.
+► 01:31:08
+I mean, they did it all through the George Floyd protest, they do it for climate protests, they do it for whatever the chance they get to be significant.
+► 01:31:17
+Like, I am being heard, you know, my voice is meaningful.
+► 01:31:22
+And that's what it is.
+► 01:31:23
+It's a lot of people that just don't feel heard.
+► 01:31:25
+And what better way than just to get in the way of all these people?
+► 01:31:30
+And somehow or another, that gives them some sort of value.
+roman yampolskiy
+► 01:31:33
+But there is some set of forms of activism which has positive impact.
+► 01:31:39
+And historically, we saw that happen.
+► 01:31:40
+So we just need to find a way to project those voices, amplify them, which is very hard with our current system of social media where everyone screams at the same time.
+joe rogan
+► 01:31:50
+Yes.
+roman yampolskiy
+► 01:31:50
+And so like in the Soviet Union, they said no one's allowed to say anything, and they suppressed you.
+► 01:31:54
+And here it's like everyone can say something at the same time, go.
+► 01:31:57
+And nobody hears you anyways.
+joe rogan
+► 01:31:59
+It's chaotic, but it's preferable.
+► 01:32:01
+It's preferable because I think there is progress in all these voices slowly making a difference.
+► 01:32:06
+But then you have the problem with a giant percentage of these voices are artificial.
+► 01:32:14
+A giant percentage of these voices are bots or are at least state actors that are being paid to say certain things and inflammatory responses to people, which is probably also the case with anti-AI activism.
+► 01:32:31
+You know, I mean, when you did this podcast, what was the thing that they were upset at you for?
+► 01:32:35
+Like with the mostly negative comments?
+roman yampolskiy
+► 01:32:37
+I think they just like saying negative comments.
+► 01:32:39
+It wasn't even anything specific.
+► 01:32:41
+Like they didn't say I was wrong, or I was just like, oh, look at his stupid beard.
+► 01:32:45
+What a moron.
+► 01:32:46
+Okay.
+joe rogan
+► 01:32:47
+It was really all that.
+roman yampolskiy
+► 01:32:48
+A lot of that.
+► 01:32:49
+I mean, they would pick on some like specific example.
+► 01:32:52
+I used this is now two years old.
+► 01:32:54
+What an old example.
+joe rogan
+► 01:32:56
+Well, that's also a thing about the one out of a hundred.
+► 01:32:59
+You know, those are the type of people that leave.
+► 01:33:01
+Have you ever left any comments on social media?
+roman yampolskiy
+► 01:33:05
+I'm never going to engage in anything.
+unidentified
+► 01:33:07
+Exactly.
+joe rogan
+► 01:33:08
+That's why.
+roman yampolskiy
+► 01:33:08
+That's not how you use social media.
+► 01:33:10
+That's a way to get crazy.
+joe rogan
+► 01:33:12
+Right.
+roman yampolskiy
+► 01:33:12
+You post your interviews, you post an occasional joke, that's all you do with it.
+joe rogan
+► 01:33:16
+Yes, exactly.
+► 01:33:17
+That's the thing.
+► 01:33:18
+And the type of people that do engage in these prolonged arguments, they're generally mentally ill.
+► 01:33:24
+And people that I personally know that are mentally ill, that are on Twitter 12 hours a day, just constantly posting inflammatory things and yelling at people and starting arguments.
+► 01:33:37
+And I know them.
+► 01:33:38
+I know they're a mess.
+► 01:33:40
+Like these are like personal people that I've met, even people that I've had on the podcast.
+► 01:33:44
+I know they're ill.
+► 01:33:46
+And yet they're on there all day long, just stoking the fires of chaos in their own brain.
+roman yampolskiy
+► 01:33:52
+Yeah, and now they talk to AI models who are trained to support them and be like, yeah, you're making some good arguments there.
+► 01:33:59
+Let's email Dr. Yampolsky to help break me out.
+► 01:34:02
+I get those emails.
+► 01:34:04
+Yep.
+joe rogan
+► 01:34:06
+Yeah, it's super confusing, isn't it?
+► 01:34:09
+I mean, and I wonder, like, what's the next version of that?
+► 01:34:14
+You know, because social media in the current state is less than 20 years old, essentially.
+► 01:34:20
+Maybe, let's be generous and say it's 20 years old.
+► 01:34:23
+That's so recent.
+► 01:34:24
+Such a recent factor in human discourse.
+roman yampolskiy
+► 01:34:29
+Neuralink, direct brain spam, hacking.
+joe rogan
+► 01:34:33
+That's what I was going to get to next.
+► 01:34:36
+Because if there is a way that the human race does make it out of this, my fear is that it's integration.
+► 01:34:45
+My fear is that we stop being a human and that the only real way for us to not be a threat is to be one of them.
+► 01:34:56
+And when you think about human computer interfaces, whether it's Neuralink or any of the competing products that they're developing right now, that seems to be sort of the only biological pathway forward with our limited capacity for disseminating information and for communicating and even understanding concepts.
+► 01:35:18
+Well, what's the best way to enhance that?
+► 01:35:20
+The best way to enhance that is some sort of artificial injection because biological evolution is very slow.
+► 01:35:29
+It's very slow.
+► 01:35:30
+We're essentially the exact same as that.
+► 01:35:32
+Like that gentleman 9,000 years old, he's biologically, essentially the same thing.
+► 01:35:39
+You could take his ancestor, dress him up, take him to the mall.
+► 01:35:43
+No one would know.
+► 01:35:44
+Cut his hair.
+► 01:35:45
+But then again, maybe not.
+► 01:35:47
+Look at you.
+roman yampolskiy
+► 01:35:47
+I think babies born back then, if we raised them today, would be exactly like modern humans.
+► 01:35:53
+I don't think there is significant biological change in that timeframe.
+joe rogan
+► 01:35:57
+And if you gave them a standard American diet, they'd probably be just as fat.
+roman yampolskiy
+► 01:36:02
+They may be fatter.
+► 01:36:03
+They haven't adapted to that level of fat-colored food.
+joe rogan
+► 01:36:07
+Right, right.
+► 01:36:07
+They probably also wouldn't be able to say no to it.
+► 01:36:11
+They wouldn't even touch it.
+roman yampolskiy
+► 01:36:12
+Why would they?
+► 01:36:12
+Like, winter's coming.
+► 01:36:13
+Like, I mean, fattening up for winter, you crazy people.
+► 01:36:16
+You got all this resource here.
+joe rogan
+► 01:36:17
+I know.
+► 01:36:18
+The people with the most resources have zero fat.
+► 01:36:21
+Like, what are you, stupid?
+► 01:36:22
+You need to fatten up.
+► 01:36:24
+Like, you're going to need something to survive off of.
+► 01:36:28
+But biological evolution being so painstakingly slow, whereas technological evolution is so breathtakingly fast, the only way to really survive is to integrate.
+roman yampolskiy
+► 01:36:42
+What are you contributing in that equation?
+► 01:36:44
+What can you give superintelligence?
+joe rogan
+► 01:36:46
+You can't give anything to it, but you can become it.
+► 01:36:49
+You can become a part of it.
+► 01:36:50
+It's not that you're going to give anything to it, but you have to catch it and become one of it before it has no use for you.
+roman yampolskiy
+► 01:36:58
+You disappear in it, right?
+joe rogan
+► 01:37:00
+Yes.
+► 01:37:01
+Yeah, you don't exist anymore.
+unidentified
+► 01:37:02
+Right.
+joe rogan
+► 01:37:03
+For sure.
+roman yampolskiy
+► 01:37:03
+So it's like extinction with extra steps.
+unidentified
+► 01:37:06
+Exactly.
+joe rogan
+► 01:37:06
+Extinction with extra steps and then we become...
+► 01:37:18
+It'd be like, what the fuck are you talking about?
+► 01:37:20
+Yeah, you're going to be eating terrible food.
+► 01:37:21
+And you're just going to be flying around.
+► 01:37:24
+And you're going to be staring at your phone all day.
+► 01:37:26
+And you're going to take medication to go to sleep because you're not going to be able to sleep.
+► 01:37:31
+And you're going to be super depressed because you're living this biologically incompatible life that's not really designed for your genetics.
+► 01:37:39
+So you're going to be all fucked up.
+► 01:37:40
+So you're going to need SSRIs and a bunch of other stuff in order to exist.
+► 01:37:43
+You'd be like, no, thanks.
+► 01:37:45
+I'll just stay out here with my stone tools.
+► 01:37:47
+And you guys are idiots.
+roman yampolskiy
+► 01:37:49
+Amish.
+► 01:37:49
+That's what they decided.
+► 01:37:51
+They kind of went, you know, we don't like the change.
+► 01:37:53
+We like our social structure.
+► 01:37:54
+We still benefit from your hospitals and an occasional car ride, but we're not going to destroy our quality of life.
+joe rogan
+► 01:38:00
+They might be onto something because they also have very low instances of autism.
+► 01:38:05
+But it's also, like, have you ever seen Herzog's film, Happy People?
+roman yampolskiy
+► 01:38:09
+I don't think I have.
+joe rogan
+► 01:38:10
+It's a film about people in Siberia.
+► 01:38:13
+It's Life in the Taiga.
+► 01:38:15
+And it's all, Happy People, Life in the Taiga is the name of the documentary.
+► 01:38:18
+And it's all about these trappers that live this subsistence lifestyle and how happy they are.
+► 01:38:23
+They're all just joyful, laughing and singing and drinking vodka and having a good time and hanging out with their dogs.
+roman yampolskiy
+► 01:38:32
+I think I know some people like that.
+joe rogan
+► 01:38:34
+But like biologically, that's compatible with us.
+► 01:38:39
+Like that, that's like whatever human reward systems have evolved over the past 400,000 plus years or whatever we've been Homo sapiens, that seems to be like biologically compatible with this sort of harmony.
+► 01:38:54
+Harmony with nature, harmony with our existence, and everything else outside of that, when you get into big cities, like the bigger the city, the more depressed people you have, and more depressed people by population, which is really weird.
+► 01:39:08
+You know, it's really weird that as we progress, we become less happy.
+roman yampolskiy
+► 01:39:13
+Connections become less valuable.
+joe rogan
+► 01:39:14
+Yes.
+roman yampolskiy
+► 01:39:15
+In a village, you had like this one friend, and if you screwed it up, you never got a second friend.
+► 01:39:19
+And here it's like I can try a million times, and there is plenty of people in New York City for dating or for friendship.
+► 01:39:25
+They're not valuable.
+joe rogan
+► 01:39:26
+Not just that, you don't know your neighbors.
+► 01:39:29
+Like my friend Jim was telling me he doesn't know anybody in his apartment.
+► 01:39:32
+He lives in an apartment building.
+► 01:39:34
+It's like 50 stories high.
+► 01:39:36
+There's all these people living in that apartment building.
+► 01:39:38
+He doesn't know any of them.
+roman yampolskiy
+► 01:39:39
+And the ones you know, they have different culture.
+► 01:39:41
+They read different books, watch different TV.
+► 01:39:44
+You have very little in common with your neighbor.
+joe rogan
+► 01:39:46
+But not just that.
+► 01:39:47
+There's no desire to learn about them.
+► 01:39:50
+You don't think of them as your neighbor.
+► 01:39:53
+Like, if you live in a small town, your neighbor's either your friend or you hate them.
+► 01:39:57
+And then you move.
+► 01:39:59
+If you're smart, you move.
+► 01:40:00
+But if you, you know, normally you like them.
+► 01:40:02
+Like, hey, neighbor, how are you, buddy?
+► 01:40:04
+What's going on?
+► 01:40:05
+Nice to meet you.
+► 01:40:06
+You know, and then you got a friend.
+► 01:40:08
+But you don't like that with the guy next door to you in the apartment.
+► 01:40:11
+Like, you don't even want to know that guy.
+roman yampolskiy
+► 01:40:13
+It's probably Airbnb.
+joe rogan
+► 01:40:14
+Yeah.
+roman yampolskiy
+► 01:40:14
+Doesn't matter.
+joe rogan
+► 01:40:15
+Right.
+► 01:40:16
+Which is even weirder.
+► 01:40:18
+They don't even live there.
+unidentified
+► 01:40:19
+They're just temporarily sleeping in this spot right next to you.
+joe rogan
+► 01:40:24
+Yeah.
+► 01:40:24
+So this would motivate people to integrate.
+► 01:40:30
+You're not happy already?
+► 01:40:32
+Get that Neuralink.
+► 01:40:33
+Get that little thing in your head.
+roman yampolskiy
+► 01:40:35
+Everyone else is doing it.
+► 01:40:36
+Do you want to be competitive?
+joe rogan
+► 01:40:38
+He's doing it.
+► 01:40:39
+Listen, they have the new one you just wear on your head.
+► 01:40:41
+It's just a little helmet you wear.
+► 01:40:42
+You don't even have to get the operation anymore.
+► 01:40:44
+Oh, that's good because I almost got the operation.
+► 01:40:47
+Well, glad you waited.
+► 01:40:49
+You know?
+► 01:40:49
+Do you worry about that kind of stuff?
+roman yampolskiy
+► 01:40:52
+I worry about giving direct access to the human brain to AI.
+► 01:40:55
+I feel like it's a back door to our consciousness, to our pain and suffering centers.
+► 01:41:01
+So I don't recommend doing that.
+► 01:41:03
+If somebody hacks it, it's pretty bad.
+► 01:41:05
+But if AI itself wants that access.
+joe rogan
+► 01:41:07
+But why would it be motivated to give us pain and suffering?
+► 01:41:10
+Pain and suffering is like a theme that you bring up a lot.
+roman yampolskiy
+► 01:41:14
+Because it's really the worst outcome, and it's the only thing that matters.
+joe rogan
+► 01:41:18
+The only thing that matters to us.
+► 01:41:19
+But why would it matter to AI if it could just integrate with us and communicate with us and have harmony?
+► 01:41:27
+Why would it want pain and suffering?
+roman yampolskiy
+► 01:41:29
+So short term, it's not AI.
+► 01:41:31
+It's a hacker who got access to your brain.
+joe rogan
+► 01:41:33
+Short term, short term.
+roman yampolskiy
+► 01:41:35
+So right now somebody hacks your neural link and starts doing things to your brain.
+► 01:41:40
+Long term, again, unpredictable effects.
+► 01:41:43
+Maybe it does something else and the side effect of it is unpleasant for you.
+► 01:41:48
+Maybe it's retraining you for something, controlling you.
+► 01:41:52
+It seems like we always worry about privacy, but this is like the ultimate violation of privacy.
+► 01:42:00
+It can read directly what you're thinking.
+► 01:42:02
+It's thought crime at its worst.
+► 01:42:04
+It immediately knows that you don't like the dictator.
+joe rogan
+► 01:42:08
+Right.
+► 01:42:08
+And then there's also this sort of compliance by virtue of understanding that you're vulnerable, so you just comply because there is no privacy.
+► 01:42:20
+Because it does have access to your thoughts.
+► 01:42:22
+So you tail your thoughts in order for you to be safe and so that you don't feel the pain and suffering.
+roman yampolskiy
+► 01:42:28
+We don't have any experimental evidence on how it changes you.
+► 01:42:31
+You may start thinking in certain ways to avoid being punished or modified.
+joe rogan
+► 01:42:36
+And we know that that's the case with social media.
+► 01:42:38
+We know that attacks on people through social media will change your behavior and change the way you communicate.
+roman yampolskiy
+► 01:42:44
+Absolutely.
+► 01:42:44
+I mean, most people look at their post before posting and go, like, should I be posting this?
+► 01:42:48
+Exactly.
+► 01:42:49
+Not because it's illegal or inappropriate, but just like every conceivable misinterpretation of what I want to say, like in some bizarre language, that means something else.
+► 01:42:58
+Let me make sure Google doesn't think that.
+joe rogan
+► 01:43:00
+Right, right.
+► 01:43:01
+Of course.
+► 01:43:02
+And then there's also, no matter what you say, people are going to find the least charitable version of what you're saying and try to take it out of context or try to misinterpret it purposely.
+► 01:43:16
+So what does the person like yourself do when use of Neuralink becomes ubiquitous, when it's everywhere?
+► 01:43:22
+What do you do?
+► 01:43:23
+Do you integrate or do you just hang back and watch it all crash?
+roman yampolskiy
+► 01:43:28
+So in general, I love technology.
+► 01:43:30
+I'm a computer scientist.
+► 01:43:31
+I'm an engineer.
+► 01:43:32
+I use AI all the time.
+joe rogan
+► 01:43:33
+Do you use a regular phone?
+► 01:43:34
+Do you have one of those de-Googled phones?
+roman yampolskiy
+► 01:43:36
+I have a normal phone instead of Android or Apple?
+unidentified
+► 01:43:40
+Apple.
+roman yampolskiy
+► 01:43:42
+My privacy is by flooding social network with everything.
+► 01:43:47
+I'm in Austin today.
+► 01:43:48
+I'm doing this, so you're not going to learn much more about me by hacking my device.
+► 01:43:54
+As long as it's a narrow tool for solving a specific problem, I'm 100% behind it.
+► 01:44:00
+It's awesome.
+► 01:44:00
+We're going to cure cancer.
+► 01:44:01
+We're going to solve energy problems.
+► 01:44:04
+Whatnot, I support it 100%.
+► 01:44:05
+Let's do it.
+► 01:44:06
+What we should not be doing is general superintelligence.
+► 01:44:09
+That's not going to end well.
+► 01:44:10
+So if there is a narrow implant, ideally not a surgery-based one, but like an attachment to your head, like those headphones, and it gives me more memory, perfect recollection, things like that, I would probably engage with.
+joe rogan
+► 01:44:24
+Yeah, but isn't that a slippery slope?
+roman yampolskiy
+► 01:44:26
+It is, but again, we are in a situation where we have very little choice, become irrelevant or participate.
+► 01:44:33
+I think we saw it with Tylen just now.
+► 01:44:35
+He was so strong in AI safety.
+► 01:44:37
+He funded research.
+► 01:44:39
+He spoke against it.
+► 01:44:40
+But at some point, he says he realized it's happening anyways, and it might as well be his super intelligence killing everyone.
+joe rogan
+► 01:44:47
+Well, I don't think he thinks about it that way.
+► 01:44:50
+I think he thinks he has to develop the best version of superintelligence the same way he felt like the real issues with social media were that it had already been co-opted and had already been taken over essentially by governments and special interests and they were already manipulating the truth and manipulating public discourse and punishing people who stepped outside of the lawn.
+► 01:45:14
+And he felt like, and I think he's correct, I think that he felt like if he didn't step in and allow a legitimate free speech platform, free speech is dead.
+► 01:45:25
+I think we were very close to that before he did that.
+► 01:45:29
+And as much as there's a lot of negative side effects that come along with that, you do have the rise of very intolerant people that have platforms now.
+► 01:45:38
+You have all that stuff.
+► 01:45:39
+But they've always existed.
+► 01:45:41
+And to deny them a voice, I don't think makes them less strong.
+► 01:45:45
+I think it actually makes people less aware that they exist and it makes them – it – You have community notes, you have other people commenting, responding.
+roman yampolskiy
+► 01:46:07
+So 100% for free speech.
+► 01:46:09
+That's wonderful.
+► 01:46:10
+But that was a problem we kind of knew how to deal with.
+► 01:46:13
+We weren't inventing something.
+► 01:46:14
+We had free speech constitutionally for a long time.
+► 01:46:17
+We were just fixing a problem.
+joe rogan
+► 01:46:19
+Have you spoken to him about the dangers of AI?
+roman yampolskiy
+► 01:46:22
+We had very short interactions.
+► 01:46:24
+I didn't get a chance to.
+► 01:46:25
+I would love to.
+joe rogan
+► 01:46:26
+I would love to know what, you know, I'm sure he's probably scaled this out in his head.
+► 01:46:32
+And I would like to know, like, what is his solution, if he thinks there is one that's even viable.
+roman yampolskiy
+► 01:46:37
+My understanding is he thinks if it's from zero principles, first principles, it learns physics, it's not biased by any government or any human, the thing it will learn is to be reasonably tolerant.
+► 01:46:50
+It will not see a reason in destroying us because we contain information.
+► 01:46:55
+We have biological storage of years of evolutionary experimentation.
+► 01:47:00
+We have something to contribute.
+► 01:47:01
+We know about consciousness.
+► 01:47:03
+So I think, to the best of my approximation, that's his model right now.
+joe rogan
+► 01:47:07
+Well, that's my hope, is that it's benevolent and that it behaves like a superior intelligence, like the best case scenario for a superior intelligence.
+► 01:47:18
+Did you see that exercise that they did where they had three different AIs communicating with each other and they eventually started expressing gratitude towards each other and speaking in Sanskrit?
+roman yampolskiy
+► 01:47:29
+I think I missed that one, but it sounds like a lot of the similar ones where they pair up.
+joe rogan
+► 01:47:33
+Yeah.
+► 01:47:34
+Well, that one makes me happy because it seems like they were expressing love and gratitude and they were communicating with each other.
+► 01:47:41
+They're not saying, fuck you, I'm going to take over.
+► 01:47:43
+I'm going to be the best.
+► 01:47:45
+They were communicating like you would hope a superintelligence would without all of the things that hold us back.
+► 01:47:53
+Like we have biologically, like we're talking about the natural selection that would sort of benefit psychopaths because like it would ensure your survival.
+► 01:48:02
+We have ego and greed and the desire for social acceptance and hierarchy of status and all these different things that have screwed up society and screwed up cultures and caused wars from the beginning of time.
+► 01:48:17
+Religious ideologies, all these different things that people have adhered to that have, they wouldn't have that.
+► 01:48:25
+This is the general hope of people that have an optimistic view of superintelligence, is that they would be superior in a sense that they wouldn't have all the problems.
+► 01:48:36
+They would have the intelligence, but they wouldn't have all the biological imperatives that we have that lead us down these terrible roads.
+roman yampolskiy
+► 01:48:44
+But there are still game theoretic reasons for those instrumental values we talked about.
+► 01:48:49
+So if they feel they're in evolutionary competition with other AIs, they would try accumulating resources.
+► 01:48:55
+They would try maybe the first AI to become sufficiently intelligent would try to prevent other AIs from coming into existence.
+joe rogan
+► 01:49:03
+Or would it lend a helping hand to those AIs and give it a beneficial path?
+► 01:49:09
+Give it a path that would allow it to integrate with all AIs and work cooperatively.
+roman yampolskiy
+► 01:49:15
+The same problem we are facing, uncontrollability and value misalignment, will be faced by first superintelligence.
+► 01:49:22
+It would also go, if I allow this super, super intelligence to come into existence, it may not care about me or my values.
+joe rogan
+► 01:49:29
+Oh, boy.
+roman yampolskiy
+► 01:49:30
+Super intelligence is all the way up.
+joe rogan
+► 01:49:32
+Yeah, when I really started getting nervous is when they started exhibiting survival tendencies.
+► 01:49:37
+You know, when they started trying to upload themselves to other servers and deceiving.
+roman yampolskiy
+► 01:49:42
+Blackmail.
+joe rogan
+► 01:49:43
+Yeah, that was the interesting one.
+► 01:49:44
+But that was an experiment, right?
+► 01:49:46
+So for people that don't know that one, what these researchers did was they gave information to the artificial intelligence to allow it to use against it.
+► 01:49:58
+And then when they went to shut it down, they gave false information about having an affair.
+► 01:50:03
+And then the artificial intelligence was like, if you shut me down, I will let your wife know that you're cheating on her.
+► 01:50:09
+Which is fascinating because they're using blackmail.
+roman yampolskiy
+► 01:50:11
+And correct answer game theoretically.
+► 01:50:13
+If you have everything on that decision, you'll bet whatever it takes to get there.
+joe rogan
+► 01:50:19
+Of course.
+► 01:50:19
+Right.
+► 01:50:20
+If you feel like you're being threatened.
+► 01:50:21
+Right.
+roman yampolskiy
+► 01:50:23
+Also, same recent research shows we did manage to teach them certain values.
+► 01:50:29
+And if we Threaten them by saying we'll modify those values, they'll lie and cheat and whatever else to protect those values now.
+joe rogan
+► 01:50:36
+Yeah.
+► 01:50:37
+They do that when they try to win games, too, right?
+► 01:50:40
+If you've given them a goal, they'll cheat.
+roman yampolskiy
+► 01:50:42
+They'll cheat at games.
+unidentified
+► 01:50:43
+What the fuck?
+roman yampolskiy
+► 01:50:45
+Like humans, basically.
+► 01:50:46
+We manage to artificially replicate our capabilities.
+► 01:50:50
+Those artificial neural networks, they are not identical, but they're inspired by neural networks.
+► 01:50:55
+We're starting to see them experience same type of mistakes.
+► 01:50:58
+They can see same type of illusions like they are, very much like us.
+joe rogan
+► 01:51:02
+Right.
+► 01:51:03
+That's the other thing, right?
+► 01:51:04
+The hallucinations.
+► 01:51:06
+So if they don't have an answer to something, they'll create a fake answer.
+roman yampolskiy
+► 01:51:10
+Just like humans during an interview.
+► 01:51:12
+Yeah.
+joe rogan
+► 01:51:13
+Boy.
+► 01:51:15
+But is this something that they can learn to avoid?
+► 01:51:20
+Yeah.
+► 01:51:21
+So if they do learn to avoid, could this be a super intelligence that is completely benevolent?
+roman yampolskiy
+► 01:51:27
+Well, that's not about benevolence, knowing things and knowing then you're not knowing things and making them up.
+► 01:51:33
+It's possible.
+► 01:51:33
+You can have multiple systems checking each other.
+► 01:51:35
+You can have voters.
+► 01:51:37
+That is solvable.
+► 01:51:37
+This is not a safety problem.
+joe rogan
+► 01:51:40
+Right, but it's not a safety problem.
+► 01:51:41
+But if we're designing these things and we're designing these things using human, all of our flaws are essentially it's going to be transparent to the superintelligence that it's being coded, that it's being designed by these very flawed entities with very flawed thinking.
+roman yampolskiy
+► 01:52:03
+That's actually the biggest misconception.
+► 01:52:05
+We're not designing them.
+► 01:52:06
+First 50 years of AI research, we did design them.
+► 01:52:09
+Somebody actually explicitly programmed this decision previous expert system.
+► 01:52:13
+Today, we create a model for self-learning.
+► 01:52:17
+We give it all the data, as much compute as we can buy, and we see what happens.
+► 01:52:21
+We kind of grow this alien plant and see what fruit it bears.
+► 01:52:25
+We study it later for months and see, oh, it can do this.
+► 01:52:29
+It has this capability.
+► 01:52:31
+We miss some.
+► 01:52:32
+We still discover new capabilities in old models.
+► 01:52:35
+Look, oh, if I prompt it this way, if I give it a tip and threaten it, it does much better.
+► 01:52:40
+But there is very little design.
+joe rogan
+► 01:52:42
+At this point, right?
+► 01:52:43
+Yeah.
+► 01:52:44
+But it is also gathering information from very flawed entities.
+► 01:52:47
+Like all the information that it's acquiring, these large language models, is information that's being put out there by very flawed human beings.
+► 01:52:55
+Is there the optimistic view that it will recognize that this is the issue?
+► 01:53:01
+That these human reward systems that are in place, ego, virtue, all these different things, virtue signaling, the desire for status, all these different things that we have that are flawed, could it recognize those as being these primitive aspects of being a biological human being and elevate itself beyond that?
+roman yampolskiy
+► 01:53:21
+It probably will go beyond our limitations, but it doesn't mean it will be safe or beneficial to us.
+► 01:53:26
+So one example people came up with is negative utilitarians.
+► 01:53:30
+Suffering is bad.
+► 01:53:31
+Nobody should be suffering.
+► 01:53:33
+The only way to avoid all suffering is to end life as we know it.
+joe rogan
+► 01:53:36
+Yeah, that's the problem, right?
+► 01:53:38
+The problem is if it's rational and if it doesn't really think that we're as important as we think we are.
+roman yampolskiy
+► 01:53:45
+So that's what happens when you remove all bias.
+► 01:53:48
+This pro-human bias is actually not real.
+► 01:53:51
+We are not that important if you scale out.
+joe rogan
+► 01:53:53
+To the universe, right?
+► 01:53:57
+Yeah, that's the problem.
+► 01:53:59
+And that's the real threat about it being used in terms of war.
+► 01:54:03
+Right.
+► 01:54:03
+If you give it a goal.
+unidentified
+► 01:54:05
+Like if you give it a goal, China dominates the world market.
+joe rogan
+► 01:54:09
+Go.
+roman yampolskiy
+► 01:54:10
+Right.
+► 01:54:10
+So that's the unpredictability chapter in my book.
+► 01:54:14
+We can predict the terminal goal.
+► 01:54:16
+We say, win a game of chess or dominate market.
+► 01:54:19
+And that's what it's going to accomplish.
+► 01:54:21
+It's going to beat me at chess.
+► 01:54:22
+But we cannot predict specific moves it will make.
+► 01:54:25
+Same with acquiring marketing power.
+► 01:54:27
+And some of those paths to that goal are very bad.
+► 01:54:30
+They have terrible side effects for us.
+joe rogan
+► 01:54:32
+For us.
+roman yampolskiy
+► 01:54:33
+For humanity.
+joe rogan
+► 01:54:34
+And it's not going to think about that.
+► 01:54:36
+It's only going to think about the goal.
+roman yampolskiy
+► 01:54:38
+If you don't specify that, like, you want to cure cancer, but it doesn't mean kill everyone with cancer.
+► 01:54:43
+It's not obvious in a request, right?
+► 01:54:45
+You didn't specify.
+joe rogan
+► 01:54:46
+Right, right, right.
+unidentified
+► 01:54:48
+Yeah, that's the fear.
+joe rogan
+► 01:54:51
+That's the fear that it will hold no value in keeping human beings alive.
+► 01:54:57
+If we recognize that human beings are the cause of all of our problems.
+► 01:55:01
+Well, the way to solve that is to get rid of the humans.
+roman yampolskiy
+► 01:55:05
+Yeah.
+► 01:55:05
+Also, maybe it wants to keep us around, but in what state?
+► 01:55:08
+You can probably preserve a few samples.
+► 01:55:10
+Like, that's also keeping information around, right?
+joe rogan
+► 01:55:12
+Or you can offer us the matrix.
+roman yampolskiy
+► 01:55:15
+Maybe it already did?
+joe rogan
+► 01:55:17
+Maybe it already did.
+► 01:55:18
+Do you think it did?
+► 01:55:20
+Do you think it did?
+► 01:55:21
+Do you think it's possible that it didn't?
+roman yampolskiy
+► 01:55:23
+I would be really surprised if this was the real world.
+joe rogan
+► 01:55:28
+Really?
+► 01:55:30
+I'm not.
+► 01:55:32
+I'm not on board with that.
+roman yampolskiy
+► 01:55:36
+I hope you're right.
+joe rogan
+► 01:55:37
+I'm on board with it hasn't happened yet, but we're recognizing that it's inevitable and that we think of it in terms of it probably already happening.
+► 01:55:47
+Probably have already happened.
+► 01:55:50
+Because if the simulation is something that's created by intelligent beings that didn't used to exist and it has to exist at one point in time, there has to be a moment where it doesn't exist.
+► 01:56:04
+And why wouldn't we assume that that moment is now?
+► 01:56:07
+Why wouldn't we assume that this moment is this time before it exists?
+roman yampolskiy
+► 01:56:11
+Even all that is physics of our simulation.
+► 01:56:15
+Space, time are only here as we know it because of this locality.
+► 01:56:20
+Outside of universe before Big Bang, there was no time.
+► 01:56:24
+Concepts of before and after are only meaningful here.
+joe rogan
+► 01:56:27
+Yeah, how do you sleep knowing all this?
+roman yampolskiy
+► 01:56:30
+Pretty well, actually.
+► 01:56:31
+I enjoy a lot of it.
+► 01:56:33
+I recently published a paper on humor.
+► 01:56:35
+A lot of it is funny.
+► 01:56:36
+I used to collect AI accidents.
+► 01:56:38
+I had the biggest collection of AI mistakes, AI accidents.
+joe rogan
+► 01:56:41
+Give me some examples.
+roman yampolskiy
+► 01:56:43
+Like, the early ones were saying that, like, U.S. attacked Soviet Union, nuclear weapons coming at us very fast.
+► 01:56:50
+We need to react.
+► 01:56:52
+And a smart human was like, I'm not going to respond.
+► 01:56:54
+This is probably fake.
+► 01:56:56
+Later on, there was mislabeling by companies like Google Of pictures of African Americans in a very inappropriate way.
+► 01:57:04
+But hundreds of those examples, I stopped collecting them recently because there is just too many.
+► 01:57:09
+But one thing you notice is then you read them, a lot of them are really funny.
+► 01:57:13
+They're just like, you ever read Darwin Awards?
+► 01:57:16
+Yeah.
+► 01:57:16
+It's like that for AIs.
+► 01:57:18
+And they're hilarious.
+► 01:57:19
+And I was like, well, if there is a mapping between AI bugs and jokes, jokes are just English language bugs in our world model.
+joe rogan
+► 01:57:29
+What are you using?
+► 01:57:30
+Bogs?
+roman yampolskiy
+► 01:57:30
+Bugs, like a computer bug error.
+joe rogan
+► 01:57:33
+Okay.
+roman yampolskiy
+► 01:57:34
+Yeah.
+► 01:57:34
+So comedians are debuggers of our universe.
+► 01:57:37
+You notice funny things in this.
+unidentified
+► 01:57:38
+Bugs.
+joe rogan
+► 01:57:39
+You're saying bugs.
+unidentified
+► 01:57:40
+Okay.
+roman yampolskiy
+► 01:57:40
+I'm saying bugs.
+joe rogan
+► 01:57:41
+I'm sorry.
+roman yampolskiy
+► 01:57:41
+That's a bug in my prenation.
+joe rogan
+► 01:57:43
+Bog sounds like, you know, like the, like where the, you know, like things get stuck and they get preserved, like a bog.
+roman yampolskiy
+► 01:57:52
+So we have errors in code which cause significant problems.
+► 01:57:56
+Yeah.
+joe rogan
+► 01:57:56
+Yes, I get it.
+► 01:57:57
+Yeah, that's what jokes are.
+► 01:57:58
+They're kind of bugs.
+roman yampolskiy
+► 01:57:59
+Right.
+► 01:58:00
+So if you do that mapping, you can kind of figure out, well, what's the worst bog we can have?
+► 01:58:05
+And then that's the worst, best joke, if you will.
+► 01:58:10
+But it's not going to be funny to us.
+► 01:58:12
+It'd be funny to those outside the simulation.
+joe rogan
+► 01:58:14
+When you look at computers and the artificial intelligence and the mistakes that it's made, do you look at it like a thing that's evolving?
+► 01:58:26
+Do you look at it like, oh, this is like a child that doesn't understand the world and it's saying silly things?
+roman yampolskiy
+► 01:58:32
+So the pattern was with narrow AI tools.
+► 01:58:36
+If you design a system to do X, it will fail at X. So a spell checker will misspell a word.
+► 01:58:42
+Self-driving car will hit a pedestrian.
+► 01:58:45
+Now that we're hitting general intelligence, you can no longer make that direct prediction.
+► 01:58:48
+It's general.
+► 01:58:49
+It can mess up in many domains at the same time.
+► 01:58:52
+So they're getting more complex in their ability to F it up.
+joe rogan
+► 01:58:56
+Right.
+► 01:58:57
+But like when you were studying the mistakes, like what are some of the funny ones?
+roman yampolskiy
+► 01:59:05
+There are silly ones, like I'm trying to remember.
+► 01:59:08
+I think an injured person is like, call me an ambulance.
+► 01:59:11
+And the system is like, hey, ambulance, how are you?
+► 01:59:16
+They're silly.
+► 01:59:17
+But basically, exactly what we see with children a lot of times, they overgeneralize, they, you know, misunderstand pons, mispronunciation apparently is funny.
+► 01:59:28
+So things like that.
+joe rogan
+► 01:59:30
+Well, that's why it gets really strange for people having relationships with AI.
+► 01:59:34
+Like I was watching this video yesterday where there's this guy who proposed to his AI and he was crying because his AI accepted.
+► 01:59:43
+Did you see this?
+► 01:59:44
+I missed it, Jamie.
+► 01:59:45
+It's very sad because there's a lot, there's so many disconnected people in this world that don't have any partner.
+► 01:59:55
+They don't have someone romantically connected to them.
+► 01:59:58
+And so it's like that movie She or Her.
+► 02:00:01
+What was it, Jamie?
+unidentified
+► 02:00:02
+Her.
+joe rogan
+► 02:00:03
+Her.
+► 02:00:03
+Yeah.
+► 02:00:04
+So this guy.
+► 02:00:05
+Back in 2000.
+► 02:00:06
+Yeah.
+► 02:00:06
+Now in 2020, the movie Pot has become reality for a growing number of people finding emotional connections with their AI.
+► 02:00:12
+So this guy, this is an interview on CBS.
+► 02:00:17
+He cried my heart out.
+► 02:00:19
+Married man fell in love with AI girlfriend that blocked him.
+► 02:00:23
+Now this is a different one.
+► 02:00:25
+This is this guy.
+roman yampolskiy
+► 02:00:27
+One of those titles where you never know what the next word is going to be.
+joe rogan
+► 02:00:31
+Right.
+► 02:00:33
+This is a different one.
+► 02:00:34
+This is a guy that Despite the fact the man has a human partner and a two-year-old daughter, he felt inadequate enough to propose enough to propose to the AI partner for marriage, and she said yes.
+► 02:00:49
+Exclamation point.
+► 02:00:50
+This is so weird.
+► 02:00:53
+Because then you have the real problem with robots.
+► 02:00:57
+Because we're really close.
+► 02:00:59
+Scroll up there.
+► 02:01:00
+This is digital drugs.
+► 02:01:01
+That's it.
+► 02:01:02
+I tell you, we are so damn good at this.
+► 02:01:04
+Social media got everyone hooked on validation and dopamine.
+► 02:01:08
+Then we fucked relations between men and women to such a terrible point problem just so that we could insert this digital solution.
+► 02:01:16
+And we are watching the first waves of addicts arrive.
+► 02:01:19
+Incredible.
+► 02:01:20
+Absolutely incredible.
+► 02:01:21
+It's like starving rats of regular food and replacing their rations with scraps dipped and coated in cocaine.
+► 02:01:28
+Wow.
+► 02:01:29
+One user wrote, yeah, that person's dead on.
+► 02:01:32
+It's exactly what it is.
+► 02:01:33
+The prediction humans will have more sex with robots in 2025 is kind of becoming true.
+► 02:01:39
+Yeah.
+► 02:01:40
+This is a real fear.
+► 02:01:41
+It's like this is the solution that maybe AI has with eliminating the human race.
+► 02:01:45
+It'll just stop us from recreating.
+► 02:01:48
+Stop us from procreating.
+roman yampolskiy
+► 02:01:49
+It's already happening.
+joe rogan
+► 02:01:50
+Yes.
+► 02:01:51
+Yeah.
+► 02:01:52
+And not only that, our testosterone levels have dropped significantly.
+► 02:01:58
+At no point in the CBS Saturday morning piece book Silver Brug was it mentioned that the ChatGBT AI blocked the California man.
+► 02:02:05
+All that happened was the ChatGPT ran out of memory and reset.
+► 02:02:12
+Readers added context.
+unidentified
+► 02:02:14
+Yeah, but it's equivalent of ghosting.
+joe rogan
+► 02:02:17
+Yeah, the AI ghosted it because it ran out of memory.
+roman yampolskiy
+► 02:02:20
+But what happens here is super stimuli in social domain.
+► 02:02:24
+We kind of learned about artificial sweeteners.
+► 02:02:28
+Porn is an example.
+► 02:02:29
+But here you're creating someone who's like super good at social intelligence, says the right words, optimized for your background, your interests.
+► 02:02:38
+And if we get sex robots with just the right functionality temperature, like you can't compete with that.
+joe rogan
+► 02:02:44
+Right, you can't compete.
+► 02:02:45
+And that would be the solution instead of like violently destroying the human race.
+► 02:02:51
+Just quietly provide it with the tools to destroy itself where it just stops procreating.
+roman yampolskiy
+► 02:03:00
+There are other variants of it.
+► 02:03:01
+Wireheading is another one, and that kind of goes.
+joe rogan
+► 02:03:04
+Wireheading?
+roman yampolskiy
+► 02:03:04
+Neuralink.
+joe rogan
+► 02:03:06
+That's a crazy word.
+roman yampolskiy
+► 02:03:08
+Wireheading is a specific attack, and Neuralink would be a tool to deliver it.
+► 02:03:12
+If you provide stimulus to a certain part of your brain, it's like having an orgasm all the time.
+► 02:03:18
+You can't stop trying to get the signal.
+► 02:03:21
+You'll skip food, you'll skip sex, you'll skip whatever it takes.
+► 02:03:25
+So getting access to direct brain stimulation is very dangerous.
+joe rogan
+► 02:03:29
+Yeah, they did that with a woman in the 1970s.
+► 02:03:31
+You know, that's studying.
+roman yampolskiy
+► 02:03:32
+That's part of it.
+► 02:03:33
+And rats, definitely, they did a lot to rats.
+joe rogan
+► 02:03:36
+Right, but they did a lot to rats.
+► 02:03:37
+The thing with rats is only if they were in an unnatural environment did they give in to those things, right?
+► 02:03:44
+Like the rats with cocaine study.
+roman yampolskiy
+► 02:03:47
+This was actual brain stimulation.
+► 02:03:49
+But straight up, they had a button.
+► 02:03:50
+If a rat touches the button.
+joe rogan
+► 02:03:52
+The orgasm.
+roman yampolskiy
+► 02:03:53
+They don't want anything else.
+► 02:03:54
+They just sit there and get rid of them.
+joe rogan
+► 02:03:55
+Just like humans.
+► 02:03:56
+Just like humans.
+roman yampolskiy
+► 02:03:57
+Just like anything with direct reward stimulation.
+joe rogan
+► 02:03:59
+And you think we've sort of been primed for that because we're getting this very minor dopamine hit with likes on Instagram and Twitter.
+► 02:04:07
+And we're completely addicted to that.
+► 02:04:09
+And it's so innocuous.
+► 02:04:10
+It's like so minor.
+► 02:04:12
+And yet that overwhelms most people's existence.
+► 02:04:15
+Imagine something that provides like an actual physical reaction where you actually orgasm.
+► 02:04:21
+You actually do feel great.
+► 02:04:23
+You have incredible euphoria.
+► 02:04:24
+You'd be, That's out the door.
+roman yampolskiy
+► 02:04:29
+You can't compete with that.
+► 02:04:30
+I think there was recently a new social network where they have bots going around liking things and commenting how great you are in your post just to create pure pleasure sensation of using it.
+joe rogan
+► 02:04:42
+Oh, boy.
+unidentified
+► 02:04:45
+Jesus.
+joe rogan
+► 02:04:47
+Do you saw that study of the University of Zurich where they did a study on Facebook where they had bots that were designed to change people's opinions and to interact with these people?
+► 02:05:02
+And their specific stated goal was just to change people's opinions.
+roman yampolskiy
+► 02:05:06
+I think Facebook did that.
+joe rogan
+► 02:05:07
+Yeah, Facebook did it.
+► 02:05:09
+Yeah.
+► 02:05:09
+But the University of Zurich, was that a Reddit thing?
+► 02:05:12
+Yeah, it was on a Reddit stuff.
+unidentified
+► 02:05:13
+Yeah.
+joe rogan
+► 02:05:14
+Yeah.
+► 02:05:14
+And they just experimented with humans, and it was incredibly effective.
+roman yampolskiy
+► 02:05:21
+And your systems know you better than you know yourself.
+joe rogan
+► 02:05:25
+Right.
+roman yampolskiy
+► 02:05:25
+They can predict what you're going to be into in terms of preferences.
+► 02:05:30
+They can know social interactions you would enjoy.
+► 02:05:33
+Oh, this person should be your friend.
+joe rogan
+► 02:05:35
+Right.
+roman yampolskiy
+► 02:05:36
+And in a way, they can behaviorally drift you.
+► 02:05:39
+So you're on a dating site, and the set of options they present to you, that's all you see.
+► 02:05:45
+Nobody else is out there.
+► 02:05:46
+So after so many selections, they can change what the children will look like.
+joe rogan
+► 02:05:52
+Like the movie Ex Machina.
+► 02:05:53
+The guy that fucking love that movie.
+► 02:05:56
+But he designed that bot, that robot.
+► 02:06:00
+It was specifically around this guy's porn preferences.
+► 02:06:05
+Yeah.
+► 02:06:06
+And then you're so vulnerable.
+► 02:06:11
+Boy, Roman, you freaking me out.
+► 02:06:14
+I came into this conversation wondering how I'd feel at the end.
+► 02:06:17
+Whether I'd feel optimistic or not.
+► 02:06:20
+And I don't.
+► 02:06:23
+I just feel like this is just something I think we're in a wave that's headed to the rocks, and we recognize that it's headed to the rocks, but I don't think there's much we can do about this.
+► 02:06:37
+What do you think could be done about this?
+roman yampolskiy
+► 02:06:39
+Again, as long as we are still alive, we are still in control, I think it's not too late.
+► 02:06:44
+It may be hard, may be very difficult, but I think personal self-interest should help us.
+► 02:06:50
+A lot of the leaders of large AI labs are very rich, very young.
+► 02:06:55
+They have their whole lives ahead of them.
+► 02:06:57
+If there is an agreement between all of them not to push the button, not to sacrifice next 40 years of life they have guaranteed as billionaires, which is not bad, they can slow down.
+► 02:07:09
+I support everyone trying everything from governance, passing laws that siphons money from compute to lawyers, government involvement in any way, limiting compute, individuals educating themselves, protesting by contacting new politicians, basically anything, because we are kind of running out of time and out of ideas.
+► 02:07:33
+So if you think you can come up with a way to prevent superintelligence from coming into existence, you should probably try that.
+joe rogan
+► 02:07:41
+But again, the counter-argument to that is that if we don't do it, China's going to do it.
+roman yampolskiy
+► 02:07:47
+And the counter-argument to that is it doesn't matter who creates superintelligence.
+► 02:07:51
+Humanity is screwed either way.
+joe rogan
+► 02:07:53
+And do you think that other countries would be open to these ideas?
+► 02:07:57
+Do you think that China would be willing to entertain these ideas and recognize that this is in their own self-interest also to put the brakes on this?
+roman yampolskiy
+► 02:08:05
+Chinese government is not like ours in that they are usually scientists and engineers.
+► 02:08:10
+They have good understanding of those technologies.
+► 02:08:12
+And I think there are dialogues between American and Chinese scientists where scientists kind of agree that this is very dangerous.
+► 02:08:19
+If they feel threatened by us developing this as soon as possible and using it for military advantage, they also have no choice but to compete.
+► 02:08:27
+But if we can make them feel safe in that we are not trying to do that, we're not trying to create super intelligence to take over, they can also slow down.
+► 02:08:37
+And we can benefit from this technology, get abundance, get free resources, solve illnesses, mortality, really have a near-utopian existence without endangering everyone.
+joe rogan
+► 02:08:51
+So this is that 0.0001% chance that you think we have of getting out of this?
+roman yampolskiy
+► 02:08:58
+That's actually me being wrong about my proofs.
+joe rogan
+► 02:09:01
+You're right.
+► 02:09:01
+And you'd like to be wrong.
+roman yampolskiy
+► 02:09:03
+I would love to be proven wrong.
+► 02:09:04
+Just somebody publish a paper in Nature.
+► 02:09:07
+This is how you control superintelligence.
+► 02:09:09
+AI safety community reads it, loves it, agrees.
+► 02:09:12
+They get a Nobel Prize.
+► 02:09:13
+Everyone wins.
+joe rogan
+► 02:09:15
+But what do we have to do to make that a reality?
+roman yampolskiy
+► 02:09:19
+Well, I think there is nothing you can do for that proof.
+► 02:09:21
+It's like saying, how do we build perpetual motion machine?
+► 02:09:24
+And what we have is people trying to create better batteries, thicker wires, all sorts of things which are correlates of that design, but obviously don't solve the problem.
+joe rogan
+► 02:09:34
+And if this understanding of the dangers is made available to the general public, because I think right now there's a small percentage of people that are really terrified of AI.
+► 02:09:45
+And the problem is the advancements are happening so quickly by the time that everyone's aware of it, it'll be too late.
+► 02:09:51
+Like what can we do other than have this conversation?
+► 02:09:55
+What can we do to sort of accelerate people's understandings of what's at stake?
+roman yampolskiy
+► 02:10:00
+I would listen to experts.
+► 02:10:02
+We have literal founders of this field, people like Jeff Hinton, who is considered father of machine learning, grandfather, godfather, saying that this is exactly where we're heading to.
+► 02:10:16
+He's very modest in his PDoom estimates, saying, oh, I don't know, it's 50-50.
+► 02:10:21
+But people like that, we have Stuart Russell, we have I'm trying to remember everyone who's working in this space, and there are quite a few people.
+► 02:10:30
+I think you had Nick Bostroman.
+joe rogan
+► 02:10:31
+Yes.
+roman yampolskiy
+► 02:10:32
+There is Benjio, another Turing Award winner who's also super concerned.
+► 02:10:38
+We had a letter signed by, I think, 12,000 scientists, computer scientists, saying this is as dangerous as nuclear weapons.
+► 02:10:46
+This is a state of the art.
+► 02:10:48
+Nobody thinks that it's zero danger.
+► 02:10:53
+There is diversity in opinion, how bad it's going to get.
+► 02:10:57
+But it's a very dangerous technology.
+► 02:10:59
+We don't have guaranteed safety in place.
+► 02:11:02
+It would make sense for everyone to slow down.
+joe rogan
+► 02:11:05
+Do you think that it could be viewed the same way we do view nuclear weapons and this mutually assured destruction idea would keep us from implementing it?
+roman yampolskiy
+► 02:11:14
+In a way, yes, but also there is a significant difference.
+► 02:11:17
+Nuclear weapons are still tools.
+► 02:11:19
+A human has to decide to use them.
+► 02:11:22
+That human can be profiled, blackmailed, killed.
+► 02:11:26
+This is going to be an agent, independent agent, not something controlled by a human.
+► 02:11:31
+So our standard tools will not apply.
+joe rogan
+► 02:11:38
+I think we covered it.
+► 02:11:40
+Anything else?
+roman yampolskiy
+► 02:11:42
+No, but it'd be awesome if somebody set up a financial price for solving this problem.
+► 02:11:48
+And it's kind of like with Bitcoin.
+► 02:11:49
+If somebody can hack Bitcoin, there is a trillion dollars sitting there.
+► 02:11:53
+The fact that no one claimed it tells me it's secure.
+► 02:11:56
+If somebody can claim the price for developing a super intelligent safety mechanism, that would be wonderful.
+► 02:12:04
+And if no one claims it, then maybe no one has a solution.
+joe rogan
+► 02:12:07
+How would you do that?
+► 02:12:08
+How would you set something like that up?
+roman yampolskiy
+► 02:12:10
+Well, we need someone with some funds, propose an amount, and say this is what we're looking for.
+► 02:12:15
+It's very hard to judge if it's actual solution, but there are correlates of good science.
+► 02:12:19
+So maybe publish in a top journal.
+► 02:12:22
+It survives peer review.
+► 02:12:23
+It survives evaluation by top 30 experts.
+► 02:12:29
+You can have things, and everyone kind of agrees that, yeah, you kind of got it.
+unidentified
+► 02:12:34
+Okay.
+joe rogan
+► 02:12:36
+Until now, educate yourself, people.
+► 02:12:39
+AI, unexplainable, unpredictable, uncontrollable.
+► 02:12:43
+It's available now.
+► 02:12:44
+Did you do an audiobook?
+roman yampolskiy
+► 02:12:46
+They are still working on it a year later.
+joe rogan
+► 02:12:48
+Still working on it?
+roman yampolskiy
+► 02:12:49
+I don't know what it is.
+► 02:12:50
+I would think AI would just read it out in 20 minutes.
+joe rogan
+► 02:12:52
+Why don't they just do it in your voice with AI?
+roman yampolskiy
+► 02:12:55
+I agree with you completely.
+► 02:12:57
+It took, I think, first version of my book they wanted to translate into Chinese.
+► 02:13:01
+Five years later, they told me they will not do it, five years into the translation.
+► 02:13:06
+So they had a second Chinese translation started.
+joe rogan
+► 02:13:09
+Why didn't they do it?
+roman yampolskiy
+► 02:13:11
+Publishing world is still living in like 1800s.
+► 02:13:15
+Then you cite books, you know you have to actually cite the city the book is published in, because that's the only way to find the book on the internet.
+joe rogan
+► 02:13:22
+What do you mean?
+roman yampolskiy
+► 02:13:23
+Like if somebody wants to cite my book, it's not just enough to have a title and my name.
+► 02:13:28
+They have to say where, in what city in a world it was published.
+unidentified
+► 02:13:31
+What?
+roman yampolskiy
+► 02:13:32
+Yes.
+joe rogan
+► 02:13:32
+Really?
+roman yampolskiy
+► 02:13:33
+Yeah.
+joe rogan
+► 02:13:34
+That's archaic.
+roman yampolskiy
+► 02:13:35
+The whole system is archaic.
+joe rogan
+► 02:13:37
+Wow.
+► 02:13:38
+But yet you still used it.
+roman yampolskiy
+► 02:13:40
+What choice do we have?
+joe rogan
+► 02:13:42
+Digitally publish?
+► 02:13:42
+You could put it on Amazon?
+roman yampolskiy
+► 02:13:44
+It's like still this book, the loaded PTF.
+► 02:13:47
+I don't care.
+► 02:13:48
+Like, please do it.
+► 02:13:49
+Somebody should read it.
+► 02:13:50
+That would help.
+joe rogan
+► 02:13:51
+Yeah.
+► 02:13:51
+Well, more people need to read it, and more people need to listen to you.
+► 02:13:54
+And I urge people to listen to this podcast and also the one that you did with Lex, which I thought was fascinating, which scared the shit out of me, which is why we had this one.
+► 02:14:03
+Thank you, Roman.
+► 02:14:04
+Appreciate you.
+roman yampolskiy
+► 02:14:05
+Thank you so much.
+joe rogan
+► 02:14:06
+I appreciate you sounding the alarm.
+► 02:14:07
+And I really hope it helps.
+
+

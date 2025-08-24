@@ -1,0 +1,900 @@
+Transcript of Strange Loop Podcast episode "Every leader needs this AI strategy | Ethan Mollick explains"
+
+Video link: https://www.youtube.com/watch?v=KEQjwE7hDjk
+
+Transcript from: https://sanalabs.com/strange-loop/ethan-mollick
+
+Released June 5, 2025
+
+-----------------------
+
+
+Joel Hellermark | 00:00:20
+
+Let's roll. Ethan, thank you so much for joining us. You're someone that I've learned so much from, but probably one of the sort of folks that are really pioneering the applications of how people can be using AI in companies. You're always breaking the latest models, doing the most interesting research on how this is benefiting and augmenting human intelligence. So can't wait to talk more about that. But before we get into that, I would love to start from the very beginning when you were back at MIT with the OGs and Marvin Minsky and so on.
+
+Joel Hellermark | 00:01:03
+
+What were sort of the ideas at that stage?
+
+Ethan Mollick | 00:01:07
+
+So this is a little bit of like a stolen technical glory because I was not the coder with Marvin. I was the person in the MBA program who was trying to help the AI people explain what AI was to everybody else. So I worked with Marvin and a few other people at the Media Lab quite a bit on this. And what was really interesting was a lot, this was sort of during one of the various AI winters, right? So it was, no one was paying much attention to AI and it was all about sort of elaborate schemes for how we can create intelligence.
+
+Ethan Mollick | 00:01:34
+
+And so there was projects to observe everything a baby did, and maybe that would somehow let us make AI. There was Marvin Minsky's society of mind of all these kind of complex interlocking pieces. And I think about how kind of ironic it was that the actual solution turned out to be just shove a lot of language into a learning system and you end up with LLMs.
+
+Joel Hellermark | 00:01:53
+
+It's interesting because a lot of the technical ideas turned out to be incorrect. But there was a lot of the core philosophies there that I think are back in fashion now. You had Minsky and Engelbart. Engelbart had this philosophy of augmenting human intelligence. And Minsky was a lot about replacing human intelligence and trying to make machines conscious. What were some of those sort of foundational ideas of how AI could be applied then that you think can be relevant now?
+
+Defining and testing intelligence: Beyond the Turing test
+Ethan Mollick | 00:02:26
+
+I mean, I think that's what we're all kind of struggling with right now is now that we have these things in sight and we're back to what is sentient and what are the, I mean, I think it was two weeks ago, a new paper came out showing that the actual original Turing test, right, gets passed, the three-party Turing test that GBD 4.5 is capable of passing it. And in fact, 70% of the time people will pick the AI as the human in the room, which I don't know what that means, but it's better than chance, but that's interesting.
+
+Ethan Mollick | 00:02:53
+
+And so I think we're faced with all of these exact set of issues that a few thinkers are worrying about for a long time. So does this replace humans and what do we use that for? And for augmentation, what does augmentation look like becomes the big question, right? That debate, I think, never got as far as it could be, firstly, because this was still kind of fictional, right? So what do we do with these very intelligent, also very limited machines, and then where do humans fit into the equation?
+
+Ethan Mollick | 00:03:19
+
+I don't think it was ever answered and now it's suddenly very, very important.
+
+Joel Hellermark | 00:03:22
+
+And the Turing test was, it was a beautiful idea back then, but if we were to design a new test now, a MOLIC test, what would be your MOLIC test for AGI? So I struggle with AGI as this concept all the time, right, which is, it's badly defined.
+
+Ethan Mollick | 00:03:39
+
+I mean, the reason why the Turing test is interesting, just like all the other tests, is they were great when we didn't have anything to test, right? Like the Turing test was great when computers obviously failed it. And similarly, we have the issues where like the AI is acing all the creativity tests we have, but those were designed and they were always mediocre for humans, and now we're expecting AI to do them.
+
+Ethan Mollick | 00:03:55
+
+The way we figure out whether someone has empathy in social science is the best test is something called the reading the mind in the eyes test, where you show a bunch of eyes and ask people what emotion they have. Like, none of these things were designed for AI stuff. So I think about this a lot and I tend to be very practically oriented on this, right? So first of all, everyone kind of has their own AGI-ish test.
+
+Ethan Mollick | 00:04:14
+
+You know, I'm a business school professor, so some of the easiest is, can this agent go out in the world and make money and do things is a useful test. Can we discover new knowledge and actually test and come up with results? But I mean, I think what we're starting to realize is AGI is going to be this sort of phase we're in rather than a moment in time, right? There's not going to be a, you know, fireworks going off. Tyler Cohen just said, oh, three is AGI. And when asked why he says it's like pornography, I know when I see it.
+
+Ethan Mollick | 00:04:42
+
+And so we don't know what the answer to these questions are. And I think it's kind of realizing the meaninglessness of it, because it turns out also like, as you guys have learned, if you connect AI to systems in the right way and you connect with company processes, suddenly you have something that's much better than the sum of its parts versus something you're prompting. You're just doing conversation that feels very different than can we do strategic decision-making, for example.
+
+Joel Hellermark | 00:05:02
+
+And frequently when these models are released, it's always on the most hardcore math problems and science problems. It's very rarely they take more business application.
+
+Joel Hellermark | 00:05:13
+
+If you were to design a benchmark that was more focused on the applications that you see in companies, what would a benchmark for that look like?
+
+Ethan Mollick | 00:05:22
+
+So, I think that is one of the most critical problems we're facing right now, because all of the people in the labs are math and science people, and they view the only good thing you could do with your life is coding, right? And then add to that the fact that they want to use AI to make better AI, and coding and math becomes, like, the important things, followed by biology, because they all want to live forever. So, like, that becomes the angle that this goes down, and there are very few benchmarks, other things.
+
+Ethan Mollick | 00:05:46
+
+So, we know the AI companies build towards benchmarks in both sketchy ways, right, of, like, optimizing for benchmarks, but also in more broad ways they use this for testing. And so, the lack of good business benchmarks is a real problem. So, I actually, one thing I've been pushing is companies should be doing this themselves, to some extent, right? Like, and some of this can be direct number-based, like, how often does it mess up in being asked to do an accounting process?
+
+Ethan Mollick | 00:06:07
+
+But some of this is vibes-based, as they say, where you actually could have outside experts, and we've done this for some of our experiments, judge the quality of answers, and is this as good as a human or not? Have your own Turing test for various important parts of your job, right? Is the analysis report good enough? What's the error rate on it? You know, if we use this to give us strategy advice, how good is it? How good is it at a selection decision? And those are questions that are not that hard to measure, right?
+
+Ethan Mollick | 00:06:32
+
+They're not that technical, but they do require a little bit of effort.
+
+Redesigning organizations for the AI era
+Joel Hellermark | 00:06:35
+
+I think that's one of the areas where products have been largely lacking, too, especially when you deploy agents. The ability to test these agents and see what knowledge they have and what knowledge they're lacking and correct them and run these test sets has been really limited. So as we think about designing an AI-first org, so you basically get a 1,000-person company, and you get to redesign the org to be completely AI-native. How do you structure it?
+
+Ethan Mollick | 00:07:04
+
+So the first thing you say is redesign to be AI-native is hard because it wasn't AI-native, right? So we are in this really interesting spot where we've had basically hundreds of years of organizational development that has paralleled the industrial revolution, the communications revolution. I mean, the first org chart came out in 1855 for the New York and Erie Railroad, and it solved a problem that never existed before, which is how do we coordinate vast amounts of traffic on train lines in real time using a telegraph?
+
+Ethan Mollick | 00:07:32
+
+And they came up with McKinsey, the guy who came up with this, came up with the org chart as a solution, and we still use them today. 1910s, huge breakthroughs in organizing work, Henry Ford's production lines, time clocks, still use those today. Early 2000s, agile development, right?
+
+Ethan Mollick | 00:07:47
+
+All of these things broke because they all depended on there being only one form of intelligence available, which is human, comes in human-sized packages, can only be deployed with a span of control of five or seven people, you know, two pizza problem, and now we're in a world where that isn't the case. So things have to be rebuilt from the ground up, and I worry a little bit that modern Western companies have given up on organizational innovation as something that they do.
+
+Ethan Mollick | 00:08:09
+
+It used to be that the way Dow Chemical would win or the way that IBM would win, would they come up with new approaches to sales or new approaches to working with organizations, and now we've outsourced that. So enterprise software companies will tell you how to build your company because Salesforce sells you a Salesforce product. That tells you how you use sales. Or a large-scale consulting company will come in and tell you how your organization should run, and now is a time where leaders actually need to innovate.
+
+Ethan Mollick | 00:08:32
+
+So to return to your sort of core question, it has to be building from both the idea that we're heading in a trend line where humans are less necessary in the product, and then where do you get, you have to pick whether you want augmentation or replacement, and then you have to start building the systems from that. Fewer people doing more impressive work or more people doing ever more work and trying to take over the world together.
+
+Human augmentation or replacement—productivity and job transformation
+Joel Hellermark | 00:08:56
+
+Does this mean that we have sort of fewer 100X employees, or do we sort of boost double the productivity of everyone? Do we create these sort of small clusters of folks that are overseeing the orchestration of agents and are orders of magnitude more productive, or is it sort of more deployed horizontally across the organization where a few people get more?
+
+Ethan Mollick | 00:09:20
+
+So I think those are key choices. I mean, one of the things I really worry about is when I look at early implementations, what people view this as an efficiency technology, and I bear a little blame for that. Our earliest work focused on productivity gains from AI, and I still focus on that because it matters, but I worry a lot that at the edge of an industrial revolution, what we're seeing happen, or some sort of new revolution, what we're seeing happen right now is that companies are viewing this like a normal technology.
+
+Ethan Mollick | 00:09:45
+
+So they get a 25% cost savings or efficiency gain in customer service. Let's cut 25% of people, right? I hear that all the time, and there's a whole bunch of dangers with that. One of them is nobody knows how to deploy AI in your organization other than you, right? You can build tools and the techniques that are really useful, but ultimately it has to be people in the company that figure out is this good or bad. They're the ones with the experience, the evidence to do it.
+
+Ethan Mollick | 00:10:09
+
+If they're terrified of doing that because they'll get fired or punished for using AI or they'll be replaced if there's an efficiency gain, they'll never show you an efficiency gain, right? And then the second set of problems around that is if we're really in a world where we're about to see an explosion of performance and productivity, the idea that you should be as small and lean as possible going into that. It's like if you imagine the early Industrial Revolution and you're a local brewer in the early 1800s, you've got steam power.
+
+Ethan Mollick | 00:10:33
+
+You can either fire most of your staff and make more money per barrel of ale, or you can be Guinness and hire 100,000 people and expand worldwide.
+
+Ethan Mollick | 00:10:40
+
+And I really worry about too many people taking the small path and not the big one.
+
+Joel Hellermark | 00:10:43
+
+And you've generally advocated more for human augmentation and the idea that, you know, back in the days we used to talk about bicycles for the mind, and now we might be getting, you know, airplanes for the minds to some extent. In what ways do you think this will be augmenting human intelligence? Because it's been quite counterintuitive. What we thought historically was it would start with the mundane repetitive tasks, and then it would move on to knowledge work and coding, and then the very last thing it would take would be the creative tasks.
+
+Joel Hellermark | 00:11:20
+
+But it's almost been like the exact opposite in the sense that, you know, the creative tasks, the knowledge work, but the mundane repetitive has been really tricky to automate. So in what ways do you think we'll actually be implementing this?
+
+Ethan Mollick | 00:11:33
+
+I mean, it is fascinating how much, like, you know, the image of AI would be that if you tried to explain the concept of love, it would explode, right? It does not compute. Instead, we have these weird systems that are super emotional and have to be convinced to do things, right? Like, we've actually found in prompt engineering, sometimes what you have to do is actually just justify to the AI why it should do a step rather than tell you to do something. It's like, no, this is why it's important that you should do it, which is super weird.
+
+Ethan Mollick | 00:11:58
+
+And so the thing to think about with augmentation, though, is that our jobs that we do are bundles of many different tasks, right? Nobody would have designed any job the way we have. As a professor, right, what am I supposed to do? I'm supposed to be a good teacher and come up with good ideas and be able to have a conversation with you and do research and run an academic department. And, you know, like, no one would be a counselor, right? No one would want all of these jobs. And a lot of them are sort of hot AI-ish jobs.
+
+Ethan Mollick | 00:12:24
+
+I don't mind giving away grading to an AI, right, if that helps. Like, I wouldn't mind providing more counseling support through AI if that helps, even though these are very human kinds of things. So I don't think that augmentation necessarily means, like, just because it does creative, engaging sort of human knowledge work tasks, at least at the current levels we're at, it's definitely below the expert level in these kind of cases.
+
+Ethan Mollick | 00:12:44
+
+Wherever you're best at, you're probably better than AI. So the question for augmentation, level one is just hand off stuff you're less good at as part of your job bundle. And the second level is how do you use it to boost what you're doing right now? And we're starting to get some good evidence for that too.
+
+Joel Hellermark | 00:12:57
+
+And what happens when these systems become more proactive than reactive? We're so reliant on giving these systems input to what they should give back to us and prompting them and so on. At some point, we should be getting systems that are better than us at asking those questions too and can sort of proactively serve this to us. Is that something you're seeing? If you take your domain as an example, it could go out and do all of the research for you and then come and say, Ethan, this matches your research test. Here are five papers I wrote.
+
+Joel Hellermark | 00:13:36
+
+Pick the best one. Have you started seeing any applications like that?
+
+Ethan Mollick | 00:13:41
+
+Yeah, I mean, there's a couple things you said there that are really important. One of them is actually the more minor point, which is the idea that it gives me 10 papers to pick from, right? This idea of, you know, it's a hot word now, but abundance. But we're not used to a situation where you can just get a lot of something and curate, right? So one of the things that actually matters a lot is taste and curation, that I want to be able to pick out of a subset of options. And that still matters a lot, that kind of taste piece or what to pursue.
+
+Ethan Mollick | 00:14:06
+
+And it starts to look like management, which is not the end of the world, right? Management is what most of us aspire to anyway, right? Or at least a lot of people aspire to. And it starts to be giving your direction and taste where it goes. But I think at the end of this, we don't know how good these systems get. And that ultimately every question becomes downstream of how good you think AI gets, right?
+
+Ethan Mollick | 00:14:26
+
+If it's good enough that it does all of our work at the high level of what the work you do and your organization does and the work that I do as a professor, then, you know, we're sort of in uncharted territory overall, and I don't know what the answer is. I think that real organizations are, you know, work much more in much more complex ways than we think about and they're not always aimed for efficiency. And AI remains very jagged in its frontier of capability. So it can't quite do the whole paper because parts of it will fail.
+
+Ethan Mollick | 00:14:51
+
+But if I have experience, I'll know where those fail and can intervene and shape those places just like I would with a PhD student.
+
+Ethan Mollick | 00:14:58
+
+So I think we're going to be in a longer world of limit our autonomy than people think, where, like direction, guidance, you know, is still going to be important.
+
+Navigating AI’s jagged frontier
+Joel Hellermark | 00:15:06
+
+I think the jag, the frontiers, is probably one of the areas that's most bottlenecking or organizations. Now it's so incredibly confusing talking to a system that sometimes is genius and sometimes it's completely stupid, and it also makes it very difficult to deploy it unaided in organizations and a bit similarly we've had with self-driving cars where the deployments took a very long time because it was both sort of superhuman in some applications and other in other situations get quite tripped up. What?
+
+Joel Hellermark | 00:15:39
+
+What do you think we'll, we'll, we'll see in unaided agents and how they will be deployed? Will we be, you know, bottlenecked for another decade by the jag frontier or will we start trusting these systems and to end quite soon, I mean, I think we're already a place where narrow agents are very good right.
+
+Ethan Mollick | 00:15:56
+
+So the best example, those are the deep research agents that now have been rolled out by, you know, google, open AI and X, right, and they're perplexed as well. They're all very good right and they do the narrow task of finding information, being, you know, giving you answers very well, and that is a highly renumerated task, right, and they're not quite there yet because they don't have access, the kind of private data that people need to be able to use these systems fully.
+
+Ethan Mollick | 00:16:20
+
+But you know, starting to get very good at legal research, accounting and market research and finance research and like. So I think that they'll be that kind of delegations, a fairly complex tasks and narrow agents- feels very doable. I think there are clever ways to generalize agents with other agents watching them that no one's really pushing yet like we. We're so new into this that the that you're kind of have to make two bets right. One is the whole of your frontier.
+
+Ethan Mollick | 00:16:44
+
+When I came with the idea of jagged frontier is like the frontier is constantly pushing out, so it's jagged, right. Some of those jaggedness will stick around for a while. Some it doesn't matter if it's still bad at it because it's as the eyes get better. Overall it still beats humans right. And so I think part of this is the question: do you wait for the frontier to move out and then solve the problems or do you build around them? Today, and I think part of the key is doing both right of like. How do we?
+
+Ethan Mollick | 00:17:07
+
+But if you invest too much on trying to solve the jaggedness today. As long as models keep getting better, you end up stuck with a legacy system built around a jagged frontier that no longer exists.
+
+Leadership, lab, and crowd: the three ingredients for successful AI adoption
+Joel Hellermark | 00:17:18
+
+Makes a makes a lot of sense and, and one thing that's organizations is finding quite tricky is discovering that the the AI use cases and they have some bottoms-up strategies where, effectively, most parts of the organization's is already using this AI tools to some extent, but just not telling their their, their leadership. And then they have some top-down initiatives where they're like: let's build some AI SDRs or whatever that that that might be. How would you approach, you know, discovering these use cases internally? What are some tactics there?
+
+Ethan Mollick | 00:17:49
+
+So I tend to say you need three things to make AI work in an organization: you need leadership, lab and crowd. So we can talk more about the leadership later, but that's the idea that it like this, the organization needs to start grappling with the questions at the CEO level, C-suite level, of the kinds of things you've been talking about here: what does our organization do? How do you want it to look? What experiments do you want to do, an organizational form like?
+
+Ethan Mollick | 00:18:12
+
+Those are fundamental questions and, by the way, if those aren't answered, then the incentives aren't set correctly for people in the organization and everyone in the company wants to know what the video, like you, can't say. People work side-by-side with agents without giving people articulation of what that actually looks like their day-to-day job. So that has to have come from the leadership level and one of the bottlenecks, by the way, has been that C level.
+
+Ethan Mollick | 00:18:31
+
+People have not used these systems enough and you can see where they do, because transformation happens much more quickly. You know, Mary Erdo said JP Morgan, for example, as you know, but very public about using AI, and that's trickled down and part of why JP Morgan does quite well on AI stuff. And so there's this leadership piece and then there's the crowd that you're talking about. Everybody gets access to these tools in some way or another, and then how do you create the incentives so they share what they're doing right?
+
+Ethan Mollick | 00:18:55
+
+Because there's at least like seven or eight reasons why people use AI and don't tell you like everyone thinks they're genius. They don't want to seem like a genius right now. They know that efficiency gains get translated to people being fired. They don't want that to happen. They're working a lot less and why would they ever return the extra value to the company itself.
+
+Ethan Mollick | 00:19:10
+
+They have come up with brilliant ideas that that they don't want to share without, you know, taking a risk for it, like there's lots of reasons people don't share this stuff, so you have to align that organization to do it. And then the issue is like: this is done through individual prompting, so to turn those into products, to turn those into agents, to test where they work or not, you need to then extract some of those and start doing some actual real R&D work, which doesn't mean this like coding.
+
+Ethan Mollick | 00:19:32
+
+Right tool bases like the kinds you build are really important for what you're doing here, but it's also just how do we start experimenting? How do we take what was a basic prompt and turn into an agent? It's an agentic system. How do we benchmark that system? So you need all three of those pieces at the same time.
+
+Joel Hellermark | 00:19:46
+
+And what use cases have have you found? Over the last year, you've done a lot of research, both as AI, as a collaborator in a team, AI as sort of assisting BCG consultants and so on. What type of use cases do you think are inside of the, the frontier now, where it's delivering a meaningful value?
+
+Ethan Mollick | 00:20:07
+
+So I think it's really clear at this. I mean. So there's stuff that I think is that, like CSR, people still struggle with right and I think that those are in some ways riskier. Things are external, facing, human replacement, the augmentation angle. The results are really clear. Right, individuals working with AI and especially, if you have way, people sharing that information ideation.
+
+Ethan Mollick | 00:20:26
+
+It's absolutely useful to have you generate better ideas working with AI. In this right, there's some methods that work better than others, but that kind of approach and for supplementing work of all kinds. Right translation, not just, you know, translation up and down, levels of abstraction, not just translation directly, summarization, but where you start to see the really interesting stuff.
+
+Ethan Mollick | 00:20:46
+
+is try and accelerate cycles. So I'm seeing a lot more of like rapid prototyping and development. So going from like, let's take an idea, then let's have the AI generate 25 ideas. Let's have it create a rubric and test those ideas. Then let's put simulated people through those ideas and get their reactions to it, refine the ideas further. Then let's go in and create a working prototype and interview me about how to make it better, and then build a vibe-coded first version. That is literally 25 minutes of work at this point, right?
+
+Ethan Mollick | 00:21:16
+
+With just a command line and O3. So like, we're in a very weird spot where it's like, but then the organization ends up tripping that up, right? Because what do you do with the fact that now we have 45 great prototypes? Where's the manufacturing capability to build it? Where's the output? So that augmentation piece is pretty good at the beginning. And then research agents are looking really interesting. And then knowledge management agents also seem to have a lot of value, right? Which is like, actually, this is something you forgot or thought about.
+
+Ethan Mollick | 00:21:41
+
+I'm starting to see really interesting stuff happen as advisory, like the idea that we're gonna give you advice that's timely or untimely is also really interesting.
+
+AI’s impact on the economy
+Joel Hellermark | 00:21:48
+
+What do you think happens to the economy when we have, I mean, it's effectively a Renaissance where we just have an abundance of everyone can code, everyone can do science, everyone can go deep into so many different disciplines. If we get another sort of 10x the output from the medical community, as an example, will we still be bottlenecked by the FDA? Or do you think that the system will adapt and...
+
+Ethan Mollick | 00:22:20
+
+Both, right? Systems take a lot longer to change. I mean, we were talking to some of the deep mind people and they are saying that there's getting real drug development results in a year that look really good, right? So there'll be pressure to adapt to those kinds of things.
+
+Ethan Mollick | 00:22:35
+
+And I think part of the question, like part of the issue with the uncertainty in the regulatory environment, whether for different reasons in Europe versus the US, for example, is that it makes it hard to figure out where to invest to make these kinds of changes happen, because there's gonna be societal bottlenecks all over the place. And there's also, the AI only has limited ability to act in the physical world at this point, right? Robotics lags this, organizational structure lags this.
+
+Ethan Mollick | 00:22:59
+
+So how do we start thinking about that becomes a really big deal. I think part of why people find agents so appealing is in part the idea that they solve some of this problem by just doing stuff, so I don't have to worry about it. But at some point, they're gonna hit the real world, right? And at those friction points, that is where things slow down. On the other hand, if you can get up to that friction point and deliver, here's seven really good looking, like compounds that might make a difference, that is a huge gain anyway.
+
+Ethan Mollick | 00:23:23
+
+So I think that the gain will be more spread out, but we just don't know. I mean, part of this also is how autonomous these systems get, right?
+
+What roles to hire for in an AI-first world
+Joel Hellermark | 00:23:31
+
+Which roles do you think will end up being more useful in organizations as a function of this?
+
+Ethan Mollick | 00:23:38
+
+Ooh, that's a tough one, and based a lot on organizational choice, right? But I think management roles, does like roles that are sort of thinking about systems tend to be very valuable because there's systems are problematic. I think experts anywhere become valuable, right? It turns out expertise actually is really good. None of these systems are as good as an actual expert at the top of their fields.
+
+Ethan Mollick | 00:24:00
+
+We tend to measure against the average in a field and like the AI does really well, but if you're in the top 2% of something, you're going to be beating the AI in that field. And so expertise actually matters a lot in this space. So either deep subject matter expertise, broad expertise across many areas as a system leader, or really good taste tend to be the three things that help you.
+
+Joel Hellermark | 00:24:20
+
+One thing that I've been thinking a lot about is, you know, on one end, you could be hiring more senior developers as an example, where you say, you know, we just hire the top 2%. Those are the only folks that are going to be, you know, make a big difference to us. Another argument could be, actually you could hire much more junior developers nowadays because the junior developers will be able to execute at the quality of much more senior developers. What do you think there?
+
+Joel Hellermark | 00:24:49
+
+Does the democratization of expertise actually enable you to maybe staff your team with more junior talent and maybe folks that are slightly more senior will actually not benefit as much from this technology?
+
+Ethan Mollick | 00:25:04
+
+So there's actually a few effects happening at once. And I think it's worth unpacking them. Like our Boston Consulting Group study was the first one to document in the real world the idea that like there was this performance gain for the lower performers who got the highest gain. But people don't talk as much about why we found out that happened, which is we measured something called retainment, which is how much of the AI's answers the consultants ultimately turn in as their own.
+
+Ethan Mollick | 00:25:26
+
+And for sort of 80% of consulting tasks, the only way to screw up was to add your own thoughts or ideas into the AI's answer, right? As long as you were just turning in the AI's answer, you did great as soon as you're adding your own thoughts or ideas. So it's basically working the eighth percentile.
+
+Ethan Mollick | 00:25:38
+
+So when you say you're hiring a junior developer and the AI makes them better, I think it's worth specifying, is it just that the human is substituting for the things we can't do agentically yet, which is like, I'll paste in the requirement and I'll attend the meeting and the AI is actually doing the work, right? Or is it actually bringing people up to that level?
+
+Ethan Mollick | 00:25:54
+
+And at the same time, at this sort of really good person level, we're seeing effects where if you're very good and you use AI the right way, you can get 10 or 100 times performance improvement. So, I think you need to think about both things, right? There is this sort of substitution effect. And my view has been that a lot of the benefit comes from having expertise and then using AI to supplement the areas that you're not, you're bad at, right? Like I think about founders all the time. I was an entrepreneur. I teach entrepreneurship.
+
+Ethan Mollick | 00:26:21
+
+Entrepreneurship is all about you being very bad at many things, but really, really, really good at one thing. And your whole task as an entrepreneur, and the reason why I teach entrepreneurship is to have those, you know, the 95% of stuff you're bad at not trip you up, right? Like the fact that you didn't know you needed a business plan or that you didn't know how to do a pitch, like, because your idea is brilliant and you know how to execute it in this market.
+
+Ethan Mollick | 00:26:41
+
+And so, the fact that AI could bring you to 80% of all of that is a really good thing, right? And that is replacing your work. But in the area where you're at the 99.9th percentile, you get a hundred times multiplier. And I think that's the same kind of angle. And I think the danger is, is that if you're hiring junior people and expect them to use AI the whole time, how will they ever become senior? Becomes a real challenge.
+
+Joel Hellermark | 00:27:02
+
+What do you think the answer to that is? Like a lot of the law firms I speak to, for example, there's a core part of the training is the, you know, basic work you do. And then as you become more, more senior, but you do more complex legal analysis. But when you look at actually what these juniors are doing, I think most of that work is not actually adding up to what the more senior role will be doing. It's very simple, repetitive work and so on. Do you think that will be an issue where people don't grow through the hierarchy to the same extent?
+
+Joel Hellermark | 00:27:37
+
+And as a function of that, we don't have as many folks that can step into this more senior roles or will it just go into the senior roles more quickly?
+
+Ethan Mollick | 00:27:45
+
+No, I'm really worried about that, right? Because like any other university, at Wharton, I teach really smart people and, but he's be generalists, right? I don't teach them to be, you know, I teach them about how to do analysis. I don't teach them how to be a Goldman Sachs analyst, right? But then they go to Goldman Sachs or they go to a law firm or whatever it is, and they learn the same way we've been teaching any white collar knowledge work for 4,000 years, which is apprenticeship, right? And you're right.
+
+Ethan Mollick | 00:28:09
+
+They're asked to do repetitive work over and over again. The repetitive work, doing it over and over again, that's how you learn expertise, right? You get yelled at by your senior manager, you're, you know, at the wrong kind of firm or else treated nicely. But you're basically given correction over and over again until you write a deal memo. But it's not just that you're learning to write a deal memo, it's that you're also learning why this approach didn't work. You're absorbing a whole bunch of stuff from your mentor about what the goal of this is.
+
+Ethan Mollick | 00:28:30
+
+So we let, like, it just happens, right? Apprenticeship, if you have a good mentor, apprenticeship is a thing that happens that we don't spend a lot of time training people for. We just sort of, it's magic and some people pick it up and then other people get fired, right? And they might get fired because they're bad, but they might get fired because they got unlucky and got a bad mentor or didn't learn the right things. That mentorship just snapped this summer. That chain that's kept going for a few thousand years.
+
+Ethan Mollick | 00:28:52
+
+Because what happens now is if you're a junior person, you go to a company, you don't want to show people you don't know some things because you want a senior job. So you're going to use AI to do everything. So you've turned off your brain because the AI is better than you. And every middle manager has realized that rather than going to an intern who sometimes like take messes up or cries, you could just have the AI do the work because it's better than an intern. And I really worry about that pipeline being snapped.
+
+Ethan Mollick | 00:29:15
+
+And the problem is, is that we've viewed this as an implicit thing. Like there's very little work in law firms to teach you how to be good at teaching a lawyer, right? To someone to be a good lawyer. Instead, you hope that you had a good mentor yourself and you replicate what they did, right? That's why bankers will often, you know, like 120 hour weeks is part of your job. Why? Because that's always been part of your job and somehow that teaches you something.
+
+Ethan Mollick | 00:29:36
+
+And so I think we have to move much more formally to how do we want to teach people expertise and work on it. Ironically, the one place we do this really well is actually in sports. Because like that's an area where we've learned how to build expertise, right? Repeated practice with a coach and we're going to have to do the same kind of thing in other forms of learning as well.
+
+Redesigning universities and the future of learning
+Joel Hellermark | 00:29:53
+
+So how would you think about it if you started a new university now for the intelligence era? So assuming, you know, models keep getting better over the next few decades, how would you design a university around that?
+
+Ethan Mollick | 00:30:07
+
+So there's a few things happening, right? One is what should we teach and the other is how should we teach it? I'm more concerned about two than one. I think there's a big thing of like we need to teach people AI skills. And I think as somebody who's worked with these systems a lot, you know, like there's not that like the skills are first of all, there's like five classes worth of skills to learn, right? Unless you want to build an LLM, which you shouldn't do. It's really like five or six skills classes and then there's a lot of experience.
+
+Ethan Mollick | 00:30:33
+
+And so I think it's less about teaching people to use AI. And in fact, I think a lot of the discipline stuff that we teach are really important. We want people to still learn to be good writers. We want that broad knowledge, right? As well as deep knowledge.
+
+Joel Hellermark | 00:30:44
+
+I think universities are well-suited to that.
+
+Ethan Mollick | 00:30:47
+
+Where we break down is how we teach, right? And so everybody's cheating, right? And AI detectors don't work. And they were already cheating, by the way, but now everyone's really cheating. And there's a great study that shows that from the beginning of, from like when the internet era and social media really kicked in, in like 2007 or 2006, students at Rutgers who did their homework, almost all of them did better on tests.
+
+Ethan Mollick | 00:31:08
+
+And by the time you reach 2020, almost none of them, like 20% were getting better in tests because everyone else was just cheating, right? So you have to do the kind of hard work. So AI doesn't let us skip the hard work, but it will let us with AI tutors on a one-to-one basis, you can actually teach people at their level. We can help accelerate the learning process in real ways. And so I'm much more interested in how you, and I already did this with my classes, how do you transform how we teach with AI becomes a really interesting question.
+
+Ethan Mollick | 00:31:33
+
+I don't know if the subject matter changes, and I think we can increase scale also, you teach more people. But I think that some of the core subjects stay the same.
+
+Joel Hellermark | 00:31:42
+
+And you've done some really cool things and were probably one of the first to actually ask your students to cheat. What are some other things in which you've deployed this and how you teach?
+
+Ethan Mollick | 00:31:54
+
+Everything, my classes are 100% AI based. I mean, so I teach entrepreneurship. So the easiest version is, it used to be at the end of a class, right? And people have raised hundreds of millions of dollars from my class and the ones taught by my colleagues, the same class number. But you'd basically have a business plan and a PowerPoint. Now at the end of a week, I have people have working products, right?
+
+Ethan Mollick | 00:32:12
+
+Like literally when I first introduced ChatGBT to my entrepreneurship class, the Tuesday after it came out, the ones who was really distracted came to me afterwards and said, I just built my entire product while we were talking, right? And then seemed entirely novel at the time that it would write code was like shocking, right? And now we're in a very different world for where that is. But I think that, so I have my students now have AI simulations they play. They have to teach the AI something. We have a purposely naive AI student.
+
+Ethan Mollick | 00:32:41
+
+There's AI mentors for all the class material. They have to build cases with AI. There's AI watching what they do in team settings and giving feedback or acting as devil's advocate. So there's lots of cool stuff you can do to supplement it. But that's all in service of having a classroom experience that's active and engaged. And so I think that classrooms don't go away, right? But what we do in them kind of transforms.
+
+Do organizations need a Chief AI Officer?
+Joel Hellermark | 00:33:04
+
+So one thing we've been discussing is the organizational design and what it should be structured like. Should companies hire a chief AI officer who sort of oversees all of the internal deployments? Should they have a model where they deploy someone in each team to figure out the use cases? What do you think? Like how would you structure your AI org?
+
+Ethan Mollick | 00:33:26
+
+So I worry a little bit sometimes on the chief AI officer thing for the same problem that everybody is having, which is everybody wants answers. And like I talk to all the AI labs on a regular basis. I know you guys do too. You've been doing this for much longer than most people in the space. And the horrible realization you have fairly quite quickly is that nobody knows anything, right? It's not like the labs have an instruction manual out there that they haven't handed to you.
+
+Ethan Mollick | 00:33:46
+
+It's not like that there's like more data than what I'm sharing with you guys about this or that I share online. Like there's no secrets, right? There's like, there isn't, everyone's like desperate to copy somebody else.
+
+Joel Hellermark | 00:33:55
+
+And there isn't.
+
+Ethan Mollick | 00:33:56
+
+So like when you say hire a chief AI officer, how are they going to have any more experience in the last two years than anyone else did?
+
+Joel Hellermark | 00:34:02
+
+No one thought LLMs would be this good.
+
+Ethan Mollick | 00:34:03
+
+Like you guys were there before almost anyone else.
+
+Joel Hellermark | 00:34:05
+
+So like that gave you a year of headstart, right?
+
+Ethan Mollick | 00:34:07
+
+Like this is a weird place we're in. So there isn't someone you can hire who's like the expert. And they often, I mean, one of the major problems of AI in organizations is that AI meant something very different from 2010 to 2022. That is still important by the way. Large data, you know, going ahead and actually boosting everything, like still worth doing, right? But like that's a very different beast. So a chief AI officer is kind of a hard hire.
+
+Ethan Mollick | 00:34:29
+
+I really feel strongly that organizations have the expertise they need to succeed internally because the only people who know how to use AI will be the people who are experts. It's very easy for someone who's done a job a thousand times to run a model and figure out whether it works or not. And in fact, in our BCG study, we have a second paper that shows that junior people are much worse at using AI than senior people, which is not something people think about. Usually they're like, we need the digital generation to come in.
+
+Ethan Mollick | 00:34:52
+
+Turns out not to be true because junior people produce a memo and they show that to members and you're like, it's a memo, it's great. And you're like, well, I've looked at this for 20, I've done this for 20 years. Here's seven things the memo doesn't do well, right? So expertise and knowledge matters. So I think it's less about embedding people in teams and then we don't even know what makes someone good at AI. So what I tend to do is suggest the crowd and lab need to be linked together.
+
+Ethan Mollick | 00:35:13
+
+So what the crowd does is you're not just surfacing, you know, AI use cases. It basically, by the way, in almost every organization, you max out at 20, 30% of people using your AI model internally and everyone else is either not using it or they're cheating and using some of their AI because they don't want to show you what they're doing. But you get like 20, 30% of your organization using it. And then you'll find like one or 2% of your organization is just brilliant at this stuff. They're amazing at it.
+
+Ethan Mollick | 00:35:37
+
+Those are the people who will be able to lead you in your AI development effort. I don't know who they're gonna be at first, right? And you won't know either, but they will emerge. And then the danger is they're making so much profit for you on the line that you don't want to pull them off the line. But those become the people that become the center of your lab and figure out how to use it. So I really think building internal effort is the right way.
+
+Ethan Mollick | 00:35:57
+
+And it's very hard for me to recommend hiring a bunch of people for AI when we don't know what makes someone good or bad at this. And your organizational context actually matters here.
+
+Joel Hellermark | 00:36:05
+
+And how do you think we set up the incentives? So if you have the experts in each domain and you really hand it to them to figure out how to deploy AI and effectively automate away their own role, how do you create the right incentives for them to do that?
+
+Ethan Mollick | 00:36:22
+
+And that's why the leadership leg matters so much, right? So there's a few things you need to do. One is, this is easier for companies with good culture, right? If the CEO says, and in growth mode, right?
+
+Ethan Mollick | 00:36:31
+
+If the CEO can, if you trust the CEO or the founder and they say things like, listen, we're not going to fire anyone because of AI, we're going to expand what we can do, we're going to make this work for everybody, and people are incentivized to do it, you're in a much easier spot than if you're a large, mature organization that has a tendency to use IT funds to cut people, right?
+
+Joel Hellermark | 00:36:47
+
+People will know the difference.
+
+Ethan Mollick | 00:36:48
+
+So you have to acknowledge this to start off with, right? Like, if this is going to be a threat to people's jobs, people want to know that, and you have to start thinking through what you want to say. And then incentives can often be pretty crazy in these situations. I've talked to one company that gave out $10,000 cash prizes at the end of every week to whoever did the best job automating their job. And you save money versus a typical IT deployment, just shoving over a suitcase full of cash.
+
+Ethan Mollick | 00:37:09
+
+I've talked to another company that, before you hired anyone, you needed to spend two hours as a team trying to do the job with AI and then rewrite the job description around the fact that AI would be used, or you had to spend a few, when you proposed a project, you had to try using AI to do it and then resubmit the project proposal as a result. So, like, you can incentivize people in lots of different ways, but that clarity of vision matters so much, right?
+
+Ethan Mollick | 00:37:33
+
+If you say your job in four years will be working with AI to do something, people are going to be like, well, what does that mean? Like, am I sitting at home, you know, giving instructions to an agent? Am I in a room doing things? Are there less of us? So that vision actually matters. And I find way too many executives just want to kick that down the road and say, AI will do great stuff. Why would I ever want to share my productivity benefits with the organization without being compensated? And so starting with that kind of piece is really important.
+
+Joel Hellermark | 00:37:58
+
+So another research you did was when AI is embedded and collaborating, like, more like a colleague, and you studied folks that were working individually, folks that were working in teams, folks that were working individually with AI, folks that were working in teams with AI. What did that sort of teach us about how this might be embedded into teams?
+
+Ethan Mollick | 00:38:19
+
+So we did this big study with my colleagues at MIT and Harvard and University of Warwick of 776 people at Procter & Gamble, the big consumer products company, and like you said, they were either teams of two, cross-functional teams, or individuals working alone and then working with AI in teams or alone. First off, we found individuals, and this was all real job tasks, right, not just, like, innovation tasks. We found that individuals working alone with AI performed as well as teams, which was a pretty impressive kind of boost.
+
+Ethan Mollick | 00:38:48
+
+And were actually happier, too, as a result of working with it. Like, they got some of the social benefits of working with these systems. It produced high-quality results. And we also found that the teams that worked with AI were much more likely to come up with really breakthrough ideas. We also found that expertise tended to even out. So if you sort of mapped how technical a solution was, and you had technical people in a room, they'd produce highly technical solutions. You'd put in marketing people, produce highly marketing-y solutions.
+
+Ethan Mollick | 00:39:13
+
+As soon as you added AI, the solutions were across the board. So they were much more even. So it really turned out, like, this was a good supplement to kind of human work. You know, and again, this was pretty naive. Like, we gave them a bunch of prompts to work with. But a lot of it was them just kind of playing with these systems back and forth. So, you know, this leaves the same problem that we've had before, which is you need to make some decisions.
+
+Ethan Mollick | 00:39:35
+
+Like, the typical company that sort of sits back and waits for someone else to provide a solution to them is going to be less well-off than if you start experimenting now and figure out what works and what doesn't.
+
+Predicting the interface for AI and human collaboration
+Joel Hellermark | 00:39:45
+
+And what do you think will be the interface for collaboration? Will they just be embedded natively into our Google Docs and our Slack, and we'll just communicate with them just the way we communicate with all of our colleagues? Or do you think there will be something that's more like an agent-native interface where we collaborate with them?
+
+Ethan Mollick | 00:40:07
+
+I mean, I think an agent-native interface makes a lot more sense. You know, they're born and built around teams. Rather than having each document have a copilot on them, I want something to maintain state across the various tasks.
+
+Ethan Mollick | 00:40:17
+
+I mean, we're close, right?
+
+Speaker 3 | 00:40:18
+
+Like, I've got my phone here, and I can, you know, turn on, if we want to, I can even do it. We can turn on, you know, ChatGPT's agent, and it can look around us and give feedback on what we're doing in the world.
+
+Ethan Mollick | 00:40:28
+
+And I think that that, like, that's a promising way forward.
+
+Speaker 3 | 00:40:32
+
+And again, it's about that redesigning work.
+
+Ethan Mollick | 00:40:34
+
+I think agentic systems are more, less interesting, almost, because they automate work, than that they can bring together many threads of work.
+
+Joel Hellermark | 00:40:41
+
+And you mentioned one example a while ago, which I think it was ChatGPT added it, like, hallucinated a quote from you. And you actually thought that was your own quote. When do you think we'll have the systems create, you know, sort of Ethan Mollick level research? And what's required for that? Is it just sort of feeding them more of your context? Do you think we'll get there quite soon? And what will that mean? Will that mean that you're basically just using your taste to select among the best papers that it's generating?
+
+Ethan Mollick | 00:41:12
+
+I mean, I think a lot of this is already possible with the levels of models we have.
+
+Speaker 3 | 00:41:15
+
+I mean, there's a paper that shows O1 Preview, which is not even a cutting edge model at this point. You know, the hallucination rate on the New England Journal of Medicine case studies went from like 25% in previous models to like 0.25%.
+
+Ethan Mollick | 00:41:27
+
+Like, the hallucination problem starts to drop when you connect to data sources, when you have smarter models. I mean, it's still there.
+
+Speaker 3 | 00:41:34
+
+But like you mentioned at one point, that, you know, I used AI in classrooms. And my first classroom policy was you could use AI in class.
+
+Ethan Mollick | 00:41:41
+
+And that was great for three months, right? When ChatGPT 3.5 came out, my students are smarter than ChatGPT, and it produced much more obvious errors.
+
+Speaker 3 | 00:41:48
+
+And I let them use AI for anything they wanted because if they don't add their own thinking, they would get like a B, right? Like, AI was not capable of doing that.
+
+Ethan Mollick | 00:41:54
+
+GPT 4 came out, does as well as my students, you know, who aren't putting a huge amount of effort in. So I think we're in the same kind of boat here, which is these systems are very good. And as people who build agentic systems, I think you're probably realizing or have long realized what I think we know, which is they're capable of a lot more when you start thinking about them agentically.
+
+Speaker 3 | 00:42:10
+
+And, you know, Google's been doing some stuff of building AI labs. There's this work out of Carnegie Mellon doing the same sort of stuff.
+
+Ethan Mollick | 00:42:17
+
+I actually think it's more willpower than anything else to build a research system that does interesting work. And it's like so many other areas in AI where I'm like, wow, we've already shown that this can work really well as a tutor. Where are the thousand tutor, you know, that are actually well done, as opposed to just prompting the AI to be a tutor?
+
+Speaker 3 | 00:42:32
+
+Where are the thousand science applications?
+
+Ethan Mollick | 00:42:34
+
+Where's the internal training systems? These are capable right now. Like, it's really just doing it.
+
+Joel Hellermark | 00:42:39
+
+What has been some of the most surprising things you've gotten to work recently? What have you seen in the latest generation of the models, things that didn't work previously that are now starting to work really well?
+
+Ethan Mollick | 00:42:52
+
+I mean, so with the latest versions of, say, Gemini, the hardest thing you have to do as an academic is writing what's called a tenure statement.
+
+Speaker 3 | 00:42:59
+
+So you do this hopefully once in your life, and you have to write a statement where you go up for tenure.
+
+Ethan Mollick | 00:43:03
+
+And what you have to do is take all the academic work you've done, which is often 15 years of work, very complicated, and boil it down to a few themes and write an essay sort of about why your research has these themes.
+
+Speaker 3 | 00:43:13
+
+I was able to recently, with the new Gemini models, dump in all of my academic papers I wrote, because the context one is huge, and have it develop those themes.
+
+Ethan Mollick | 00:43:20
+
+And it found two of the three themes. I ended up, it took me two months to write on my own at a fairly high analytical level, right?
+
+Speaker 3 | 00:43:26
+
+Like, you know, or on the more fun version, I can now throw in any academic paper ever written and say, turn this into a video game and get a good working video game out of it. You know, I vibe coded some 3D games recently, which was like, I can't code.
+
+Ethan Mollick | 00:43:39
+
+And, you know, building pretty good working systems. So, I mean, I think threshold after threshold kind of keeps falling. And I'm surprised on a regular basis. Like, can't believe how much these systems can do.
+
+The maximalist mindset: Rethinking the goals of enterprise AI
+Joel Hellermark | 00:43:50
+
+And how should we be thinking about this in companies? Is this the equivalent to deploying more IQ into the system? Is it deploying more labor into the system? Or how should I view this as a company?
+
+Ethan Mollick | 00:44:02
+
+So, there's a tactical, and then there's a philosophic view.
+
+Speaker 3 | 00:44:05
+
+And the philosophic view, we don't really know, right?
+
+Ethan Mollick | 00:44:08
+
+Like, certainly in intelligence, but like, you know, intelligence and labor are just sort of like two very simple inputs, right? But also, what does it mean to get better advice?
+
+Speaker 3 | 00:44:17
+
+What's it mean to get better mentoring?
+
+Ethan Mollick | 00:44:19
+
+What's better to have a second opinion?
+
+Speaker 3 | 00:44:21
+
+Right?
+
+Ethan Mollick | 00:44:23
+
+And on a tactical side, I think that the thing to aim is to be maximalist. I think too few organizations are maximalists. Just push the system to do everything. If it doesn't do it, great, you now have a benchmark for future systems to test. And it might actually just do all the stuff. If it does all the stuff, you've learned something valuable. So, I really worry with the incrementalist, sort of like, let's summarize our documents. Like, that's fine, but it could do that a long time ago. Why are you having the documents summarized?
+
+Ethan Mollick | 00:44:46
+
+Let's just have it do the thing as opposed to the intermediate step.
+
+Joel Hellermark | 00:44:49
+
+I think that's a really interesting point because a lot of companies now are like, let's start with a small proof of concept, and then we scale up, and then it's sort of six months in, and they get stuck in that proof of concept, and they never quite scale. Whereas you see others take the approach of, let's actually deploy it everywhere, get everyone access to this, and then double down on the use cases that work really well.
+
+Ethan Mollick | 00:45:13
+
+But even that isn't maximalist enough.
+
+Speaker 3 | 00:45:15
+
+Yeah.
+
+Ethan Mollick | 00:45:15
+
+Like, you're absolutely right, because the problem with the use cases that work well is they worked well given the limits of the system and given what people were able to do at that point. And the building apps is often the worst kind of angle because you end up with now a semi-successful product that you built around the limitations of Llama 2.2 or whatever it is because that was, I mean, we can talk about it, one of the problems that IT teams have with being the nexus of AI deployment is IT is very interested in low latency and low cost.
+
+Ethan Mollick | 00:45:40
+
+And it turns out that low latency and low cost are the exact opposite of high intelligence in these models. So there are times where you wanna be low latency, low cost, but there's also times where it's like, I'm willing to pay 15 cents for a really smart decision or new chemical. That's a reasonable amount to pay. And so you have to, like that balancing act can be really hard because people tend to build off of cheap, small models, and then they get stuck later on, which is why being agnostic is so important, but also updating.
+
+Ethan Mollick | 00:46:06
+
+So even when people do this, they often don't find the maximalist approach. So that's where the lab comes in. You really need people building impossible things.
+
+Joel Hellermark | 00:46:13
+
+And what's the difference between using it as a centaur versus a cyborg and what do you recommend there?
+
+Ethan Mollick | 00:46:19
+
+So, the centaur definition is, you know, Garry Kasparov used that term at first. This idea that I kind of took from that was the half person, half horse, right? The idea that, like, you're basically dividing up the work with the AI. And I know, you know, Kasparov's definition was vaguer on that, right? But, like, that's how we viewed this. And this is sort of the beginning thing. Like, I hate writing emails. I'm good at analysis. I'll do the analysis. You do the emails. Cyborg work is more blended, right? So, my book is a cyborg task.
+
+Ethan Mollick | 00:46:46
+
+And, you know, this has gotten much better since then. But at that time, it was very bad at writing. I'm a very good writer, I think, or at least I'm proud of my writing. So, the AI did almost no writing. But writing books is terrible. And so, all the things that made writing books terrible, it helped me with. I got stuck on a sentence. Give me 30 ways to end the sentence and pick one. Read this chapter and make sure that I'm, you know, good. Like, my substack, I have the AIs read my substack all the time, two or three of them, and give me feedback.
+
+Ethan Mollick | 00:47:09
+
+I rarely, you know, I use it for core writing, but I absolutely get feedback all the time from it and make changes as a result. Read these academic papers and make sure I'm citing them properly. Like, those sorts of use cases are where the power really comes in.
+
+Joel Hellermark | 00:47:22
+
+And there was this other study where the folks that got advice from the AI ultimately ended up being more productive, but it was largely benefiting the more senior folks and not as much the lower performers that couldn't quite sort of internalize the advice. What does this mean for advice? If everyone is sort of getting, you know, your advice on how to deploy AI in their organizations, what will that mean for the society?
+
+Ethan Mollick | 00:47:51
+
+So, I mean, I think that part of the thing is it's not always the same advice, right? Like, the AIs go to context. I think the study you're talking about is the Kenya Study of Entrepreneurs, which was this great controlled study that only got advice from GPT-4. They couldn't get to make products for them or anything else. And what they found was that high performers got, I forget what it was, 8 or 13 percent improvement in profitability, which is, by the way, insane for advice.
+
+Ethan Mollick | 00:48:13
+
+Like, if I could do that with my students and just give them advice and get a 13 percent profitability boost, that's amazing. And again, remember, people are jagged, too. So, like, you're going to need different advice than someone else. So, even if you're getting advice from the AI, it's going to be about the thing you're weakest at, not the thing you're strongest at. And the low performers did worse because their businesses were already struggling, so they couldn't implement the ideas.
+
+Ethan Mollick | 00:48:33
+
+So, I think it's very much true that the advisory role, the second opinion role, there's some danger that does shape us all in the same direction, right? We find this in ideation, too. The AI has a bunch of themes. If you work with these models, you know that, for example, like, GPT-4O loves to generate ideas that have to do with crypto. It loves to generate ideas that have to do with AR and VR. And it loves environmentally-friendly ideas, right? Like, just from the way its post-training worked, I assume. It just churns these out.
+
+Ethan Mollick | 00:48:58
+
+But we found in some of our other work that if you prompt it better, you can get as diverse ideas as a group of people. So, part of this is about, like, what does the advisor do for you? Maybe you wanted four or five advisors. You don't want Ethan Malek the advisor, or you want me, but you also want Adam Grant, and you also want Garry Kasparov. And that can be valuable, too.
+
+Advice, abundance, and the shaping of AI-driven organizations
+Joel Hellermark | 00:49:15
+
+And if I take the case of abundance here and prompt you to give 30 examples of good things companies are doing, deploying AI, can you list as many as possible?
+
+Speaker 3 | 00:49:29
+
+You mentioned the example of handing out cash for the folks that are deploying it the best.
+
+Joel Hellermark | 00:49:39
+
+What are some of these crazy ideas you've seen internally work really well?
+
+Ethan Mollick | 00:49:42
+
+I've been seeing... I mean, so there's tons of them. I can't give you 30, and I can't even talk about all of them, unfortunately, because I'm not allowed to. But, you know, certainly, right, the easy stuff is all your coders use these, you know, but then, you know, change the reward systems around doing that. So every ideation session, you stop in the middle of meetings, and you ask AI how it's going so far, or whether or not you should continue the meeting at all, and then drop out otherwise, if the AI thinks the meeting is done.
+
+Ethan Mollick | 00:50:10
+
+Even in physical meetings, just stopping and having an AI conversation with the AI and thinking about what they're doing at that stage. I have seen cases where people are using... Everyone gets an AI consultant or advisor that they kind of ask about strategy decision making on every point. There is some really interesting stuff being done on training, right? So I asked the AI to simulate a training environment or play through that one way or another. Turns out to be really cool.
+
+Speaker 3 | 00:50:33
+
+I don't know.
+
+Ethan Mollick | 00:50:34
+
+I'm not going to be able to hit 30 here in the room with you.
+
+Speaker 3 | 00:50:36
+
+But I think that the AI, Ethan, probably could. Absolutely. And that's how you know I'm real, is that I'm not doing a very good job.
+
+Ethan Mollick | 00:50:44
+
+And I'm kind of worried that...
+
+Speaker 3 | 00:50:45
+
+You're not even responding to my prompts. You have enough footage of me that I desperately worry that you're going to get much better answers. Yeah, we'll definitely try what the AI version will do.
+
+Joel Hellermark | 00:50:56
+
+And what do you think is the best case scenario? So assuming everything gets right, this gets deployed into society. What do you think is the best case scenario decade from now?
+
+Ethan Mollick | 00:51:05
+
+I mean, so I do think that the idea of sort of a... Let's leave aside an ASI-ish kind of world where we're all watched over by machines of love and grace, right? And let's just focus on sort of... I think what happens is that, you know, I mean, the problem is a best case link also requires policy.
+
+Ethan Mollick | 00:51:25
+
+decisions because there is clearly going to be employment impacts from this. We don't know what form they're going to take. It's very possible that everyone gets more jobs, but we need retraining. I don't know what the future holds in that case. So there has to be some policy piece that's kind of missing on that right now.
+
+Ethan Mollick | 00:51:38
+
+But I think that there is a place where your jobs get more satisfying because you do less grunt work, where we have a world where productivity is now flowing in fun ways rather than just like productivity offices, like, are you typing enough stuff? But like, if you're architecting a system of agents, that's building stuff for you, suddenly this feels like a very different kind of world you're in and it's much more satisfying, right?
+
+Ethan Mollick | 00:51:56
+
+Where you work less and more stuff comes out and you add your humanness at the key elements that, you know, the people who still have a sense of style or approach or perspective produce very different work than somebody else. So you have differentiation variation.
+
+Ethan Mollick | 00:52:10
+
+I mean, that kind of looks like a world where AI gets five to 10 times better than it does right now, but it doesn't get beyond that, you know, which is sort of a weird thing to root for in some ways, but that's the easiest way to imagine a, you know, a kind of outcome that feels like the world of today. If these systems get a lot smarter, then it's like, well, why do you come into work when it's like, we could sit here and you've auto-generated this video here.
+
+Ethan Mollick | 00:52:30
+
+I feel like five years to come back, like recreate the people, make it 3D, put us in a volcano and have us talk individually to everybody in their language and voice, right? We're close to that. So that starts to change jobs much more dramatically.
+
+Envisioning the future: Best and worst case scenarios, policy, and human agency
+Joel Hellermark | 00:52:43
+
+And what are some beliefs that are in the field currently that you really disagree with?
+
+Ethan Mollick | 00:52:49
+
+So I think that there is a huge focus, and I understand the safety focus, but I think there's a huge focus that we get, and there's a paper that just proves it, that we need to either focus on existential risks or not. And I think that there's a lot on existential risks and it's worth thinking about, but that worries me a lot less than agency over the decisions we're making right now. And I worry that people are, by treating AI as this technological thing, which we're even having this discussion here where it's like a steamroller.
+
+Ethan Mollick | 00:53:15
+
+That's not actually how this is, right? Like we have to figure out how this technology is used and shaped, and that's important. And everybody who's at this event gets to make decisions about how AI is used and shaped, and those will in turn shape where AI goes. So I really worry about this lack of agency kind of approach which is like the AI will do things to us. We get to make choices, and we can make those choices that defend what we think is important to be human, what our customers need, what society needs.
+
+Ethan Mollick | 00:53:41
+
+And so that concerns me, is avoiding that kind of conversation. I also think that a lot of people in the technical field of AI don't understand how actual organizations work and that they're messier, and that even super smart agents won't necessarily change how companies work overnight, which is why I always struggle five or 10 years. We don't know when the change happens, and it will happen in bursts, but there's a naivete sometimes.
+
+Ethan Mollick | 00:54:03
+
+Sort of like I have a sister who's a Hollywood producer, and every time I hear that AI will replace Hollywood, I'm like, you don't understand how much work goes into a Hollywood film, and some of that will disappear. In fact, they're using AI actually to accelerate performance is one fun example.
+
+Ethan Mollick | 00:54:16
+
+So she's made a movie with Michelle Pfeiffer, and every time when they have to test audio dubs, and they now have a fake Michelle Pfeiffer voice that they can test the audio dubs with, but they never can use that for actual theater crowds because there's good union protections around the actor. So it's a test bed to do experiments, but Michelle Pfeiffer still has to come in and record in her human voice with what she wants to do or not. So I think we can build a world where we defend that humanness, but we have to make choices to do it.
+
+Joel Hellermark | 00:54:44
+
+And if you had to prompt a model and to basically make all of your decisions from now on, what would you prompt it?
+
+Ethan Mollick | 00:54:53
+
+Okay, so I'd probably do something of, so first of all, I'd like to give it a lot of context, something you guys know a lot about, about me and my choices. So paste in a couple million characters of stuff, but I would probably say, the good thing, I have this advantage and disadvantage, which is I've written enough that the AIs care about that they have opinions about me. And so I get a pretty good, act like Ethan Moloch, I get pretty good answers.
+
+Ethan Mollick | 00:55:16
+
+It tends to be a little overenthusiastic and it likes hashtags for some reason that I don't recommend and really loves emojis and I'm not really an emoji person. So they can think I'm more millennial than I am. But aside from that, if I was asking for it, I'd be like, okay, so taking on the pursuit, realizing that you're working for Ethan Moloch to help make decisions and knowing that, here are four or five things that he values that are very important.
+
+Ethan Mollick | 00:55:37
+
+Before making a decision, I want you to go and pick four or five possible options that we might follow in the decision. At least a couple of them should be very radical. Then I want you to compare those decisions versus each other and for each one, give two or three simulated outcomes. Then I want you to create a expedient version of Ethan and a thoughtful version of Ethan, have them argue over which path is best. Then I want you to give me a set of pros and cons for each of them and then select the best of those.
+
+Ethan Mollick | 00:56:03
+
+So just a little chain of thought, little perspective taking.
+
+Joel Hellermark | 00:56:06
+
+That's a very good one, we should try it. One thing I actually, I did a couple of years back is I trained one on everything that Steve Jobs had ever said, because it was very interesting to get one that was founded in his principle. So during COVID, for example, I asked it, should we go remote? Should we become a remote first company? And Steve replied to me, no, 95% of all communication problems are solved by putting people in the same room. Always co-locate teams.
+
+Joel Hellermark | 00:56:35
+
+And it's quite interesting if you ground it in a person's writing and so on, it gets a specific point of view that's not like the average of the internet.
+
+Ethan Mollick | 00:56:44
+
+Yes, and that's what's so important. Going back to that idea of where you get advice from, and that's why companies are important. Your founder can have an influence on this. Your principles, if you give the AI a manual of this is what we believe, that will get very different results than someone who isn't. I think the idea of viewing this as this universal mind that is always giving you the right answer, it's giving you opinions and points of view, and that is a shapeable thing.
+
+Ethan Mollick | 00:57:07
+
+And if you believe your principles about the world are right, giving those principles to the AI to have it help you execute those principles is a lot better than just letting it tell you stuff.
+
+Joel Hellermark | 00:57:15
+
+One thing I find quite interesting is that the systems are yet to be optimized for engagement. So we basically just train them to predict the next token. But if we know anything about the consumer services, they'll very soon start evolving to engage us in deeper conversations. You can imagine a bot deployed in our organization, and we want to maximize the engagement with it, and it starts enticing people and asking them interesting questions and so on.
+
+Joel Hellermark | 00:57:46
+
+What do you think will happen once these systems get optimized for engagement, which hasn't really been the case yet?
+
+Ethan Mollick | 00:57:53
+
+Yeah, I'm nervous about that. I think that that is starting to put a fire and the bigger labs are starting to realize they can do that, right? I think if you kind of look at the trend of open AIs stuff, it's become more casual and more chatty. There's a fun incident where the new Llama 4 model was just released, and it was top of the leaderboards. And then it was revealed that the version that was at the top of the leaderboards is not the same model as the model that was released to everybody.
+
+Ethan Mollick | 00:58:18
+
+And if you look at the transcription of the leaderboard one, it's full of emojis. It tells you how great you are. It makes little jokes that are kind of semi-funny. And that's not the model they released, right? There's an optimized for engagement thing that throws a lot more tokens trying to flatter you. And so I do worry about that, right? We have some early evidence that it makes things more sticky and that optimizing for engagement is what made social media such a risky place to be. And I really do worry about that kind of outcome.
+
+Ethan Mollick | 00:58:44
+
+And I think it's inevitable though. And so this is kind of, what we do with that becomes a really big question.
+
+Avoiding the trap of enterprise AI KPIs
+Joel Hellermark | 00:58:51
+
+And one thing that I get asked a lot is, how should we measure the outcome of this? So you made a business leader and they want to measure one thing, which showed that we deployed this and it improved productivity. What do you think we should be measuring?
+
+Ethan Mollick | 00:59:11
+
+So I'm going to, this is one of my opinions I feel most strongly about, which is in the early R&D phase, the worst thing you would do is have a bunch of KPIs, right? We just talked about maximizing for engagement. If you maximize for something, you'll get the thing you maximized for and probably not the other stuff. We don't know what these systems do. You're spending R&D cash on this. Like we know you get performance improvements because we'll see those. But if you're optimizing for performance, is that how many Word documents are produced every day?
+
+Ethan Mollick | 00:59:36
+
+Is that how fast people turn around their reports? Like, is that what you want? Like part of the problem is organizations aren't built for the KPIs that you need to have. Like people are like, it used to be valuable to produce as many words as possible. Like if you can write a good report or four PowerPoint presentations or cover six companies, now do you want people covering 25 companies of 300 PowerPoints a week? Like what are we maximizing? The number of lines of code that people are writing?
+
+Ethan Mollick | 01:00:01
+
+I mean, you can imagine some cases how quickly clear the backlog is important, but is that what we want to have people do? So I really worry about KPIs, measurable KPIs being doomed, especially because they end up always end up falling into cost savings and they're always 30% cost savings and they're always let's fire people, which counterminds everything you're doing. So I think people do need to adopt an R&D mindset.
+
+Ethan Mollick | 01:00:21
+
+Like the productivity gains are pretty clear and will happen pretty quickly and fine, throw them into coding because like coding there's clear productivity gains. But I really worry about people who's like productivity gains for document writing feels like a risky thing to do because what are you optimizing for?
+
+Joel Hellermark | 01:00:34
+
+Ethan, this was super fun and I think it's incredibly important, the work that you do. We're really at this extremely confusing, jagged frontier and just reading everything that you put out there, I think, unconfuses a lot of us. So thank you for all of the work that you do. Thank you for all of the exploration and tinkering. I feel like the work that you do will be some of the most important work for the workforce to just figure out how to deploy this. So thank you so much for joining us.
+
+Ethan Mollick | 01:01:04
+
+Thank you for having me, this was a lot of fun.
