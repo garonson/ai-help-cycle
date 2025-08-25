@@ -1,0 +1,98 @@
+Holy s***! Oh f***…
+A good friend in product development sent me this message recently:
+
+
+If you have used AI’s help to accomplish a difficult task, this feeling should be familiar. You’re amazed with your new AI-enabled hyper-productivity and then hit with sudden fears about your own relevance. I have felt this a few times before, but the pattern wasn’t clear until I saw my friend’s message written out.
+
+Thanks for reading AI Help Cycle! Subscribe for free to receive new posts and support my work.
+
+So I was struck when I heard the same amazement and fear a few days later in the recent conversation between the #6 ranked American podcaster Theo Von and OpenAI CEO Sam Altman.
+
+The Von-Altman Interview
+I listened to the interview while weeding the garden and was very entertained. Von is representative of the modal naive American AI user as of summer 20251 and sounds uncomfortable with all the future AI unknowns. Altman is generally optimistic while accelerating humanity toward an unknowable future very different from anything we can clearly imagine.
+
+I found myself mentally mapping the AI topics discussed on a 2x2 matrix showing the degree of excitement or fear about a hypothetical future AI scenario, and its potential impact on human existence were the hypothetical scenario to be realized. I.e., a visualization like this, but tailored for the conversation.
+
+
+When I finished the podcast I hacked together a transcript and explored the fears, hopes, and their existential implications on humanity’s future with LLMs.2 As of summer 2025, LLMs are very good at “understanding” human emotion, so they are an ideal tool to extract qualitative emotional maps of AI conversations. Results from this lightweight exploration shown in the scatterplot below.
+
+
+Modestly interactive version of the viz for desktop users here—mouse over points to explore quotes from the conversation and judge for yourself how well the LLMs did at extracting and categorizing AI themes.
+
+
+Observations:
+
+No surprise, Altman dominates the “Excitement / High Impact” quadrant with extreme hopes like exponential AI progress solving all possible human problems. But Von is also excited about ideas like AI revealing the meaning of life and the possibility of an AI president which makes all the right decisions.
+
+Altman also voices significant fears—most notably AI-enabled government surveillance and the question as to whether he is unleashing the equivalent of the atomic bomb v2. But Von dominates this quadrant overall.
+
+The distribution of both Von’s and Altman’s fears and excitements is HEAVILY skewed toward the high end of the High Impact quadrants. I.e., every mention of AI had existential implications.
+
+Increasing the AI Content Sample Size
+Assuming I must have just cherrypicked the most hyperventilating recent AI conversation to which a modal American AI user is likely to be exposed, I searched for other high-engagement AI conversations that shape public perception. Here is a completely unsurprising result from Joe Rogan and AI safety researcher Roman Yampolskiy on AI risk (viz link):
+
+
+Clearly I needed to add more optimistic and less hyperbolic content to my sample—perhaps from the rare academic who really likes AI. Here’s Wharton business innovation professor and leading “AI for work” proponent Ethan Mollick interviewed by an AI entrepreneur re: AI at work (viz link).
+
+
+In retrospect, I should have expected an academic to problematize the thing he’s promoting. How about a recent, notable think piece that was overtly anti-hype? Dwarkesh’s “Why I Don’t Think AGI Is Around the Corner” post generated a lot of controversy in the AI opinion-having community but still contains plenty of hype (viz link):
+
+
+Consciously dialing down the hype, I looked toward the calm, reassuring, and reliably optimistic Andrew Ng at a recent Y Combinator talk. Thankfully, he spares us from the extreme hype and doom (viz link):
+
+
+You Need to Calm Down: A “Normal” Conversation Visualized
+And, finally, a true palate cleanser: Taylor Swift’s record-breaking appearance on the Kelce brothers’ podcast a couple weeks ago (viz link):
+
+
+This is what a “normal” human conversation looks like! Swift and the Kelce brothers express a range of strong positive and negative emotions, but the closest we get to existential human concerns are topics like the economics of content platforms and the implications of mass fan mobilization.
+
+Wouldn’t it be nice if we could find an example of popular, high signal-to-noise AI content highlighting everyday AI utility?
+
+A Reference Example of Quality, Practical AI Content
+Luckily for us, the internet does contain plenty of examples of quality AI content focused on the practical and applied rather than abstract hypotheticals. E.g., Andrej Karpathy’s excellent and widely viewed YouTube videos, like “How I use LLMs,” which skew away from existential topics and toward “low impact” advice and intuition-building for novices and devs alike (viz link).
+
+
+This visualization of Karpathy’s video shows us very clearly what “practically useful AI content” looks like. Of course, it is important to keep the existential in mind when thinking about AI present and potential futures—it is reshaping our brains and daily lives, rapidly and unpredictably—but it’s unhelpful to over-index on the existential at the expense of the practical.
+
+So, when ingesting AI information, ask yourself, "Roughly what percent of this information is specific and actionable vs. abstract and existential?” If your mental map of the information looks less like the visualization of Karpathy’s instructional video above and more like the visualizations of the abstract, hypothetical conversations earlier in this post, you risk being distracted by a variant of a conversation you’ve probably already heard before.
+
+There’s already a surplus of writing about AI hype and tech and the Attention Economy, but for people genuinely wanting to learn more about working with and living with AI, it’s useful to remember:
+
+Financial incentives produce a noisy AI information environment focused on abstract hypotheticals, distracting the popular AI discourse away from important practical questions, e.g.:
+
+“How do I know when it makes sense to use AI, and which tools to use?”
+
+“The AI output didn’t meet my expectations, what do I do now?”
+
+“By what mechanism can I submit feedback to an accountable party re: the AI-ification of my life?”)
+
+The popular AI discourse is anxiety-inducing because of its existential bias
+
+Distracted and anxious people cannot think clearly about AI, learn how to use it effectively, or build toward a positive vision of a future AI-enabled world.3
+
+Moving Forward
+We can clearly see the bias toward abstract, hypothetical discussions in popular AI discourse, and now we have a mental map of more useful, practical AI content. With this distinction clarified, we are better equipped to manage our individual AI discourse “context windows” and keep our attention focused on what matters. Concrete recommendations:
+
+Keep Calm. Easier said than done. The AI hype machine intimidated Ezra Klein into proclaiming AGI was imminent in March, and even Tyler Cowen thought GPT-o3 was AGI back in April. AI tools are getting vastly better quickly, but contra everyone with a financial interest in AI hype, AI is not “smarter” than you in any meaningful sense.4
+
+Consciously manage your exposure to low signal-to-noise news sources. I subscribe to too many AI newsletters, most of which are low effort link clickbait. Most of the AI information you consume is probably clickbait, too. If you are (or aspire to become) a “practical” but non-technical AI user, Ethan Mollick’s newsletter is a good starting point. If you are a technical AI practitioner and feeling overwhelmed, you already know that everybody else also feels this way. If you don’t have a useful content surfacing/filtering mechanism in place yet, swyx’s AI news newsletter allows me to skim the “what” of daily AI updates.
+
+Focus on the why and how in AI news. If you can minimize distracting noise from too many AI “what” updates,5 you will have the mental bandwidth to ask questions that actually matter to you. Try asking questions about the why and the how of AI—i.e., “why was this [new AI thing] developed, and why might it be relevant to my work?” and “how can I test whether it might be useful?” LLMs can be useful tools to assist your thinking here. Practical, proven advice on working with AI—how to select tools, how to diagnose subpar output, how to iterate, etc.—in future posts.
+
+GitHub repo of transcripts, visualization code, etc.
+
+1
+I.e., a normal person who equates “AI” to “the ChatGPT UI”, who doesn’t know AI history, taxonomies, current debates, or future directions. From this perspective, it’s all black box magic controlled by wizards like Altman.
+
+2
+Search did not reveal free versions of the transcript, so I pointed Gemini 2.5 Pro at the interview’s YouTube URL, processing it manually via Google AI Studio UI because the native YouTube timestamp selection feature allows you to easily chunk video inputs to stay within Gemini’s context window limits. Analysis via a combination of GPT-5 (sub-model autoselected because OpenAI hadn’t restored the model picker at this point) and Sonnet 4.0.
+
+3
+AI is here, the genie is out of the bottle, there is no going back to the “before” times. Those of us still in denial about this point are much better served by starting to engage with AI rather than continue avoidance.
+
+4
+As of mid-2025, AI struggles outside of the information to which it has been exposed, and it cannot learn like you do. AI lacks “street smarts,” experience-based wisdom, and agency in the physical world. Nassim Taleb is helpful with general claims about intelligence, and Andriy Burkov is helpful with claims about AI intelligence, specifically. AI evolves quickly, and we don’t yet know whether the assumptions guiding recent AI successes will reveal fundamental limitations to continued improvement.
+
+5
+E.g., “Altman says in 2035 Gen Alpha will be working high-paying jobs in space.”

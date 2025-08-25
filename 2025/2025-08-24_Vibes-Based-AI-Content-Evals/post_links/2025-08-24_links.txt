@@ -1,0 +1,73 @@
+# Links for https://aihelpcycle.substack.com/p/vibes-based-ai-content-evals
+
+
+## External
+
+altman - von
+https://www.youtube.com/watch?v=aYn8VKW6vXA
+
+rogan - yampolskiy
+https://www.youtube.com/watch?v=j2i9D24KQ5k
+
+mollick - hellermark
+https://www.youtube.com/watch?v=KEQjwE7hDjk
+
+dwarkesh
+https://www.dwarkesh.com/p/timelines-june-2025
+
+andrew ng
+https://www.youtube.com/watch?v=RNJCfif1dPY
+
+swift-kelces
+https://www.youtube.com/watch?v=M2lX9XESvDE
+
+karpathy
+https://www.youtube.com/watch?v=EWvNQjAaOHw
+
+klein - agi is coming
+https://www.nytimes.com/2025/03/04/opinion/ezra-klein-podcast-ben-buchanan.html
+
+cowen - o3 is agi
+https://marginalrevolution.com/marginalrevolution/2025/04/o3-and-agi-is-april-16th-agi-day.html
+
+mollick newsletter
+https://www.oneusefulthing.org/
+
+smol ai newsletter
+https://news.smol.ai/
+
+nassim taleb - intelltectual yet idiot
+https://medium.com/incerto/the-intellectual-yet-idiot-13211e2d0577#.ntt8r6u7f
+
+andriy burkov - interview w/ john krohn on superdatascience podcast march 4 2025
+https://www.superdatascience.com/podcast/sds-867-llms-and-agents-are-overhyped-with-dr-andriy-burkov
+
+fortune article altman hype 20235 gen alpha
+https://fortune.com/2025/08/11/openai-ceo-sam-altman-10-years-gen-alpha-college-graduates-working-in-solar-system-well-paid-jobs-as-gen-z-struggles-todays-job-market/
+
+
+## Visuals
+
+intro example scatterplot
+https://claude.ai/public/artifacts/25aa6668-b202-41d4-90c3-410ab7c6ec9c
+
+von - altman
+https://claude.ai/public/artifacts/4c9bc989-399c-4e6c-ab32-46acdafb8648
+
+rogan - yampolskiy
+https://claude.ai/public/artifacts/ceaca6ef-e6a9-44b6-a1e4-979dc1502fe6
+
+mollick - hellermark
+https://claude.ai/public/artifacts/19b46c68-4380-453b-83f3-b0e93454c260
+
+dwarkesh
+https://claude.ai/public/artifacts/38747a24-28e9-4f06-9dff-6c48ec0dea89
+
+ng
+https://claude.ai/public/artifacts/aba26c62-8e11-4316-b5ac-997e8d951d5a
+
+swift + kelces
+https://claude.ai/public/artifacts/ccecf28d-0960-4d2c-97e0-ee6d8426a9c8
+
+karpathy
+https://claude.ai/public/artifacts/612f951e-5bf4-452a-9bb5-a8ddec4e7b0c
